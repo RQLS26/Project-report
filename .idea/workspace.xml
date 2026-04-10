@@ -39,10 +39,16 @@
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\david\WebstormProjects\Project-report\docs\assets\common" />
       <recent name="C:\Users\david\WebstormProjects\Project-report\docs\front-matter" />
     </key>
   </component>
@@ -60,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775840679979</updated>
-      <workItem from="1775840681489" duration="7200000" />
+      <workItem from="1775840681489" duration="8189000" />
     </task>
     <servers />
   </component>
