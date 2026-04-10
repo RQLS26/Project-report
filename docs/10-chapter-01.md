@@ -14,7 +14,7 @@
 | **Castillo Yataco, Mauricio Sebastián** | Soy estudiante de Ingeniería de Software, apasionado por la creación de soluciones tecnológicas que mejoren la vida de las personas. Mi enfoque va más allá de la programación, ya que me interesa desarrollar experiencias digitales que sean tanto funcionales como agradables para el usuario, Conocimiento básico en el lenguaje de C++, Html y CSS, presento además las aptitudes de responsabilidad, cooperación, comunicación, flexibilidad y adaptabilidad. |
 | **Morales Venegas, David Joel** | [Descripción pendiente] |
 | **Paucar Zenteno, Jesús Fernando** | Soy un estudiante de ingeniería de software con una gran pasión por la creación de soluciones innovadoras. Me considero una persona proactiva y orientada a resultados, siempre buscando aprender y aplicar nuevas tecnologías. Mi objetivo es contribuir de manera significativa al proyecto, asegurando que cada tarea se complete con la más alta calidad y eficiencia. |
-| **Viza Quispe, Marlon Packard** | [Descripción pendiente] |
+| **Viza Quispe, Marlon Packard** | Estudiante de 20 años, responsable y proactivo, con una sólida base técnica en C++. Destaco por mi capacidad para aportar soluciones creativas y mi compromiso con el aprendizaje constante en entornos profesionales. Busco asumir retos que potencien mi desarrollo y contribuyan al éxito colectivo de mi equipo. |
 
 ---
 
