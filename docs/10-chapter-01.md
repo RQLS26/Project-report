@@ -3,9 +3,13 @@
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
-**RQLS (Requisitions, Quotes, Logistics System)** es una startup tecnológica peruana enfocada al desarrollo de soluciones Software as a Service (SaaS) para la optimización de procesos operativos en el sector construcción. Nuestra organización se enfoca en cerrar la brecha digital en las pequeñas y medianas empresas (MYPES) constructoras mediante herramientas que transforman la gestión logística empírica en un proceso basado en datos, transparencia e incluso eficiencia.
+**RQLS (Requisitions, Quotes, Logistics System)** es una startup tecnológica peruana enfocada en el desarrollo de soluciones Software as a Service (SaaS). Nuestra organización se especializa en cerrar la brecha digital en las micro y pequeñas empresas (MYPES) del sector construcción. Según el Instituto Nacional de Estadística e Informática (INEI, 2024), las MYPES representan el 99,7% de las unidades económicas del país y enfrentan costos logísticos que ascienden al 21,1% de sus ventas (ComexPerú, 2023). RQLS transforma la gestión operativa empírica en procesos basados en datos y transparencia.
 
-**Misión:** Centralizar la comunicación entre el campo de trabajo y la oficina administrativa con el objetivo de eliminar sobrecostos y retrasos innecesarios durante la ejecución de obras.
+**Misión:** Democratizar el acceso a herramientas de control logístico para las MYPES constructoras, permitiéndoles eliminar sobrecostos mediante la centralización de datos en tiempo real (Pacco Constructores, 2021).
+
+**Visión:** Ser el estándar tecnológico en la gestión de abastecimiento para el sector construcción en Latinoamérica hacia el 2030.
+
+**Valores:** Transparencia operativa, integridad de datos, innovación centrada en el operario y eficiencia.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
