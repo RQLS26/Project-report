@@ -49,55 +49,180 @@ El retraso en la madurez digital del sector construcción se refleja en que el 4
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
-Actualmente, las empresas del sector construcción gestionan sus compras y requisiciones de manera informal y desordenada, utilizando herramientas no especializadas como Excel, WhatsApp o papel. Esto genera un problema crítico en la comunicación entre el Ingeniero en obra y el área de Logística, resultando en pérdida de tiempo, compras sin cotizaciones comparativas y nulo control gerencial. ¿Cómo podemos diseñar un Sistema Web SaaS que centralice y automatice el flujo de requisiciones, desde la solicitud inicial en obra hasta la aprobación gerencial y emisión de la Orden de Compra?
+Las micro y pequeñas empresas (MYPES) constructoras de Lima Metropolitana gestionan los requerimientos de materiales mediante herramientas informales como WhatsApp o registros manuales en papel. Esta fragmentación de la información dificulta la trazabilidad de los pedidos, impide la comparación técnica de cotizaciones y retrasa la aprobación oportuna de compras por parte de la gerencia. Como consecuencia de esta gestión empírica, las organizaciones enfrentan sobrecostos operativos por compras de emergencia y retrasos críticos en la continuidad de obra que erosionan su rentabilidad neta.
+
+Ante esto nos surge la siguiente pregunta:
+¿Cómo podría una plataforma SaaS de bajo costo centralizar las requisiciones y aprobaciones para reducir el lead time de compra y mejorar el control operativo?
 
 #### 1.2.2.2. Lean UX Assumptions
-
 **Business Assumptions:**
-1. Las empresas constructoras están dispuestas a pagar por licencias de un software SaaS para modernizar y controlar su logística.
-2. El sistema reducirá significativamente los tiempos de abastecimiento y evitará compras de emergencia no autorizadas.
-3. El valor principal para los tomadores de decisiones (Gerentes) es la visualización de cotizaciones comparadas antes de aprobar un gasto.
+1. Se considera que los clientes requieren formalizar los pedidos de materiales desde obra para reducir errores y el desorden sistemático en el abastecimiento (Rodríguez Vargas, 2019).
 
-**User Assumptions:**
-1. Los Ingenieros (residentes de obra) necesitan una interfaz rápida e intuitiva para solicitar materiales formales sin tener que hacer la compra directamente.
-2. El personal de Logística/Compras requiere un módulo para gestionar proveedores y subir cotizaciones al sistema ágilmente.
-3. Los Gerentes necesitan un dashboard claro que les permita aprobar o rechazar compras de forma remota con un solo clic.an un dashboard claro que les permita aprobar o rechazar compras de forma remota con un solo clic.
+2. Se plantea que esta necesidad puede resolverse mediante una plataforma web SaaS accesible desde dispositivos móviles, capaz de automatizar el flujo de cotizaciones y aprobaciones jerárquicas.
 
-**Business Outcome Assumptions:**
-* Reducir en un 40% el tiempo administrativo desde la creación de la requisición hasta la emisión de la orden de compra.
-* Lograr que el 100% de las compras institucionales pasen por un flujo de aprobación con sustento de cotización.
+3. Se identifica como segmento inicial a micro y pequeñas empresas constructoras con sede en Lima Metropolitana y facturación anual menor a 1.700 UIT (INEI, 2024).
 
-**User Outcome Assumptions:**
-* Reducir en un 40% el tiempo administrativo desde la creación de la requisición hasta la emisión de la orden de compra.
-* Lograr que el 100% de las compras institucionales pasen por un flujo de aprobación con sustento de cotización.
-  **Features:**
-* **Módulo de Creación de Requisiciones:** Interfaz simplificada para que el Ingeniero de Obra solicite materiales y cantidades específicas.
-* **Directorio de Proveedores y Cotizaciones:** Espacio para que Logística registre a sus proveedores y adjunte las propuestas económicas.
-* **Panel Comparativo y Sistema de Aprobación:** Interfaz donde el Gerente revisa las opciones de precio y autoriza el gasto con un clic.
-* **Generador de Órdenes de Compra Automáticas:** Emisión de documentos PDF oficiales y automáticos tras la aprobación gerencial.
-* **Dashboard de Trazabilidad de Estados:** Panel visual en tiempo real para rastrear el ciclo de vida de cada solicitud.
+4. Se asume que el principal valor percibido por el cliente será la visualización comparada de cotizaciones en tiempo real antes de autorizar un gasto, con el fin de respaldar decisiones más rentables.
+
+5. Se prevé que el cliente también obtendrá beneficios adicionales, como un historial digital de proveedores, reportes de gasto acumulado y mayor transparencia para auditorías.
+
+6. Se proyecta que la adquisición de clientes se realizará mediante estrategias de marketing digital B2B segmentado y alianzas estratégicas con gremios del sector, como CAPECO.
+
+7. Se estima que el modelo de ingresos más adecuado será una suscripción mensual basada en el volumen de obras o proyectos activos gestionados por la constructora.
+
+8. Se considera que la competencia principal estará conformada por el uso tradicional de WhatsApp y Excel, así como por sistemas ERP complejos e inaccesibles para el presupuesto MYPE, como SAP u Odoo.
+
+9. Se sostiene que la propuesta podrá diferenciarse mediante una arquitectura de información diseñada específicamente para el flujo campo-oficina, reduciendo la complejidad innecesaria.
+
+10. Se presume que el principal riesgo del producto es que el personal de campo mantenga el uso de canales informales si el flujo digital no reduce de forma clara el tiempo de coordinación frente a los canales actuales.
+
+11. Se plantea que este riesgo puede mitigarse mediante un sistema de requerimientos en “3 clics”, diseñado para smartphones y más ágil que redactar un mensaje de texto.
+
+12. Se asume que, si se comprueba que las constructoras no están dispuestas a pagar por control digital pese a las pérdidas actuales, el proyecto no será viable.
+
+**Business Outcome Assumptions**
+1. Reducir en un 40% el tiempo administrativo desde la creación de la requisición hasta la emisión de la orden de compra.
+
+2. Lograr que el 100% de las compras institucionales cuenten con un registro digital auditable y pasen por un flujo de aprobación con sustento de cotización.
+
+3. Disminuir las desviaciones presupuestarias por compras de emergencia no planificadas en un 15% (Tarraga Durand & Miranda Mitma, 2025).
+
+4. Incrementar la visibilidad del margen de utilidad neta por proyecto al contar con costos de materiales centralizados y actualizados diariamente.
+
+**User Assumptions**
+1. Los jefes y gerentes requieren una herramienta que les permita aprobar compras críticas sin estar físicamente en la oficina.
+
+2. Los jefes de proyecto valoran la posibilidad de delegar el proceso de cotización al área de compras, manteniendo siempre la decisión final sobre la elección del proveedor.
+
+3. La gerencia espera que el sistema genere automáticamente cuadros comparativos de precios para evitar el análisis manual de múltiples correos electrónicos o archivos PDF.
+
+4. El segmento objetivo necesita una solución que alerte de forma proactiva cuando un pedido de materiales supere el presupuesto asignado para una partida específica de la obra.
+
+
+**User Outcome Assumptions**
+1. Los jefes de proyecto experimentarán un aumento en la precisión de sus auditorías financieras al contar con un historial inalterable de quién solicitó, quién cotizó y quién aprobó cada insumo.
+
+2. Los gerentes se sentirán más seguros respecto al uso del capital de la empresa al visualizar sistemáticamente al menos tres opciones de cotización antes de autorizar cualquier desembolso significativo.
+
+3. Los responsables del negocio experimentarán una reducción del estrés operativo al disminuir las llamadas de emergencia por desabastecimiento, permitiéndoles enfocarse en la planificación estratégica y comercial.
+
+4. Los jefes de proyecto confiarán más en la veracidad de los datos de inventario y pedidos pendientes, lo que facilitará una coordinación más fluida con los clientes finales respecto a los plazos de entrega de los inmuebles.
+
+5. El segmento percibirá una optimización del flujo de caja operativo al evitar compras duplicadas o adquisiciones con sobreprecio derivadas de la falta de comparación inmediata.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
-* **Hipótesis 1:** Creemos que al centralizar las solicitudes de materiales en una plataforma web accesible desde la obra, reduciremos drásticamente los tiempos de espera. Lo sabremos cuando el tiempo promedio entre la creación de una solicitud y su aprobación por logística baje de 48 horas a menos de 8 horas.
-* **Hipótesis 2:** Creemos que al implementar un tablero de control (Dashboard) para los Jefes de Proyectos, eliminaremos la falta de visibilidad del presupuesto. Lo sabremos cuando las desviaciones de costos por compras de emergencia se reduzcan en un 15% durante el primer trimestre de uso.
-* **Hipótesis 3:** Creemos que al automatizar los flujos de comunicación entre obra y logística, optimizaremos el proceso de abastecimiento. Lo sabremos cuando el número de llamadas o mensajes para consultar el estado de un pedido disminuya en un 50%.
-* **Hipótesis 4:** Creemos que al digitalizar el historial de proveedores y cotizaciones, facilitaremos la toma de decisiones gerenciales. Lo sabremos cuando el tiempo dedicado a la comparación manual de cotizaciones se reduzca de 4 horas semanales a solo 15 minutos.
+**Hypothesis 1** Creemos que al centralizar las solicitudes de materiales en una plataforma web accesible desde la obra, reduciremos drásticamente los tiempos de espera. Lo sabremos cuando el tiempo promedio entre la creación de una solicitud y su aprobación por logística baje de 48 horas a menos de 8 horas.
+
+**Hypothesis 2** Creemos que al implementar un tablero de control (Dashboard) para los Jefes de Proyectos, eliminaremos la falta de visibilidad del presupuesto. Lo sabremos cuando las desviaciones de costos por compras de emergencia se reduzcan en un 15% durante el primer trimestre de uso.
+
+**Hypothesis 3** Creemos que al automatizar los flujos de comunicación entre obra y logística, optimizaremos el proceso de abastecimiento. Lo sabremos cuando el número de llamadas o mensajes para consultar el estado de un pedido disminuya en un 50%.
+
+**Hypothesis 4** Creemos que al digitalizar el historial de proveedores y cotizaciones, facilitaremos la toma de decisiones gerenciales. Lo sabremos cuando el tiempo dedicado a la comparación manual de cotizaciones se reduzca de 4 horas semanales a solo 15 minutos.
+
+**Hypothesis 5** Creemos que digitalizar los requerimientos técnicos para los ingenieros de obra logrará una reducción del 50% en errores de pedido. Sabremos que es cierto cuando veamos que el 90% de los requerimientos registrados no requieren correcciones técnicas posteriores.
 
 #### 1.2.2.4. Lean UX Canvas
 
-| 1. Business Problem | 5. Solution | 2. Business Outcomes |
-| :--- | :--- | :--- |
-| Gestión informal de compras en constructoras, causando desorden, retrasos en la obra, falta de cotizaciones comparadas y nulo control de aprobaciones y presupuesto. | **RQLS:** Plataforma Web SaaS que permite crear requisiciones digitales, gestionar flujos de aprobación y monitorear el gasto de materiales frente al presupuesto. | • Digitalización del 100% de los procesos de compra.<br>• Reducción del 40% en tiempos de ciclo de abastecimiento.<br>• Disminución de sobrecostos por compras no planificadas. |
-
-| 3. Users & Customers | 4. User Benefits | 6. Solution Ideas |
-| :--- | :--- | :--- |
-| • Ingenieros / Residentes de Obra.<br>• Encargados de Logística.<br>• Jefes de Proyecto / Gerentes. | • Aprobación de materiales remota en un clic.<br>• Control total del presupuesto en tiempo real.<br>• Historial transparente de cotizaciones. | • Formulario digital de requisición de materiales.<br>• Dashboard gerencial comparativo de cotizaciones.<br>• Sistema de seguimiento de estados de la orden. |
-
-| 7. Hypothesis | 8. What’s the most important thing we need to learn first? |
-| :--- | :--- |
-| Creemos que la digitalización de las solicitudes de compra mediante un SaaS ordenará el flujo logístico, mejorando la rentabilidad de la constructora. | ¿Están los Ingenieros en campo dispuestos a adoptar una plataforma web en lugar de las llamadas o mensajes de WhatsApp que usan actualmente para pedir materiales? |
+<table>
+  <tr>
+    <td valign="top">
+      <strong>Business problem</strong>
+      <br><br>
+      Las micro y pequeñas empresas (MYPES) constructoras de Lima Metropolitana gestionan los requerimientos de materiales mediante herramientas informales como WhatsApp o registros manuales en papel. Esta fragmentación dificulta la trazabilidad de los pedidos, limita la comparación técnica de cotizaciones y retrasa la aprobación de compras.
+      <br><br>
+      Como consecuencia, se generan sobrecostos por compras de emergencia, duplicidad de pedidos y retrasos en la continuidad de obra que afectan directamente la rentabilidad del proyecto.
+    </td>
+    <td rowspan="2" valign="top">
+      <strong>Solution ideas</strong>
+      <br><br>
+      - Plataforma web SaaS accesible desde dispositivos móviles orientada al entorno de obra
+      <br><br>
+      - Registro digital de requerimientos con flujo de aprobación jerárquica
+      <br><br>
+      - Módulo de comparación de cotizaciones en tiempo real
+      <br><br>
+      - Historial centralizado de proveedores, pedidos y aprobaciones
+      <br><br>
+      - Alertas de control presupuestal y seguimiento de estados
+    </td>
+    <td valign="top">
+      <strong>Business Outcomes</strong>
+      <br><br>
+      - Reducir en un 40% el tiempo administrativo desde la requisición hasta la orden de compra
+      <br><br>
+      - Lograr que el 100% de las compras cuenten con registro digital auditable
+      <br><br>
+      - Disminuir en un 15% los sobrecostos por compras no planificadas
+      <br><br>
+      - Mejorar la visibilidad del gasto y margen de utilidad por proyecto
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Users and customers</strong>
+      <br><br>
+      - Ingenieros residentes de obra
+      <br>
+      - Jefes de logística
+      <br>
+      - Jefes de proyecto
+      <br>
+      - Gerentes generales
+      <br>
+      - MYPES constructoras de edificaciones
+    </td>
+    <td valign="top">
+      <strong>User benefits</strong>
+      <br><br>
+      - Aprobación remota de materiales sin dependencia de la oficina
+      <br><br>
+      - Visibilidad del estado de cada requerimiento en tiempo real
+      <br><br>
+      - Reducción del tiempo dedicado a comparar cotizaciones
+      <br><br>
+      - Mejor coordinación entre obra y área administrativa
+      <br><br>
+      - Mayor control sobre el presupuesto antes de ejecutar compras
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Hypotheses</strong>
+      <br><br>
+      - Si se centralizan las solicitudes de materiales en una plataforma accesible desde obra, el tiempo de aprobación se reducirá de 48 horas a menos de 8 horas.
+      <br><br>
+      - Si se implementa un panel de control para jefes de proyecto, las desviaciones por compras de emergencia se reducirán en un 15%.
+      <br><br>
+      - Si se automatizan los flujos de comunicación entre obra y logística, disminuirán en un 50% las consultas manuales (llamadas y mensajes).
+      <br><br>
+      - Si se digitaliza el historial de proveedores y cotizaciones, el tiempo de comparación manual se reducirá de 4 horas semanales a 15 minutos.
+      <br><br>
+      - Si los requerimientos técnicos se registran digitalmente, los errores de pedido se reducirán en un 50%.
+    </td>
+    <td valign="top">
+      <strong>What’s the most important thing we need to learn first?</strong>
+      <br><br>
+      Si las MYPES constructoras están dispuestas a reemplazar herramientas informales (WhatsApp, llamadas) por una plataforma digital y perciben suficiente valor como para adoptarla en su flujo de trabajo.
+    </td>
+    <td valign="top">
+      <strong>What’s the least amount of work we need to do to learn the next most important thing?</strong>
+      <br><br>
+      Realizar entrevistas con ingenieros residentes, jefes de logística y gerentes, y validar mediante un prototipo de baja fidelidad el flujo de requisición, aprobación y comparación de cotizaciones, evaluando facilidad de uso, rapidez y disposición de adopción.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 1.3. Segmentos Objetivos
-1. **Jefes de Proyectos:** Profesionales encargados de la planificación, control presupuestal y ejecución de las obras en empresas constructoras. Son el puente entre el campo y la administración, y necesitan una plataforma centralizada para gestionar las requisiciones de materiales, supervisar el flujo de aprobaciones logísticas y asegurar que el abastecimiento no retrase el cronograma de trabajo, manteniendo siempre el control de los costos mediante datos en tiempo real.
+El segmento objetivo de Buildline se centra exclusivamente en los perfiles de liderazgo y toma de decisiones dentro del entorno de la construcción MYPE peruana. Este grupo es el responsable final de la viabilidad financiera de los proyectos y la sostenibilidad operativa de la empresa.
+
+### 1.3.1. Jefes de Proyectos y Gerentes Generales
+
+| Dimensión               | Detalle del perfil                                                                                                                                                                                                                                                                                                                                                                                       |
+| ----------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Perfil Demográfico**  | Hombres y mujeres de entre 35 y 55 años. Cuentan con educación superior universitaria, siendo mayoritariamente Ingenieros Civiles o Arquitectos titulados y colegiados. Muchos operan bajo la modalidad de Persona Natural con Negocio, que representa el 73,5% de las unidades económicas del sector (INEI, 2024).                                                                                      |
+| **Perfil Geográfico**   | Ubicados principalmente en zonas urbanas de alta densidad constructiva. El 45,7% de las empresas se concentra en Lima Metropolitana, seguida de regiones estratégicas como Arequipa (5,3%), La Libertad (5,2%) y Piura (4,3%) (INEI, 2024).                                                                                                                                                              |
+| **Perfil Psicográfico** | Profesionales con un estilo de vida de alta presión y movilidad constante entre oficina y campo. Valoran la eficiencia y la honestidad operativa. Presentan una resistencia al cambio cultural del 48% (EY Perú, 2024), por lo que buscan herramientas que no compliquen sus procesos actuales. Su principal interés es la optimización del margen de utilidad y la transparencia de sus flujos de caja. |
+| **Puntos de Dolor**     | Erosión de la rentabilidad debido a un costo logístico del 21,1% (ComexPerú, 2023). Enfrentan una falta de trazabilidad en el 74,1% de sus compras y sufren paralizaciones de obra en el 18% de los casos por desabastecimiento o errores técnicos en el suministro (Rodríguez Vargas, 2019; Tarraga Durand & Miranda Mitma, 2025).                                                                      |
+| **Uso de Tecnología**   | Usuarios intensivos de dispositivos móviles; el 91,3% de la población ocupada en este rango de edad utiliza smartphones diariamente para la gestión de sus actividades (INEI, 2025). Dependen actualmente de herramientas no especializadas como WhatsApp y Excel para el control operativo básico.                                                                                                      |
