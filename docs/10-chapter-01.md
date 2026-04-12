@@ -12,7 +12,6 @@
 **Valores:** Transparencia operativa, integridad de datos, innovación centrada en el operario y eficiencia.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-
 |           Foto           | Apellidos y nombres                     |   Código   | Carrera                | Perfil                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |:------------------------:|:----------------------------------------|:----------:| :--------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [pendiente de completar] | **Castillo Yataco, Mauricio Sebastián** | U202113229 | Ingeniería de Software | Soy estudiante de Ingeniería de Software, apasionado por la creación de soluciones tecnológicas que mejoren la vida de las personas. Mi enfoque va más allá de la programación, ya que me interesa desarrollar experiencias digitales funcionales y agradables para el usuario. Poseo conocimientos básicos en C++, HTML y CSS, y destaco por mi responsabilidad, cooperación, comunicación, flexibilidad y adaptabilidad.                        |
@@ -24,18 +23,26 @@
 ---
 
 ## 1.2. Solution Profile
+Nuestra solución, Buildline, es una plataforma Web SaaS diseñada para gestionar de extremo a extremo las compras institucionales en constructoras. Digitaliza la comunicación entre el residente de obra (solicitud), el área de compras (cotización) y la gerencia (aprobación), eliminando pérdidas de hasta el 15% del presupuesto generadas por la gestión informal (Rodríguez Vargas, 2019).
 
 ### 1.2.1. Antecedentes y problemática
-En el Perú, el sector construcción es un pilar económico, sin embargo, las MYPES constructoras presentan un bajo nivel de madurez digital. El problema central reside en el descontrol del flujo de abastecimiento. Actualmente, las requisiciones de materiales se realizan de manera informal (WhatsApp, llamadas o papel), lo que genera pérdida de trazabilidad, compras duplicadas y falta de aprobación gerencial en tiempo real.
+El sector construcción en el Perú proyecta una tasa de crecimiento del 6,5% para el periodo 2025, impulsado principalmente por la reactivación de la inversión en infraestructura pública (El Peruano, 2025). Esta dinámica macroeconómica se encuentra condicionada por el desempeño de las MYPES, las cuales concentran la mayor parte de la operatividad del sector pero presentan un costo logístico promedio de 21,1%, cifra significativamente superior al 16% registrado a nivel nacional (ComexPerú, 2023; INEI, 2024). Esta disparidad económica se vincula directamente a la falta de herramientas especializadas para la gestión administrativa en empresas de menor escala.
 
-**Técnica 5W2H aplicada al problema:**
-* **Who (¿Quién?):** Ingenieros residentes (campo), jefes de logística (compras) y gerentes generales de MYPES constructoras.
-* **What (¿Qué?):** Ineficiencia en el flujo de solicitud y aprobación de materiales, y falta de visibilidad sobre los gastos operativos de obra.
-* **Where (¿Dónde?):** En la comunicación crítica entre la obra física y el centro administrativo de la constructora.
-* **When (¿Cuándo?):** Durante la etapa de ejecución del proyecto, específicamente en el ciclo de abastecimiento diario.
-* **Why (¿Por qué?):** Por la carencia de un sistema centralizado que formalice las solicitudes y permita comparar cotizaciones antes de autorizar pagos.
-* **How (¿Cómo?):** Los procesos se ejecutan manualmente, sin validación presupuestal inmediata, lo que expone a la empresa a sobrecostos.
-* **How Much (¿Cuánto?):** Se estima que el desorden logístico genera pérdidas de hasta un 15% del presupuesto asignado a insumos por errores en la compra o especificaciones técnicas incorrectas.
+La gestión de adquisiciones en estas organizaciones se caracteriza por la ausencia de trazabilidad y formalidad técnica. Según investigaciones aplicadas en el sector, el 74,1% de los responsables de MYPES constructoras califica como inadecuado el seguimiento de compras, mientras que el 77,8% reporta incidentes recurrentes donde los insumos entregados no coinciden con las especificaciones técnicas solicitadas (Rodríguez Vargas, 2019). Estos errores operativos, derivados de la dependencia de canales informales como WhatsApp o registros manuales en papel, causan parálisis de obra en un 18% de los casos y obligan a realizar compras de urgencia no planificadas que representan el 12% del gasto logístico total (Tarraga Durand & Miranda Mitma, 2025).
+
+El retraso en la madurez digital del sector construcción se refleja en que el 40% de los proyectos de infraestructura superan el presupuesto original debido a la ineficiencia en la planificación de recursos y la comunicación fragmentada (Ruiz Escajadillo, 2024). A pesar de que la integración de plataformas de gestión de proyectos ha demostrado incrementos de productividad del 30%, persiste una brecha tecnológica en las pequeñas empresas debido al desconocimiento de soluciones escalables y a la alta resistencia al cambio del personal operativo (ESAN, 2023; CAPECO, 2024). En este escenario, la transición hacia sistemas SaaS especializados permite la centralización de datos necesaria para la toma de decisiones financieras y el control estricto del presupuesto de obra.
+
+**Técnica "The 5W's y 2H's" aplicada al problema:**
+
+| The 5W's y 2H's | Pregunta                     | Descripción                                                                                                                                                                                                                                             |
+| :-------------- | :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Who             | ¿Quiénes están involucrados? | El personal operativo y directivo de las MYPES constructoras, específicamente ingenieros residentes, jefes de logística y gerentes. El 74,1% de los responsables considera deficientes los mecanismos actuales de seguimiento (Rodríguez Vargas, 2019). |
+| What            | ¿Cuál es el problema?        | Ineficiencia en el flujo de suministro interno con falta de concordancia técnica en el 77,8% de los productos recibidos y ausencia de proyecciones de demanda en el 70,3% de las operaciones (Rodríguez Vargas, 2019).                                  |
+| Where           | ¿Dónde ocurre?               | En la brecha informativa entre las obras de edificación física y el centro administrativo. Lima concentra el 45,7% de estas empresas, pero la ineficiencia es crítica en provincias por barreras de transporte (INEI, 2024).                            |
+| When            | ¿Cuándo sucede?              | Durante la etapa de ejecución técnica, manifestándose en cada ciclo de abastecimiento diario. Esta problemática es responsable del 18% de las paralizaciones de obra en el segmento (Tarraga Durand & Miranda Mitma, 2025).                             |
+| Why             | ¿Por qué sucede?             | Debido a la inexistencia de sistemas de auditoría centralizados y la dependencia de herramientas informales (WhatsApp/Excel) que no aseguran el cumplimiento de calidad y tiempo (Ruiz Escajadillo, 2024).                                              |
+| How             | ¿Cómo se manifiesta?         | Mediante procesos manuales sin validación presupuestal inmediata, lo que genera duplicidad de pedidos y obliga a compras de emergencia que representan el 12% del gasto logístico (Tarraga Durand & Miranda Mitma, 2025).                               |
+| How Much        | ¿Cuánto impacto tiene?       | Genera un sobrecosto logístico del 21,1% sobre las ventas (5,1 puntos sobre la media nacional) y una erosión de hasta el 15% del presupuesto de insumos por errores de gestión (ComexPerú, 2023; Rodríguez Vargas, 2019).                               |
 
 ---
 
