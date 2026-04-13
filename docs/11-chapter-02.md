@@ -253,12 +253,275 @@ El crecimiento esperado del sector en 2025, impulsado por obras públicas, abre 
 - **Integración local:** priorizar la integración nativa con facturación electrónica de SUNAT, como barrera técnica frente a competidores globales con versiones simplificadas.
 
 ## 2.2. Entrevistas
+En esta sección se aborda la investigación tomando como base la recolección de información mediante entrevistas a representantes del segmento objetivo. Las entrevistas serán registradas en video como evidencia del proceso de obtención de requisitos.
+
 ### 2.2.1. Diseño de entrevistas
-[pending content]
+Para el desarrollo de las entrevistas del segmento objetivo, se redactaron las siguientes preguntas siguiendo las buenas prácticas para el diseño de recolección de información:
+
+**Segmento objetivo: Jefes de Proyectos y Gerentes Generales**
+
+#### Preguntas Demográficas
+1. ¿Cuál es su nombre completo y qué edad tiene?
+2. ¿Cómo se definiría profesionalmente?
+3. ¿Cuál es su estado civil y tiene familia a su cargo?
+4. ¿Cuál es su cargo exacto y cuántos años de experiencia tiene en el sector construcción?
+5. ¿En qué distrito/provincia reside y dónde se ubican usualmente sus proyectos?
+
+#### Preguntas de Hábitos Digitales
+6. ¿Cuál es el dispositivo que utiliza con mayor frecuencia durante su jornada laboral para gestionar tareas (Laptop, Tablet o Celular)?
+7. ¿Qué navegador web y sistemas operativos utiliza con mayor frecuencia para revisar reportes técnicos?
+8. ¿Cuáles son los canales digitales de interacción que más utiliza para comunicarse con su equipo (WhatsApp, Slack, correo electrónico)?
+9. ¿Utiliza actualmente algún software especializado para la gestión de proyectos o presupuestos?
+
+#### Preguntas Principales
+10. ¿Cuántos proyectos u obras suele gestionar de manera simultánea en un mes promedio?
+11. ¿Podría describir el flujo de trabajo actual desde que se identifica la falta de un material en obra hasta que se emite el pago al proveedor?
+12. ¿Qué medios de comunicación utiliza para recibir las requisiciones de los ingenieros residentes?
+13. ¿Cómo gestiona y almacena las cotizaciones recibidas de diversos proveedores para un mismo requerimiento?
+14. ¿Cómo realiza actualmente el control presupuestal de los materiales por cada proyecto?
+15. ¿Ha experimentado retrasos en el cronograma de obra debido a errores en la logística de abastecimiento?
+16. ¿Considera que el uso de herramientas genéricas (como Excel) es suficiente para mantener un control de costos eficiente en sus obras?
+
 ### 2.2.2. Registro de entrevistas
-[pending content]
+**Segmento objetivo: Jefes de Proyectos y Gerentes Generales**
+
+<table style="width:100%; border-collapse:collapse;">
+  <tbody>
+    <tr>
+      <td colspan="4" align="center"><strong>Entrevista N.° 1</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Información del entrevistado</strong></td>
+      <td colspan="2" align="center"><strong>Contexto tecnológico</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Nombre completo</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Dispositivo de mayor frecuencia</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Edad</strong></td>
+      <td>[pendiente de completar] años</td>
+      <td><strong>Sistema operativo/browser</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Definición profesional / cargo</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Canales digitales de comunicación</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Residencia / ubicación</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Software especializado utilizado</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
+      <td colspan="2"><strong>URL de grabación</strong>: [pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Resumen de la entrevista</strong><br><br>
+        [pendiente de completar]
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="width:100%; border-collapse:collapse;">
+  <tbody>
+    <tr>
+      <td colspan="4" align="center"><strong>Entrevista N.° 2</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Información del entrevistado</strong></td>
+      <td colspan="2" align="center"><strong>Contexto tecnológico</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Nombre completo</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Dispositivo de mayor frecuencia</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Edad</strong></td>
+      <td>[pendiente de completar] años</td>
+      <td><strong>Sistema operativo/browser</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Definición profesional / cargo</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Canales digitales de comunicación</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Residencia / ubicación</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Software especializado utilizado</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
+      <td colspan="2"><strong>URL de grabación</strong>: [pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Resumen de la entrevista</strong><br><br>
+        [pendiente de completar]
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="width:100%; border-collapse:collapse;">
+  <tbody>
+    <tr>
+      <td colspan="4" align="center"><strong>Entrevista N.° 3</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Información del entrevistado</strong></td>
+      <td colspan="2" align="center"><strong>Contexto tecnológico</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Nombre completo</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Dispositivo de mayor frecuencia</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Edad</strong></td>
+      <td>[pendiente de completar] años</td>
+      <td><strong>Sistema operativo/browser</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Definición profesional / cargo</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Canales digitales de comunicación</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Residencia / ubicación</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Software especializado utilizado</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
+      <td colspan="2"><strong>URL de grabación</strong>: [pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Resumen de la entrevista</strong><br><br>
+        [pendiente de completar]
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="width:100%; border-collapse:collapse;">
+  <tbody>
+    <tr>
+      <td colspan="4" align="center"><strong>Entrevista N.° 4</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Información del entrevistado</strong></td>
+      <td colspan="2" align="center"><strong>Contexto tecnológico</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Nombre completo</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Dispositivo de mayor frecuencia</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Edad</strong></td>
+      <td>[pendiente de completar] años</td>
+      <td><strong>Sistema operativo/browser</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Definición profesional / cargo</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Canales digitales de comunicación</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Residencia / ubicación</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Software especializado utilizado</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
+      <td colspan="2"><strong>URL de grabación</strong>: [pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Resumen de la entrevista</strong><br><br>
+        [pendiente de completar]
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### 2.2.3. Análisis de entrevistas
-[pending content]
+
+## Análisis por segmento objetivo
+
+**Segmento objetivo: Jefes de Proyectos y Gerentes Generales**
+
+#### 1. Descripción general del segmento
+Este segmento agrupa a [descripción breve del grupo analizado]. A partir de las entrevistas registradas, se identificaron patrones comunes en sus características objetivas y subjetivas, los cuales sirven como base para la construcción del arquetipo correspondiente.
+
+#### 2. Características objetivas del segmento
+| Característica              | Sustento estadístico | Evidencia en entrevistas | Relación con el arquetipo |
+|:----------------------------| :-- | :-- | :-- |
+| [Característica objetiva 1] | [xx%] | [Entrevista N.° __ / cita breve o hallazgo] | [Cómo aporta al arquetipo] |
+| [Característica objetiva 2] | [xx%] | [Entrevista N.° __ / cita breve o hallazgo] | [Cómo aporta al arquetipo] |
+| [Característica objetiva 3] | [xx%] | [Entrevista N.° __ / cita breve o hallazgo] | [Cómo aporta al arquetipo] |
+| [Característica objetiva 4] | [xx%] | [Entrevista N.° __ / cita breve o hallazgo] | [Cómo aporta al arquetipo] |
+
+#### 3. Características subjetivas del segmento
+| Característica               | Sustento estadístico | Evidencia en entrevistas | Relación con el arquetipo |
+|:-----------------------------| :-- | :-- | :-- |
+| [Característica subjetiva 1] | [xx%] | [Entrevista N.° __ / resumen o respuesta] | [Cómo aporta al arquetipo] |
+| [Característica subjetiva 2] | [xx%] | [Entrevista N.° __ / resumen o respuesta] | [Cómo aporta al arquetipo] |
+| [Característica subjetiva 3] | [xx%] | [Entrevista N.° __ / resumen o respuesta] | [Cómo aporta al arquetipo] |
+| [Característica subjetiva 4] | [xx%] | [Entrevista N.° __ / resumen o respuesta] | [Cómo aporta al arquetipo] |
+
+#### 4. Hallazgos principales
+- [Hallazgo 1 sustentado en entrevistas y porcentajes].
+- [Hallazgo 2 sustentado en entrevistas y porcentajes].
+- [Hallazgo 3 sustentado en entrevistas y porcentajes].
+
+#### 5. Conclusión del segmento
+Con base en las entrevistas registradas, este segmento se caracteriza por [síntesis final]. Las evidencias obtenidas permiten establecer que [interpretación final], lo cual resulta necesario para la construcción del arquetipo de usuario.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 [pending content]
