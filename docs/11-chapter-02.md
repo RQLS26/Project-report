@@ -313,7 +313,7 @@ Para el desarrollo de las entrevistas del segmento objetivo, se redactaron las s
     </tr>
     <tr>
       <td><strong>Definición profesional / cargo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Jefes de Proyectos (Ingeniero Civil)/td>
       <td><strong>Canales digitales de comunicación</strong></td>
       <td> WhatsApp </td>
     </tr>
