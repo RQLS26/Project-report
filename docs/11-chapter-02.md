@@ -292,7 +292,7 @@ Para el desarrollo de las entrevistas del segmento objetivo, se redactaron las s
     </tr>
     <tr>
       <td colspan="4" align="center">
-        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+        <img src="./assets/chapter-02/Jefes de Proyectos y Gerentes Generales-Segmento1.png" alt="Buildline" height="350"></td>
       </td>
     </tr>
     <tr>
@@ -300,37 +300,39 @@ Para el desarrollo de las entrevistas del segmento objetivo, se redactaron las s
       <td colspan="2" align="center"><strong>Contexto tecnológico</strong></td>
     </tr>
     <tr>
-      <td><strong>Nombre completo</strong></td>
-      <td>[pendiente de completar]</td>
-      <td><strong>Dispositivo de mayor frecuencia</strong></td>
-      <td>[pendiente de completar]</td>
+      <td><strong>Nombre comple</strong></td>
+      <td> Abdon Viza Amanqui </td>
+      <td><strong> Dispositivo de mayor frecuencia </strong></td>
+      <td> Laptop y celular </td>
     </tr>
     <tr>
       <td><strong>Edad</strong></td>
-      <td>[pendiente de completar] años</td>
+      <td> 54 años </td>
       <td><strong>Sistema operativo/browser</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Windows (Office) </td>
     </tr>
     <tr>
       <td><strong>Definición profesional / cargo</strong></td>
       <td>[pendiente de completar]</td>
       <td><strong>Canales digitales de comunicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> WhatsApp </td>
     </tr>
     <tr>
       <td><strong>Residencia / ubicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Juliaca (Puno) </td>
       <td><strong>Software especializado utilizado</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> AutoCAD, Excel y Word </td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
-      <td colspan="2"><strong>URL de grabación</strong>: [pendiente de completar]</td>
+      <td colspan="2"><strong>Duración</strong>: 8:46</td>
+      <td colspan="2"><strong>URL de grabación</strong>: https://surl.lu/iyovok</td>
     </tr>
     <tr>
       <td colspan="4">
         <strong>Resumen de la entrevista</strong><br><br>
-        [pendiente de completar]
+        El entrevistado es un jefe de departamento en el sector construcción con 20 años de experiencia que labora de forma independiente y para empresas privadas, operando principalmente en Juliaca, Puno, y zonas aledañas como Cusco y Arequipa. En su rutina digital utiliza predominantemente laptop y celular, apoyándose en herramientas como AutoCAD, Excel y Word para la elaboración de reportes técnicos, mientras que WhatsApp es su canal principal de comunicación y S10 su software para presupuestos. Su dinámica de trabajo implica la gestión de levantamientos topográficos y de carreteras que luego procesa en gabinete, siguiendo un flujo logístico que inicia con el requerimiento de materiales desde el campo hacia el almacén.
+
+El proceso de aprobación de compras involucra al residente y al contratista general, pudiendo demorar hasta dos días, y actualmente enfrenta desafíos como la frustración por la demora en la llegada de materiales y la necesidad de actualizar constantemente los costos del mercado. Abdón señala que el uso de Excel es insuficiente para un control eficiente debido al riesgo de errores humanos y expresa un alto interés en automatizar la variación de costos y la gestión logística. Finalmente, destaca que la rapidez en la entrega de materiales es el factor más influyente en sus decisiones y considera fundamental contar con una plataforma móvil que permita supervisar y gestionar las operaciones directamente desde el campo.
       </td>
     </tr>
   </tbody>
