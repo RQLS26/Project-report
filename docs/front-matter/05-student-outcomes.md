@@ -9,85 +9,45 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones d
 ---
 
 ## Tabla de Student Outcome
-<table style="width:100%; border-collapse: collapse; text-align: left;">
-  <thead>
-    <tr>
-      <th style="width: 25%;">Criterio específico</th>
-      <th style="width: 45%;">Acciones realizadas</th>
-      <th style="width: 30%;">Conclusiones</th>
-    </tr>
-  </thead>
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th style="width:25%;">Criterio específico</th>
+    <th style="width:45%;">Acciones realizadas</th>
+    <th style="width:30%;">Conclusiones</th>
+  </tr>
 
-  <tbody>
-    <tr>
-      <td>
-        Trabaja en equipo para proporcionar liderazgo en forma conjunta
-      </td>
-      <td>
-        <strong>Estudiante 1</strong><br>
-        AV1: [Acción específica]<br>
-        TB1: [Acción específica]<br>
-        AV2: [Acción específica]<br><br>
-        <strong>Estudiante 2</strong><br>
-        AV1: [Acción específica]<br>
-        TB1: [Acción específica]<br>
-        AV2: [Acción específica]<br><br>
-        <strong>Estudiante 3</strong><br>
-        AV1: [Acción específica]<br>
-        TB1: [Acción específica]<br>
-        AV2: [Acción específica]<br><br>
-        <strong>Estudiante 4</strong><br>
-        AV1: [Acción específica]<br>
-        TB1: [Acción específica]<br>
-        AV2: [Acción específica]<br><br>
-        <strong>Estudiante 5</strong><br>
-        AV1: [Acción específica]<br>
-        TB1: [Acción específica]<br>
-        AV2: [Acción específica]
-      </td>
-      <td>
-        <strong>AV1:</strong><br>
-        [Conclusión grupal]<br><br>
-        <strong>TB1:</strong><br>
-        [Conclusión acumulada]<br><br>
-        <strong>AV2:</strong><br>
-        [Conclusión acumulada]
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos
-      </td>
-      <td>
-        <strong>Estudiante 1</strong><br>
-        AV1: [Acción específica]<br>
-        TB1: [Acción específica]<br>
-        AV2: [Acción específica]<br><br>
-        <strong>Estudiante 2</strong><br>
-        AV1: [Acción específica]<br>
-        TB1: [Acción específica]<br>
-        AV2: [Acción específica]<br><br>
-        <strong>Estudiante 3</strong><br>
-        AV1: [Acción específica]<br>
-        TB1: [Acción específica]<br>
-        AV2: [Acción específica]<br><br>
-        <strong>Estudiante 4</strong><br>
-        AV1: [Acción específica]<br>
-        TB1: [Acción específica]<br>
-        AV2: [Acción específica]<br><br>
-        <strong>Estudiante 5</strong><br>
-        AV1: [Acción específica]<br>
-        TB1: [Acción específica]<br>
-        AV2: [Acción específica]
-      </td>
-      <td>
-        <strong>AV1:</strong><br>
-        [Conclusión grupal]<br><br>
-        <strong>TB1:</strong><br>
-        [Conclusión acumulada]<br><br>
-        <strong>AV2:</strong><br>
-        [Conclusión acumulada]
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td>
+      Trabaja en equipo para proporcionar liderazgo en forma conjunta
+    </td>
+    <td>
+      <strong>Est. 1</strong> — AV1 / TB1 / AV2<br>
+      <strong>Est. 2</strong> — AV1 / TB1 / AV2<br>
+      <strong>Est. 3</strong> — AV1 / TB1 / AV2<br>
+      <strong>Est. 4</strong> — AV1 / TB1 / AV2<br>
+      <strong>Est. 5</strong> — AV1 / TB1 / AV2<br>
+    </td>
+    <td>
+      <strong>AV1:</strong> [Conclusión]<br>
+      <strong>TB1:</strong> [Conclusión]<br>
+      <strong>AV2:</strong> [Conclusión]
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos
+    </td>
+    <td>
+      <strong>Est. 1</strong> — AV1 / TB1 / AV2<br>
+      <strong>Est. 2</strong> — AV1 / TB1 / AV2<br>
+      <strong>Est. 3</strong> — AV1 / TB1 / AV2<br>
+      <strong>Est. 4</strong> — AV1 / TB1 / AV2<br>
+      <strong>Est. 5</strong> — AV1 / TB1 / AV2<br>
+    </td>
+    <td>
+      <strong>AV1:</strong> [Conclusión]<br>
+      <strong>TB1:</strong> [Conclusión]<br>
+      <strong>AV2:</strong> [Conclusión]
+    </td>
+  </tr>
 </table>
