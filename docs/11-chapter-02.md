@@ -491,7 +491,7 @@ Para el desarrollo de las entrevistas del segmento objetivo, se redactaron las s
 
 ### 2.2.3. Análisis de entrevistas
 
-## Análisis por segmento objetivo
+### Análisis por segmento objetivo
 
 **Segmento objetivo: Jefes de Proyectos y Gerentes Generales**
 
