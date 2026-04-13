@@ -3,7 +3,6 @@
 Este análisis permite identificar cómo se posiciona Buildline frente a ERPs consolidados en el mercado local, redes de abastecimiento regionales y plataformas SaaS de control financiero emergentes. A partir de ello, se define una ventaja competitiva basada en la reducción de la brecha tecnológica y la simplificación del flujo logístico para las MYPES peruanas.
 
 ### 2.1.1. Análisis competitivo
-
 <table style="text-align: center; width: 100%;">
   <tbody>
     <tr>
@@ -227,7 +226,32 @@ Este análisis permite identificar cómo se posiciona Buildline frente a ERPs co
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-[pending content]
+A partir de la identificación de fortalezas y debilidades competitivas, la startup RQLS aplicará el siguiente conjunto de estrategias y tácticas preliminares para posicionar a Buildline como la solución líder para el segmento MYPE peruano.
+
+#### Estrategia ofensiva: explotación de la brecha tecnológica frente a S10 ERP
+Aprovecharemos la obsolescencia técnica de los ERPs tradicionales para captar a las empresas que buscan una modernización rápida sin la complejidad de sistemas legados.
+
+- **Onboarding acelerado:** implementar un programa de migración de datos desde Excel en menos de 24 horas, eliminando la barrera de las semanas de capacitación que exige S10.
+- **Movilidad total:** posicionar la app móvil de Buildline como la herramienta de campo que S10 no posee con robustez, permitiendo que el residente registre pedidos incluso sin conexión estable.
+
+#### Estrategia defensiva: diferenciación por enfoque interno frente a ICONSTRUYE
+ICONSTRUYE domina la relación externa con proveedores mediante un marketplace, pero Buildline se enfocará en el flujo interno que genera el desorden administrativo inicial.
+
+- **Control de requisiciones:** enfatizar que el 74,1% de las MYPES falla en el seguimiento interno. Buildline resolverá el caos de firmas y aprobaciones antes de que el pedido llegue al proveedor, algo que las plataformas transaccionales corporativas no atienden para proyectos pequeños.
+- **Costo logístico reducido:** utilizar el indicador del 21,1% de sobrecosto logístico MYPE como argumento de venta principal, ofreciendo un ROI visible en el primer mes de uso.
+
+#### Estrategia adaptativa: mitigación de la resistencia cultural
+Para afrontar la informalidad asociada al uso de WhatsApp y la resistencia al cambio detectada en el personal de obra, Buildline aplicará tácticas de adopción orgánica.
+
+- **Solicitud en 3 clics:** diseñar la interfaz móvil para que el registro de un pedido de cemento o acero sea más rápido que escribir un mensaje de texto.
+- **Dashboards de transparencia:** ofrecer al gerente un panel de control presupuestal que le permita supervisar gastos y aprobaciones, generando presión positiva desde la gerencia hacia el campo para el uso del sistema.
+
+#### Estrategia de alianzas y contexto regional
+El crecimiento esperado del sector en 2025, impulsado por obras públicas, abre una ventana de necesidad de transparencia. RQLS buscará alianzas con gremios como CAPECO para reforzar la credibilidad de Buildline y su adopción en el mercado.
+
+- **Posicionamiento regional:** promover Buildline como una solución auditables y adaptada al contexto peruano.
+- **Integración local:** priorizar la integración nativa con facturación electrónica de SUNAT, como barrera técnica frente a competidores globales con versiones simplificadas.
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 [pending content]
