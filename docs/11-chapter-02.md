@@ -1,6 +1,5 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
-[pending content]
 ### 2.1.1. Análisis competitivo
 [pending content]
 ### 2.1.2. Estrategias y tácticas frente a competidores

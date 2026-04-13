@@ -49,10 +49,24 @@ El retraso en la madurez digital del sector construcción se refleja en que el 4
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
-Las micro y pequeñas empresas (MYPES) constructoras de Lima Metropolitana gestionan los requerimientos de materiales mediante herramientas informales como WhatsApp o registros manuales en papel. Esta fragmentación de la información dificulta la trazabilidad de los pedidos, impide la comparación técnica de cotizaciones y retrasa la aprobación oportuna de compras por parte de la gerencia. Como consecuencia de esta gestión empírica, las organizaciones enfrentan sobrecostos operativos por compras de emergencia y retrasos críticos en la continuidad de obra que erosionan su rentabilidad neta.
+Las micro y pequeñas empresas (MYPES) constructoras de Lima Metropolitana gestionan los requerimientos de materiales mediante herramientas informales como WhatsApp o registros manuales en papel. Esta fragmentación de la información dificulta la trazabilidad de los pedidos, impide la comparación técnica de cotizaciones y retrasa la aprobación oportuna de compras por parte de la gerencia.
+
+Como consecuencia de esta gestión operativa deficiente, las organizaciones enfrentan sobrecostos por compras de emergencia y retrasos críticos en la ejecución de obra que erosionan su rentabilidad neta. Como equipo, nos comprometemos a resolver este desafío mediante una colaboración estrecha con el personal de campo y administrativo para diseñar un flujo de abastecimiento trazable y auditable.
 
 Ante esto nos surge la siguiente pregunta:
 ¿Cómo podría una plataforma SaaS de bajo costo centralizar las requisiciones y aprobaciones para reducir el lead time de compra y mejorar el control operativo?
+
+**1. Domain:** Gestión de adquisiciones y abastecimiento logístico para el sector construcción (MYPES).
+
+**2. Customer Segments:** Gerentes Generales (aprobadores), Ingenieros Residentes (solicitantes) y Jefes de Logística (compradores).
+
+**3. Pain Points:** Pérdida de trazabilidad de requerimientos, sobrecostos por emergencia y falta de comparación de cotizaciones.
+
+**4. Gap:** Inexistencia de un software SaaS económico diseñado para la pequeña constructora que cubra el espacio entre el Excel manual y ERPs de alta complejidad.
+
+**5. Visión/Strategy:** Digitalizar el 100% de los requerimientos de materiales mediante una plataforma en la nube que permita el control presupuestal en tiempo real.
+
+**6. Initial Segment:** Pequeñas empresas constructoras de edificaciones residenciales ubicadas en Lima Metropolitana.
 
 #### 1.2.2.2. Lean UX Assumptions
 **Business Assumptions:**
