@@ -56,17 +56,17 @@ Como consecuencia de esta gestión operativa deficiente, las organizaciones enfr
 Ante esto nos surge la siguiente pregunta:
 ¿Cómo podría una plataforma SaaS de bajo costo centralizar las requisiciones y aprobaciones para reducir el lead time de compra y mejorar el control operativo?
 
-**1. Domain:** Gestión de adquisiciones y abastecimiento logístico para el sector construcción (MYPES).
+1. Domain: Gestión de adquisiciones y abastecimiento logístico para el sector construcción (MYPES).
 
-**2. Customer Segments:** Gerentes Generales (aprobadores), Ingenieros Residentes (solicitantes) y Jefes de Logística (compradores).
+2. Customer Segments: Gerentes Generales (aprobadores), Ingenieros Residentes (solicitantes) y Jefes de Logística (compradores).
 
-**3. Pain Points:** Pérdida de trazabilidad de requerimientos, sobrecostos por emergencia y falta de comparación de cotizaciones.
+3. Pain Points: Pérdida de trazabilidad de requerimientos, sobrecostos por emergencia y falta de comparación de cotizaciones.
 
-**4. Gap:** Inexistencia de un software SaaS económico diseñado para la pequeña constructora que cubra el espacio entre el Excel manual y ERPs de alta complejidad.
+4. Gap: Inexistencia de un software SaaS económico diseñado para la pequeña constructora que cubra el espacio entre el Excel manual y ERPs de alta complejidad.
 
-**5. Visión/Strategy:** Digitalizar el 100% de los requerimientos de materiales mediante una plataforma en la nube que permita el control presupuestal en tiempo real.
+5. Visión/Strategy: Digitalizar el 100% de los requerimientos de materiales mediante una plataforma en la nube que permita el control presupuestal en tiempo real.
 
-**6. Initial Segment:** Pequeñas empresas constructoras de edificaciones residenciales ubicadas en Lima Metropolitana.
+6. Initial Segment: Pequeñas empresas constructoras de edificaciones residenciales ubicadas en Lima Metropolitana.
 
 #### 1.2.2.2. Lean UX Assumptions
 **Business Assumptions:**
