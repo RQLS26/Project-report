@@ -345,7 +345,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="4" align="center">
-        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+        <img src="../docs/assets/chapter-02/entrevista2.png" alt="Entrevista XXXXXX" height="350">
       </td>
     </tr>
     <tr>
@@ -354,36 +354,36 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td><strong>Nombre completo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> David Garibay </td>
       <td><strong>Dispositivo de mayor frecuencia</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Celular (comunicación) y Laptop (gestión) </td>
     </tr>
     <tr>
       <td><strong>Edad</strong></td>
-      <td>[pendiente de completar] años</td>
+      <td> 45 años </td>
       <td><strong>Sistema operativo/browser</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Windows / Google Chrome </td>
     </tr>
     <tr>
       <td><strong>Definición profesional / cargo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Gerente de Proyecto (Ingeniero) </td>
       <td><strong>Canales digitales de comunicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> WhatsApp (rápido) y Correo (formal) </td>
     </tr>
     <tr>
       <td><strong>Residencia / ubicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Santiago de Surco, Lima (Obras en provincia) </td>
       <td><strong>Software especializado utilizado</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> SAP, MS Project, Oracle Primavera, Power BI y Excel </td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
-      <td colspan="2"><strong>URL de grabación</strong>: [pendiente de completar]</td>
+      <td colspan="2"><strong>Duración</strong>: 12:14</td>
+      <td colspan="2"><strong>URL de grabación</strong>: https://acortar.link/i4lNGo</td>
     </tr>
     <tr>
       <td colspan="4">
         <strong>Resumen de la entrevista</strong><br><br>
-        [pendiente de completar]
+        El entrevistado es un Gerente de Proyecto con 18 años de experiencia en el sector construcción, gestionando actualmente obras de gran envergadura en provincias, como minería y carreteras. En su rutina digital, utiliza el celular para resolver urgencias operativas vía WhatsApp, mientras que reserva el uso de su laptop (con Windows y Chrome) para la revisión financiera, presupuestal y la aprobación de compras usando sistemas como SAP y MS Project.<br><br>El flujo logístico que supervisa involucra requerimientos del campo, cotizaciones de logística y su aprobación final. Carlos identifica los retrasos en el abastecimiento como uno de los problemas más críticos, ya que paralizar una obra genera altísimos sobrecostos. Además, señala un cuello de botella en la formalidad: aunque las requisiciones deberían procesarse en el sistema integrado, en la práctica las urgencias se manejan por mensajes directos. Finalmente, enfatiza que el uso de herramientas genéricas como Excel es "peligroso" para llevar el control de costos a nivel profesional debido al riesgo de errores humanos y la falta de trazabilidad, validando la necesidad de un sistema estructurado y seguro.
       </td>
     </tr>
   </tbody>
@@ -525,10 +525,79 @@ Este segmento agrupa a [descripción breve del grupo analizado]. A partir de las
 Con base en las entrevistas registradas, este segmento se caracteriza por [síntesis final]. Las evidencias obtenidas permiten establecer que [interpretación final], lo cual resulta necesario para la construcción del arquetipo de usuario.
 
 ## 2.3. Needfinding
-### 2.3.1. User Personas
-[pending content]
+A partir del análisis de las entrevistas y la recolección de información sobre las dinámicas en la gestión de proyectos de construcción, se identificaron dos perfiles principales dentro de nuestro segmento objetivo que interactuarán con la solución RQLS. Aunque ambos pertenecen a la gestión de la obra, representan dos polos operativos: la urgencia de la ejecución en campo y la necesidad de control financiero en oficina. La construcción de estos *User Persona* permite al equipo comprender sus motivaciones, frustraciones y el contraste en sus herramientas tecnológicas, lo cual es vital para diseñar un flujo que conecte la obra con la gerencia de manera efectiva.
+
+**1) Perfil 1: Área operativa de campo**
+
+Para el área operativa se elaboró el User Persona **Donnie Ruiz**. Se consideraron factores como su rol en la supervisión física de las obras, su necesidad de cumplir cronogramas estrictos y su ritmo de trabajo altamente móvil. Sus principales frustraciones giran en torno a la burocracia logística que retrasa la llegada de materiales y la dependencia de canales informales como WhatsApp para presionar por urgencias. Su perfil refleja una necesidad crítica de contar con una plataforma móvil, rápida y responsiva, que le permita solicitar insumos y rastrear su estado de entrega en tiempo real sin abandonar el campo.
+
+<img src="../docs/assets/chapter-02/UserPersona1.png" alt="User Persona 1 - Martín" width="auto" height="1900"/>
+
+<br>
+
+**2) Perfil 2: Área de control y gerencia**
+
+Para el área de control y gerencia se elaboró el User Persona **Roberto Alcántara**. Se consideraron aspectos como su enfoque en la rentabilidad, la aprobación de presupuestos y la auditoría corporativa. Sus principales frustraciones están asociadas a la pérdida de dinero por "compras de emergencia" no planificadas, el desorden documentario y la inseguridad de usar hojas de Excel compartidas para llevar las finanzas. Su perfil requiere un entorno de escritorio (Dashboard) que centralice las cotizaciones, garantice la inmutabilidad de los datos y le permita aprobar órdenes de compra formales con un solo clic.
+
+<img src="../docs/assets/chapter-02/UserPersona2.png" alt="User Persona 2 - Roberto" width="auto" height="1900"/>
+
 ### 2.3.2. User Task Matrix
-[pending content]
+
+El User Task Matrix presenta las tareas clave que realizan los User Persona para cumplir sus objetivos en el día a día logístico y constructivo, independientemente de si usan nuestro software o no. Se evalúa la frecuencia y la importancia de cada tarea para identificar dónde RQLS debe aportar el mayor valor.
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse:collapse; width:100%; font-family:Arial, sans-serif; text-align:center;">
+  <thead>
+    <tr style="background-color:#eef3f7;">
+      <th rowspan="2">Tarea (Task)</th>
+      <th colspan="2">Ejecutor en Campo (Martín)</th>
+      <th colspan="2">Gerente de Oficina (Roberto)</th>
+    </tr>
+    <tr style="background-color:#eef3f7;">
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left;">Generar requerimientos de materiales de obra</td>
+      <td>Often</td><td>High</td>
+      <td>Rarely</td><td>Low</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Revisar y comparar cotizaciones de proveedores</td>
+      <td>Rarely</td><td>Low</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Aprobar financieramente las órdenes de compra</td>
+      <td>Occasionally</td><td>Medium</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Rastrear el estado de despacho y entrega de materiales</td>
+      <td>Often</td><td>High</td>
+      <td>Occasionally</td><td>Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Controlar el gasto real vs. el presupuesto planificado</td>
+      <td>Monthly</td><td>Medium</td>
+      <td>Monthly</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Comunicar urgencias o retrasos logísticos a otras áreas</td>
+      <td>Often</td><td>High</td>
+      <td>Occasionally</td><td>High</td>
+    </tr>
+  </tbody>
+</table>
+
+**Análisis del Task Matrix:**
+Se observa una clara complementariedad entre ambos perfiles. La tarea de **"Generar requerimientos de materiales"** es de altísima frecuencia e importancia para Martín (Campo), mientras que **"Revisar cotizaciones y Aprobar"** es el "Core" de Roberto (Oficina). Esto confirma que RQLS debe priorizar un flujo bidireccional: una interfaz de creación de pedidos ultra rápida (Mobile) para el ejecutor, conectada automáticamente a un Dashboard de aprobación seguro y comparativo (Desktop) para el gerente. Adicionalmente, la tarea de rastrear despachos (**High** para Martín) valida la necesidad de un sistema de notificaciones de estados.
+
+<div style="page-break-after: always;"></div>
+
 ### 2.3.3. User Journey Mapping
 [pending content]
 ### 2.3.4. Empathy Mapping
