@@ -345,7 +345,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="4" align="center">
-        <img src="../docs/assets/chapter-02/entrevista2.png" alt="Entrevista XXXXXX" height="350">
+        <img src="../docs/assets/chapter-02/entrevista2.png" alt="Entrevista 2" height="350">
       </td>
     </tr>
     <tr>
@@ -597,7 +597,6 @@ El User Task Matrix presenta las tareas clave que realizan los User Persona para
 Se observa una clara complementariedad entre ambos perfiles. La tarea de **"Generar requerimientos de materiales"** es de altísima frecuencia e importancia para Martín (Campo), mientras que **"Revisar cotizaciones y Aprobar"** es el "Core" de Roberto (Oficina). Esto confirma que RQLS debe priorizar un flujo bidireccional: una interfaz de creación de pedidos ultra rápida (Mobile) para el ejecutor, conectada automáticamente a un Dashboard de aprobación seguro y comparativo (Desktop) para el gerente. Adicionalmente, la tarea de rastrear despachos (**High** para Martín) valida la necesidad de un sistema de notificaciones de estados.
 
 <div style="page-break-after: always;"></div>
-
 ### 2.3.3. User Journey Mapping
 [pending content]
 ### 2.3.4. Empathy Mapping
