@@ -325,7 +325,8 @@ Para el desarrollo de las entrevistas del segmento objetivo, se redactaron las s
     </tr>
     <tr>
       <td colspan="2"><strong>Duración</strong>: 8:46</td>
-      <td colspan="2"><strong>URL de grabación</strong>: https://surl.lu/iyovok</td>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="https://upcedupe-my.sharepoint.com/personal/u202322849_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322849%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideos%2FSegmento%2D1%2DJefes%20de%20Proyectos%20y%20Gerentes%20Generales%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E593e8b93%2Dc4f0%2D4a57%2D9f1e%2De92dc81c64bd" target="_blank">Ver video</a>
+  </td>
     </tr>
     <tr>
       <td colspan="4">
@@ -378,7 +379,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="2"><strong>Duración</strong>: 12:14</td>
-      <td colspan="2"><strong>URL de grabación</strong>: https://acortar.link/i4lNGo</td>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="https://drive.google.com/file/d/14m4jJwM0lSUNWYnrakp4qyTpgDP1KKJ8/view" target="_blank">Ver video</a>
     </tr>
     <tr>
       <td colspan="4">
@@ -429,7 +430,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="2"><strong>Duración</strong>: 05:58</td>
-      <td colspan="2"><strong>URL de grabación</strong>: https://shortlink.uk/1sK7K</td>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316687_upc_edu_pe/IQBWOpfi_6v_T7DTHOz0tzKIAbYe-kP_QcbvspNKOG6LOLQ?e=dSPEWH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Ver video</a>
     </tr>
     <tr>
       <td colspan="4">
@@ -440,6 +441,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
   </tbody>
 </table>
+
 <table style="width:100%; border-collapse:collapse;">
   <tbody>
     <tr>
@@ -480,7 +482,58 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
-      <td colspan="2"><strong>URL de grabación</strong>: [pendiente de completar]</td>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="[pendiente de completar]" target="_blank">Ver video</a>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Resumen de la entrevista</strong><br><br>
+        [pendiente de completar]
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="width:100%; border-collapse:collapse;">
+  <tbody>
+    <tr>
+      <td colspan="4" align="center"><strong>Entrevista N.° 5</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Información del entrevistado</strong></td>
+      <td colspan="2" align="center"><strong>Contexto tecnológico</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Nombre completo</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Dispositivo de mayor frecuencia</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Edad</strong></td>
+      <td>[pendiente de completar] años</td>
+      <td><strong>Sistema operativo/browser</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Definición profesional / cargo</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Canales digitales de comunicación</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td><strong>Residencia / ubicación</strong></td>
+      <td>[pendiente de completar]</td>
+      <td><strong>Software especializado utilizado</strong></td>
+      <td>[pendiente de completar]</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="[pendiente de completar]" target="_blank">Ver video</a>
     </tr>
     <tr>
       <td colspan="4">
