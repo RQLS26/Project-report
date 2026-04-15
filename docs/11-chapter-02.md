@@ -458,27 +458,27 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td><strong>Nombre completo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Lisset Paredes</td>
       <td><strong>Dispositivo de mayor frecuencia</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>aptop y celular (uso intensivo del celular para coordinación en campo)</td>
     </tr>
     <tr>
       <td><strong>Edad</strong></td>
-      <td>[pendiente de completar] años</td>
+      <td>32 años</td>
       <td><strong>Sistema operativo/browser</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Windows (laptop), Android (celular), navegador Google Chrome</td>
     </tr>
     <tr>
       <td><strong>Definición profesional / cargo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Jefa de logística, profesional organizada, analítica y orientada a resultados</td>
       <td><strong>Canales digitales de comunicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>WhatsApp (principal), correo electrónico (uso formal y registro)</td>
     </tr>
     <tr>
       <td><strong>Residencia / ubicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Jesús María, Lima – Proyectos en San Miguel, Surco y Ate</td>
       <td><strong>Software especializado utilizado</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Uso parcial de Indusoft (consulta de stock y requerimientos), complementado con Excel, correo electrónico y WhatsApp</td>
     </tr>
     <tr>
       <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
@@ -487,7 +487,9 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     <tr>
       <td colspan="4">
         <strong>Resumen de la entrevista</strong><br><br>
-        [pendiente de completar]
+        La entrevistada, Lisset Paredes, jefa de logística con 10 años de experiencia, gestiona entre 2 y 3 proyectos simultáneamente. Su trabajo se basa principalmente en el uso de WhatsApp, correo electrónico y Microsoft Excel, complementado parcialmente con Indusoft, el cual presenta limitaciones de rendimiento.
+        El proceso de abastecimiento inicia con requerimientos enviados de forma informal, generalmente incompletos, lo que genera retrasos. La gestión de cotizaciones y el control presupuestal se realizan de manera manual y desorganizada, sin centralización ni actualización en tiempo real.
+        Como consecuencia, se presentan errores logísticos, pérdida de información y retrasos en obra. La entrevistada considera que las herramientas actuales no son suficientes para gestionar eficientemente múltiples proyectos.
       </td>
     </tr>
   </tbody>
