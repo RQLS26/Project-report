@@ -396,7 +396,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="4" align="center">
-        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+        <img src="../docs/assets/chapter-02/entrevista3.png" alt="Entrevista 3 - Leonardo" height="350">
       </td>
     </tr>
     <tr>
@@ -405,41 +405,41 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td><strong>Nombre completo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Leonardo Anhuaman </td>
       <td><strong>Dispositivo de mayor frecuencia</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Celular (coordinación) y Laptop (reportes) </td>
     </tr>
     <tr>
       <td><strong>Edad</strong></td>
-      <td>[pendiente de completar] años</td>
+      <td> 24 años </td>
       <td><strong>Sistema operativo/browser</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Android / Windows / Google Chrome </td>
     </tr>
     <tr>
       <td><strong>Definición profesional / cargo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Jefe de Proyecto Junior </td>
       <td><strong>Canales digitales de comunicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> WhatsApp (predominante) y Correo </td>
     </tr>
     <tr>
       <td><strong>Residencia / ubicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Chorrillos, Lima </td>
       <td><strong>Software especializado utilizado</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> S10 y Excel </td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
-      <td colspan="2"><strong>URL de grabación</strong>: [pendiente de completar]</td>
+      <td colspan="2"><strong>Duración</strong>: 05:58</td>
+      <td colspan="2"><strong>URL de grabación</strong>: https://shortlink.uk/1sK7K</td>
     </tr>
     <tr>
       <td colspan="4">
         <strong>Resumen de la entrevista</strong><br><br>
-        [pendiente de completar]
+        El entrevistado es un Jefe de Proyecto Junior con 2 años de experiencia en una constructora familiar, operando principalmente en el distrito de Chorrillos. Su perfil representa la nueva generación de profesionales en el sector que, a pesar de tener un dominio fluido de herramientas digitales (celular, laptops y apps de mensajería), se ven limitados por la informalidad de los procesos tradicionales de la empresa. <br><br>
+        Leonardo describe un flujo logístico crítico basado casi exclusivamente en WhatsApp y llamadas telefónicas, lo que genera una pérdida constante de trazabilidad en las cotizaciones y errores en las especificaciones técnicas de los materiales. Identifica que la falta de un sistema de "Órdenes de Compra" formales causa retrasos operativos y paralizaciones de cuadrillas, impactando directamente en la rentabilidad. El entrevistado valida la necesidad de transicionar de un control basado en Excel manual hacia una plataforma integrada que permita la aprobación inmediata por parte de gerencia y centralice el historial de costos para una mejor toma de decisiones.
       </td>
     </tr>
   </tbody>
 </table>
-
 <table style="width:100%; border-collapse:collapse;">
   <tbody>
     <tr>
