@@ -292,7 +292,7 @@ Para el desarrollo de las entrevistas del segmento objetivo, se redactaron las s
     </tr>
     <tr>
       <td colspan="4" align="center">
-        <img src="./assets/chapter-02/Jefes de Proyectos y Gerentes Generales-Segmento1.png" alt="Buildline" height="350"></td>
+        <img src="./assets/chapter-02/entrevista-01.png" alt="Buildline" height="350"></td>
       </td>
     </tr>
     <tr>
@@ -346,7 +346,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="4" align="center">
-        <img src="../docs/assets/chapter-02/entrevista2.png" alt="Entrevista 2" height="350">
+        <img src="../docs/assets/chapter-02/entrevista-02.png" alt="Entrevista 2" height="350">
       </td>
     </tr>
     <tr>
@@ -397,7 +397,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="4" align="center">
-        <img src="../docs/assets/chapter-02/entrevista3.png" alt="Entrevista 3 - Leonardo" height="350">
+        <img src="../docs/assets/chapter-02/entrevista-03.png" alt="Entrevista 3 - Leonardo" height="350">
       </td>
     </tr>
     <tr>
@@ -584,7 +584,7 @@ A partir del análisis de las entrevistas y la recolección de información sobr
 
 Para el área operativa se elaboró el User Persona **Donnie Ruiz**. Se consideraron factores como su rol en la supervisión física de las obras, su necesidad de cumplir cronogramas estrictos y su ritmo de trabajo altamente móvil. Sus principales frustraciones giran en torno a la burocracia logística que retrasa la llegada de materiales y la dependencia de canales informales como WhatsApp para presionar por urgencias. Su perfil refleja una necesidad crítica de contar con una plataforma móvil, rápida y responsiva, que le permita solicitar insumos y rastrear su estado de entrega en tiempo real sin abandonar el campo.
 
-<img src="../docs/assets/chapter-02/UserPersona1.png" alt="User Persona 1 - Martín" width="auto" height="1900"/>
+<img src="../docs/assets/chapter-02/user-persona01.png" alt="User Persona 1 - Martín" width="auto" height="1900"/>
 
 <br>
 
@@ -592,7 +592,7 @@ Para el área operativa se elaboró el User Persona **Donnie Ruiz**. Se consider
 
 Para el área de control y gerencia se elaboró el User Persona **Roberto Alcántara**. Se consideraron aspectos como su enfoque en la rentabilidad, la aprobación de presupuestos y la auditoría corporativa. Sus principales frustraciones están asociadas a la pérdida de dinero por "compras de emergencia" no planificadas, el desorden documentario y la inseguridad de usar hojas de Excel compartidas para llevar las finanzas. Su perfil requiere un entorno de escritorio (Dashboard) que centralice las cotizaciones, garantice la inmutabilidad de los datos y le permita aprobar órdenes de compra formales con un solo clic.
 
-<img src="../docs/assets/chapter-02/UserPersona2.png" alt="User Persona 2 - Roberto" width="auto" height="1900"/>
+<img src="../docs/assets/chapter-02/user-persona02.png" alt="User Persona 2 - Roberto" width="auto" height="1900"/>
 
 ### 2.3.2. User Task Matrix
 
