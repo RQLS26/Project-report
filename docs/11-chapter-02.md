@@ -488,9 +488,10 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
       <td colspan="4">
         <strong>Resumen de la entrevista</strong><br><br>
         La entrevistada, Lisset Paredes, jefa de logística con aproximadamente 10 años de experiencia, gestiona entre 2 y 3 proyectos de manera simultánea. Su trabajo se apoya principalmente en herramientas como WhatsApp para la comunicación diaria, el correo electrónico para formalizar información y Microsoft Excel para el control de costos. Además, utiliza parcialmente Indusoft para consultas de stock, aunque este presenta limitaciones como lentitud en su funcionamiento.
-        El proceso de abastecimiento inicia con requerimientos enviados desde obra, generalmente a través de WhatsApp y muchas veces con información incompleta, lo que genera retrabajo y retrasos. Posteriormente, la búsqueda y comparación de cotizaciones se realiza de forma manual, almacenando la información en distintos medios sin un sistema centralizado.
-        El control presupuestal también se gestiona en Excel, sin actualización en tiempo real, lo que ocasiona desfases entre los registros y la ejecución real de gastos. Esta falta de integración y trazabilidad contribuye a errores logísticos, pérdida de información y retrasos en obra.
-        En general, la entrevistada considera que las herramientas actuales no son suficientes para gestionar eficientemente múltiples proyectos, evidenciando la necesidad de una solución digital más integrada y especializada.
+El proceso de abastecimiento inicia con requerimientos enviados desde obra, generalmente a través de WhatsApp y muchas veces con información incompleta, lo que genera retrabajo y retrasos. Posteriormente, la búsqueda y comparación de cotizaciones se realiza de forma manual, almacenando la información en distintos medios sin un sistema centralizado.
+
+El control presupuestal también se gestiona en Excel, sin actualización en tiempo real, lo que ocasiona desfases entre los registros y la ejecución real de gastos. Esta falta de integración y trazabilidad contribuye a errores logísticos, pérdida de información y retrasos en obra.
+En general, la entrevistada considera que las herramientas actuales no son suficientes para gestionar eficientemente múltiples proyectos, evidenciando la necesidad de una solución digital más integrada y especializada.
       </td>
     </tr>
   </tbody>
