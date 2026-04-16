@@ -67,47 +67,47 @@
 [pending content]
 ## 3.3. Product Backlog
 
-| Orden | User Story Id | Título | Descripción | Story Points |
-|------|--------------|--------|-------------|--------------|
-| 1 | US-01 | Recibir sugerencias de materiales | Como ingeniero residente, quiero recibir sugerencias de materiales frecuentes, para agilizar la creación de requerimientos. | 3 |
-| 2 | US-02 | Registrar requerimiento rápidamente | Como ingeniero residente, quiero registrar un requerimiento en pocos pasos, para no perder tiempo en obra. | 3 |
-| 3 | US-03 | Buscar materiales | Como analista de logística, quiero buscar materiales por nombre o código, para encontrarlos rápidamente. | 5 |
-| 4 | US-04 | Ver últimos requerimientos | Como analista de logística, quiero ver los últimos requerimientos registrados, para priorizar su atención. | 3 |
-| 5 | US-05 | Filtrar requerimientos | Como analista de logística, quiero filtrar requerimientos por estado o proyecto, para gestionarlos mejor. | 3 |
-| 6 | US-06 | Recibir sugerencias de proveedores | Como analista de logística, quiero ver proveedores sugeridos, para agilizar cotizaciones. | 5 |
-| 7 | US-07 | Editar o eliminar requerimientos | Como ingeniero residente, quiero modificar o eliminar requerimientos, para mantener información correcta. | 5 |
-| 8 | US-08 | Ver métricas de compras | Como jefe de proyecto, quiero ver estadísticas de compras, para optimizar decisiones. | 5 |
-| 9 | US-09 | Marcar requerimiento como atendido | Como analista de logística, quiero marcar requerimientos como atendidos, para llevar control del proceso. | 5 |
-| 10 | US-10 | Guardar requerimientos frecuentes | Como ingeniero residente, quiero guardar requerimientos frecuentes, para reutilizarlos fácilmente. | 3 |
-| 11 | US-11 | Crear historial de requerimientos | Como usuario, quiero tener un historial de requerimientos, para análisis futuro. | 5 |
-| 12 | US-12 | Ver información del sistema | Como usuario, quiero entender el propósito del sistema, para conocer sus beneficios. | 3 |
-| 13 | US-13 | Ver detalle de requerimiento | Como usuario, quiero ver información detallada de un requerimiento, para validar datos antes de procesarlo. | 3 |
-| 14 | US-14 | Ver información del proveedor | Como analista de logística, quiero ver datos del proveedor, para tomar decisiones informadas. | 3 |
-| 15 | US-15 | Filtrar historial | Como usuario, quiero filtrar historial por tipo o proyecto, para mejor análisis. | 5 |
-| 16 | US-16 | Buscar en historial | Como usuario, quiero buscar dentro del historial, para encontrar información específica. | 5 |
-| 17 | US-17 | Cerrar sesión | Como usuario, quiero cerrar sesión, para proteger mi cuenta. | 3 |
-| 18 | US-18 | Cambiar idioma (landing) | Como usuario, quiero cambiar idioma en la landing, para mayor comodidad. | 3 |
-| 19 | US-19 | Login desde landing | Como usuario, quiero iniciar sesión desde la landing, para acceder rápido. | 3 |
-| 20 | US-20 | Cambiar idioma app | Como usuario, quiero cambiar idioma en la app, para usarla fácilmente. | 5 |
-| 21 | US-21 | Acceder a redes | Como usuario, quiero ver redes del sistema, para conocer más sobre la plataforma. | 3 |
-| 22 | US-22 | Cambiar vista de rol | Como usuario, quiero cambiar entre vistas (obra/logística/gerencia), para adaptarme a mis funciones. | 5 |
-| 23 | US-23 | Editar registros | Como usuario, quiero editar registros existentes, para mantener información actualizada. | 5 |
-| 24 | US-24 | Página 404 | Como usuario, quiero ser redirigido si ocurre error, para no perder navegación. | 3 |
-| 25 | US-25 | Explorar landing - Inicio | Como usuario, quiero entender rápidamente el sistema, para evaluar su uso. | 2 |
-| 26 | US-26 | Explorar funcionalidades | Como usuario, quiero explorar funcionalidades clave, para conocer el sistema. | 2 |
-| 27 | US-27 | Explorar uso del sistema | Como usuario, quiero entender cómo usar la plataforma, para adoptarla fácilmente. | 2 |
-| 28 | US-28 | Explorar comunidad | Como usuario, quiero conocer casos de uso, para generar confianza. | 2 |
-| 29 | US-29 | Conocer empresa | Como usuario, quiero saber quién está detrás del sistema, para confiar en él. | 2 |
-| 30 | US-30 | Personalizar interfaz | Como usuario, quiero cambiar apariencia, para mejorar experiencia. | 2 |
-| 31 | TS-01 | Obtener perfil por ID | Como desarrollador, quiero obtener perfiles, para gestión de usuarios. | 3 |
-| 32 | TS-02 | Actualizar perfil | Como desarrollador, quiero actualizar perfiles, para mantener datos correctos. | 4 |
-| 33 | TS-03 | Listar perfiles | Como desarrollador, quiero listar usuarios, para administración. | 4 |
-| 34 | TS-04 | Obtener materiales | Como desarrollador, quiero listar materiales, para inventario. | 3 |
-| 35 | TS-05 | Crear material | Como desarrollador, quiero registrar materiales, para catálogo. | 4 |
-| 36 | TS-06 | Obtener material por ID | Como desarrollador, quiero ver detalle de material. | 4 |
-| 37 | TS-07 | Actualizar material | Como desarrollador, quiero actualizar materiales. | 5 |
-| 38 | TS-08 | Eliminar material | Como desarrollador, quiero eliminar materiales. | 4 |
-| 39 | TS-09 | Obtener categorías | Como desarrollador, quiero listar categorías. | 3 |
-| 40 | TS-10 | Obtener categoría por ID | Como desarrollador, quiero ver detalle de categoría. | 5 |
-| 41 | TS-11 | Login | Como desarrollador, quiero autenticar usuarios. | 3 |
-| 42 | TS-12 | Registro | Como desarrollador, quiero registrar usuarios. | 3 |
+| Orden | ID | Tipo | Título | Descripción | Story Points |
+|------|----|------|--------|-------------|--------------|
+| 1 | US-001 | User Story | Registrar requerimiento de material | Como ingeniero residente, quiero registrar requerimientos desde obra para iniciar el proceso de abastecimiento estructurado. | 5 |
+| 2 | US-002 | User Story | Adjuntar evidencia | Como ingeniero residente, quiero adjuntar fotos/documentos para mejorar la claridad del requerimiento. | 3 |
+| 3 | US-003 | User Story | Visualizar requerimientos | Como analista de logística, quiero ver todos los requerimientos para gestionarlos eficientemente. | 5 |
+| 4 | US-004 | User Story | Filtrar requerimientos | Como analista de logística, quiero filtrar requerimientos por criterios para encontrarlos rápidamente. | 3 |
+| 5 | US-005 | User Story | Generar solicitud de cotización | Como analista de logística, quiero generar solicitudes para obtener precios de proveedores. | 5 |
+| 6 | US-006 | User Story | Registrar cotizaciones | Como analista de logística, quiero registrar cotizaciones para compararlas. | 5 |
+| 7 | US-007 | User Story | Comparar cotizaciones | Como jefe de proyecto, quiero comparar opciones para elegir la mejor. | 5 |
+| 8 | US-008 | User Story | Aprobar compra | Como jefe de proyecto, quiero aprobar compras para autorizar gastos. | 5 |
+| 9 | US-009 | User Story | Generar orden de compra | Como analista de logística, quiero generar órdenes para formalizar pedidos. | 5 |
+| 10 | US-010 | User Story | Notificar proveedor | Como analista de logística, quiero notificar proveedores para iniciar entregas. | 3 |
+| 11 | US-011 | User Story | Seguimiento de pedidos | Como ingeniero residente, quiero monitorear el estado de pedidos. | 5 |
+| 12 | US-012 | User Story | Confirmar recepción | Como ingeniero residente, quiero confirmar materiales para cerrar pedidos. | 5 |
+| 13 | US-013 | User Story | Registrar incidencias | Como ingeniero residente, quiero registrar problemas con proveedores. | 5 |
+| 14 | US-014 | User Story | Controlar stock | Como analista de logística, quiero visualizar inventario para evitar faltantes. | 5 |
+| 15 | US-015 | User Story | Actualizar stock | Como analista de logística, quiero registrar movimientos de inventario. | 5 |
+| 16 | US-016 | User Story | Historial de compras | Como jefe de proyecto, quiero analizar compras pasadas. | 3 |
+| 17 | US-017 | User Story | Control presupuestal | Como jefe de proyecto, quiero controlar costos del proyecto. | 5 |
+| 18 | US-018 | User Story | Alertas de sobrecosto | Como jefe de proyecto, quiero recibir alertas para prevenir desviaciones. | 3 |
+| 19 | US-019 | User Story | Dashboard general | Como jefe de proyecto, quiero ver KPIs para decisiones rápidas. | 5 |
+| 20 | US-020 | User Story | Acceso móvil | Como ingeniero residente, quiero usar el sistema desde el móvil. | 3 |
+| 21 | US-021 | User Story | Notificaciones en tiempo real | Como usuario, quiero recibir alertas inmediatas. | 3 |
+| 22 | US-022 | User Story | Registro de usuarios | Como analista de logística, quiero registrar usuarios. | 3 |
+| 23 | US-023 | User Story | Inicio de sesión | Como usuario, quiero acceder al sistema de forma segura. | 3 |
+| 24 | US-024 | User Story | Gestión de roles | Como jefe de proyecto, quiero controlar permisos. | 5 |
+| 25 | US-025 | User Story | Historial de acciones | Como jefe de proyecto, quiero auditar acciones del sistema. | 5 |
+| 26 | US-026 | User Story | Búsqueda global | Como analista de logística, quiero buscar información rápidamente. | 3 |
+| 27 | US-027 | User Story | Exportar a Excel | Como jefe de proyecto, quiero exportar datos para análisis. | 3 |
+| 28 | US-028 | User Story | Carga masiva | Como analista de logística, quiero subir datos en lote. | 5 |
+| 29 | US-029 | User Story | Gestión de proveedores | Como analista de logística, quiero registrar proveedores. | 3 |
+| 30 | US-030 | User Story | Evaluación de proveedores | Como jefe de proyecto, quiero calificar proveedores. | 3 |
+| 31 | TS-01 | Technical Story | Obtener perfil por ID | Endpoint para recuperar información detallada de usuarios. | 3 |
+| 32 | TS-02 | Technical Story | Actualizar perfil | Permite modificar datos de usuario en el sistema. | 4 |
+| 33 | TS-03 | Technical Story | Listar perfiles | Obtiene todos los usuarios registrados. | 4 |
+| 34 | TS-04 | Technical Story | Obtener materiales | Lista todos los materiales disponibles. | 3 |
+| 35 | TS-05 | Technical Story | Crear material | Permite registrar nuevos materiales en el sistema. | 4 |
+| 36 | TS-06 | Technical Story | Obtener material por ID | Consulta información específica de materiales. | 4 |
+| 37 | TS-07 | Technical Story | Actualizar material | Permite modificar datos del inventario. | 5 |
+| 38 | TS-08 | Technical Story | Eliminar material | Permite eliminar registros de materiales. | 4 |
+| 39 | TS-09 | Technical Story | Obtener categorías | Lista categorías de materiales. | 3 |
+| 40 | TS-10 | Technical Story | Obtener categoría por ID | Consulta detalle de categoría. | 5 |
+| 41 | TS-11 | Technical Story | Autenticación | Implementa login con JWT. | 3 |
+| 42 | TS-12 | Technical Story | Registro de usuario | Permite registrar nuevos usuarios. | 3 |
