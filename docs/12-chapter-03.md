@@ -1,5 +1,18 @@
 # Capítulo III: Requirements Specification
+## 3.0. Epics
+
+| EPIC ID | Titulo | Descripcion |
+|--------|--------|-------------|
+| EP-01 | Gestión de requerimientos | Permite registrar, visualizar, buscar y filtrar requerimientos de materiales desde obra, asegurando un flujo estructurado de solicitudes. |
+| EP-02 | Gestión de compras y abastecimiento | Permite gestionar el proceso completo de compras: cotizaciones, comparación, aprobación y generación de órdenes de compra. |
+| EP-03 | Gestión de inventario y almacén | Permite controlar el stock de materiales, registrar movimientos y confirmar la recepción de pedidos para mantener inventarios actualizados. |
+| EP-04 | Gestión de usuarios y seguridad | Permite registrar usuarios, gestionar roles y controlar accesos al sistema mediante autenticación segura. |
+| EP-05 | Análisis y control de gestión | Permite visualizar indicadores, historial de compras y control presupuestal para la toma de decisiones estratégicas. |
+| EP-06 | Comunicación e integración | Permite enviar notificaciones, acceso móvil y exportación/importación de datos para mejorar la conectividad y usabilidad del sistema. |
+| EP-07 | Gestión de proveedores | Permite registrar, evaluar y gestionar proveedores, así como controlar incidencias relacionadas con ellos. |
+
 ## 3.1. User Stories
+
 | US ID | Titulo | Descripcion | Criterio de Aceptacion | Relacionado con (EPIC ID) |
 |------|--------|-------------|------------------------|--------------------------|
 | US 001 | Registrar requerimiento de material | Como ingeniero residente, quiero registrar un requerimiento de materiales desde obra, para iniciar el proceso de abastecimiento de forma estructurada. | Escenario 1: Registro correcto. Dado que el usuario completa campos obligatorios (material, cantidad, proyecto, prioridad), cuando envía el requerimiento, entonces el sistema lo registra con ID único, estado “Pendiente” y fecha. Escenario 2: Datos incompletos. Dado que faltan campos obligatorios, cuando intenta enviar, entonces el sistema bloquea el registro y muestra mensajes específicos por campo. | EP-01 |
