@@ -1,4 +1,15 @@
 # Capítulo III: Requirements Specification
+
+## TO-BE Scenario Mapping
+Jefes de Proyecto / Gerentes Generales
+
+| Fase | Doing (Qué hace) | Thinking (Qué piensa) | Feeling (Qué siente) |
+|------|----------------|----------------------|----------------------|
+| Evaluación de requerimientos | Revisa solicitudes de materiales con información consolidada, incluyendo prioridad, costo estimado e impacto en el proyecto, provenientes de obra y logística. | “Necesito entender rápidamente qué solicitudes son críticas y cuáles pueden optimizarse para no afectar el proyecto.” | Analítico y bajo presión por tomar decisiones rápidas. |
+| Análisis y comparación | Evalúa cotizaciones de diferentes proveedores considerando variables como precio, tiempo de entrega, calidad y confiabilidad del proveedor. | “Debo elegir la mejor opción en términos de costo-beneficio sin comprometer el cronograma ni la calidad.” | Estratégico, cauteloso y enfocado en resultados. |
+| Toma de decisión | Aprueba o rechaza solicitudes de compra dentro del sistema basándose en información clara, validada y estructurada. | “Mi decisión debe estar bien fundamentada para evitar sobrecostos o retrasos en la obra.” | Responsable y con presión por el impacto de sus decisiones. |
+| Seguimiento y control | Monitorea el estado de pedidos, cumplimiento de entregas y ejecución presupuestal mediante dashboards, indicadores y alertas del sistema. | “Necesito asegurar que todo se esté ejecutando según lo planificado y dentro del presupuesto establecido.” | Vigilante, con mayor sensación de control y seguridad. |
+
 ## 3.0. Epics
 
 | EPIC ID | Titulo | Descripcion |
