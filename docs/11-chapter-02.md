@@ -661,14 +661,24 @@ El User Journey Mapping es una herramienta de diseño centrado en el usuario que
 
 **1) Perfil 1: Área operativa de campo**
 
-<img src="../docs/assets/chapter-02/user-journey-mapping2.png" alt="User Journey Mapping 2 - Martin" width="auto" height="1900"/>
+<img src="../docs/assets/chapter-02/user-journey-mapping2.png" alt="User Journey Mapping 1 - Martin" width="auto" height="1900"/>
 
 **2) Perfil 2: Área de control y gerencia**
 
-<img src="../docs/assets/chapter-02/user-journey-mapping1.png" alt="User Journey Mapping - Roberto" width="auto" height="1900"/>
+<img src="../docs/assets/chapter-02/user-journey-mapping1.png" alt="User Journey Mapping 2 - Roberto" width="auto" height="1900"/>
 
 ### 2.3.4. Empathy Mapping
-[pending content]
+
+Para crear una solución que realmente se vincule con las personas, no es suficiente con saber qué hacen; tenemos que comprender lo que sienten. El Empathy Mapping es una herramienta de diseño centrado en el usuario que nos posibilita trascender los datos demográficos y explorar más a fondo el mundo interno de nuestros perfiles.
+
+**1) Perfil 1: Área operativa de campo**
+
+<img src="../docs/assets/chapter-02/empathy-mapping1.png" alt="Empathy Mapping 1 - Martin" width="auto" height="1900"/>
+
+**2) Perfil 2: Área de control y gerencia**
+
+<img src="../docs/assets/chapter-02/empathy-mapping2.png" alt="Empathy Mapping 2 - Roberto" width="auto" height="1900"/>
+
 ## 2.4. Big Picture EventStorming
 [pending content]
 ## 2.5. Ubiquitous Language
