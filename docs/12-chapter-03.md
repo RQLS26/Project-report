@@ -1,6 +1,6 @@
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
-| US ID  | Titulo | Descripcion | Criterio de Aceptacion |
+| US ID      | Titulo | Descripcion | Criterio de Aceptacion |
 |--------|--------|-------------|------------------------|
 | US 001 | Registrar requerimiento de material | Como ingeniero residente, quiero registrar un requerimiento de materiales desde obra, para iniciar el proceso de abastecimiento de forma estructurada. | Escenario 1: Registro correcto Dado que el usuario completa los campos obligatorios, Cuando envía el requerimiento, Entonces este se registra correctamente. Escenario 2: Datos incompletos Dado que faltan datos, Cuando intenta enviar, Entonces se muestra mensaje de error. |
 | US 002 | Adjuntar evidencia al requerimiento | Como usuario de obra, quiero adjuntar fotos o documentos al requerimiento, para brindar mayor claridad sobre el material solicitado. | Escenario 1: Archivo válido Dado que adjunta imagen o PDF, Cuando envía, Entonces se guarda correctamente. Escenario 2: Archivo inválido Dado que el formato no es permitido, Entonces se muestra error. |
