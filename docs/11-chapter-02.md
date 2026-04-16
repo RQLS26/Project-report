@@ -449,7 +449,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="4" align="center">
-        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+        <img src="../docs/assets/chapter-02/entrevista-04.png" alt="Entrevista 3 - Leonardo" height="350">
       </td>
     </tr>
     <tr>
@@ -482,7 +482,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
-      <td colspan="2"><strong>URL de grabación: </strong><a href="[pendiente de completar]" target="_blank">Ver video</a>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923820_upc_edu_pe/IQBlkNjTWHvGRrHWcVowxzt6Adx8YM62dFlnE9heBecX338?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mTp6gw" target="_blank">Ver video</a>
     </tr>
     <tr>
       <td colspan="4">
