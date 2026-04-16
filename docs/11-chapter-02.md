@@ -656,7 +656,17 @@ Se observa una clara complementariedad entre ambos perfiles. La tarea de **"Gene
 <div style="page-break-after: always;"></div>
 
 ### 2.3.3. User Journey Mapping
-[pending content]
+
+El User Journey Mapping es una herramienta de diseño centrado en el usuario que nos permite **"caminar en las zapatos de otro"** del personal de construcción. En este análisis, mapeamos el viaje emocional y operativo que recorren tanto el Jefe de Campo (urgencia técnica) como el Gerente de Oficina (control financiero) durante el ciclo de abastecimiento.
+
+**1) Perfil 1: Área operativa de campo**
+
+<img src="../docs/assets/chapter-02/user-journey-mapping1.png" alt="User Journey Mapping - Martin" width="auto" height="1900"/>
+
+**2) Perfil 2: Área de control y gerencia**
+
+<img src="../docs/assets/chapter-02/user-journey-mapping2.png" alt="User Journey Mapping 2 - Roberto" width="auto" height="1900"/>
+
 ### 2.3.4. Empathy Mapping
 [pending content]
 ## 2.4. Big Picture EventStorming
