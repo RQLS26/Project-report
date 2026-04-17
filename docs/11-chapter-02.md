@@ -680,6 +680,20 @@ Para crear una solución que realmente se vincule con las personas, no es sufici
 <img src="../docs/assets/chapter-02/empathy-mapping2.png" alt="Empathy Mapping 2 - Roberto" width="auto" height="1900"/>
 
 ## 2.4. Big Picture EventStorming
-[pending content]
+
+Para diseñar un sistema robusto, primero debemos entender el negocio como un todo, dejando de lado los tecnicismos para enfocarnos en la lógica pura del dominio. El Big Picture EventStorming es una técnica colaborativa que nos ayuda a visualizar todos los eventos significativos que ocurren en la cadena de abastecimiento de una constructora. Al organizar estos eventos de manera cronológica, logramos identificar los flujos críticos del negocio y los puntos exactos donde la información suele perderse o demorarse en la transición entre la obra y la oficina central.
+
+**Step 1 – Free Exploration**
+
+En esta primera etapa, el equipo realizó una sesión de lluvia de ideas para capturar todos los eventos de dominio relevantes, sin preocuparse inicialmente por el orden o la jerarquía. El objetivo principal fue representar los acontecimientos reales del negocio —como la detección de una falta de material o la negociación de un precio— de manera independiente a cualquier función técnica o arquitectura del sistema.
+
+<img src="../docs/assets/chapter-02/big-picture-event-storming1.png" alt="Big Picture EventStorming 1" width="auto" height="1900"/>
+
+**Step 2 – Structured Organization** 
+
+Después de listar los eventos en esta estructura nos permitió aislar los procesos clave, desde el requerimiento inicial en el frente de obra hasta la conciliación financiera final, resaltando las áreas de mejora que serán abordadas mediante nuestra solución digital.
+
+<img src="../docs/assets/chapter-02/big-picture-event-storming2.png" alt="Big Picture EventStorming 2" width="auto" height="1900"/>
+
 ## 2.5. Ubiquitous Language
 [pending content]
