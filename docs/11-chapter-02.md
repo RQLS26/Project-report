@@ -504,7 +504,7 @@ En general, la entrevistada considera que las herramientas actuales no son sufic
     </tr>
     <tr>
       <td colspan="4" align="center">
-        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+        <img src="../docs/assets/chapter-02/entrevista-05.png" alt="Entrevista 5 - Sebastián" height="350">
       </td>
     </tr>
     <tr>
@@ -513,36 +513,37 @@ En general, la entrevistada considera que las herramientas actuales no son sufic
     </tr>
     <tr>
       <td><strong>Nombre completo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Sebastián Vásquez</td>
       <td><strong>Dispositivo de mayor frecuencia</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Laptop y Smartphone (Android)</td>
     </tr>
     <tr>
       <td><strong>Edad</strong></td>
-      <td>[pendiente de completar] años</td>
+      <td>27 años</td>
       <td><strong>Sistema operativo/browser</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Windows 11 / Google Chrome</td>
     </tr>
     <tr>
       <td><strong>Definición profesional / cargo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Ingeniero Civil</td>
       <td><strong>Canales digitales de comunicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>WhatsApp Business y Microsoft Outlook</td>
     </tr>
     <tr>
       <td><strong>Residencia / ubicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>San Borja, Lima</td>
       <td><strong>Software especializado utilizado</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>S10 (Presupuestos), MS Project y MS Excel</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
-      <td colspan="2"><strong>URL de grabación: </strong><a href="[pendiente de completar]" target="_blank">Ver video</a>
+      <td colspan="2"><strong>Duración</strong>: 14:54</td>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b504_upc_edu_pe/IQDfPqhAH-25T7AE0HENbnpTAZ2WTtY2YOFNkrarA_D8QgM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XxxnPg" target="_blank">Ver video</a>
     </tr>
     <tr>
       <td colspan="4">
         <strong>Resumen de la entrevista</strong><br><br>
-        [pendiente de completar]
+        Sebastián destaca que el mayor dolor administrativo es la pérdida de trazabilidad en las compras. Actualmente, recibe requerimientos por WhatsApp que se mezclan con fotos de obra y mensajes personales, lo que causa olvidos y compras de emergencia que elevan los costos hasta en un 18%.
+        Valida positivamente la solución, ya que actualmente debe revisar PDF's sueltos en el correo para decidir a qué proveedor comprar. Indica que su disposición a pagar por el SaaS depende de que el operario en campo (Residente) realmente use el sistema en lugar de llamar por teléfono. Sugiere que la interfaz sea extremadamente ligera debido a la baja señal en algunas obras de infraestructura.
       </td>
     </tr>
   </tbody>
