@@ -503,26 +503,26 @@ Este segmento agrupa a [descripción breve del grupo analizado]. A partir de las
 #### 2. Características objetivas del segmento
 | Característica              | Sustento estadístico | Evidencia en entrevistas | Relación con el arquetipo |
 |:----------------------------| :-- | :-- | :-- |
-| [Característica objetiva 1] | [xx%] | [Entrevista N.° __ / cita breve o hallazgo] | [Cómo aporta al arquetipo] |
-| [Característica objetiva 2] | [xx%] | [Entrevista N.° __ / cita breve o hallazgo] | [Cómo aporta al arquetipo] |
-| [Característica objetiva 3] | [xx%] | [Entrevista N.° __ / cita breve o hallazgo] | [Cómo aporta al arquetipo] |
-| [Característica objetiva 4] | [xx%] | [Entrevista N.° __ / cita breve o hallazgo] | [Cómo aporta al arquetipo] |
+| **Uso de mensajería informal para requerimientos** | 100% (5/5) | **Entrevistas 1, 2, 3, 4 y 5:** Todos afirman usar WhatsApp como canal principal para urgencias y requerimientos de obra, mezclando datos técnicos con mensajes personales. | Define el comportamiento actual del usuario y justifica la necesidad de crear un canal de comunicación centralizado y estructurado. |
+| **Uso de MS Excel como herramienta base de control** | 80% (4/5) | **Entrevistas 1, 2, 3 y 4:** Abdón, Carlos, Leonardo y Lisset utilizan Excel para presupuestos y control de costos, pero reconocen que no se actualiza en tiempo real. | Establece la línea base de competencia tecnológica del usuario: están acostumbrados a tablas y grillas, por lo que la nueva interfaz debe ser familiar pero automatizada. |
+| **Operación dividida (Campo vs. Gabinete)** | 100% (5/5) | **Todas las entrevistas:** Evidencian un flujo logístico desconectado donde el campo (residente) pide y el gabinete (oficina/logística) procesa y aprueba. | Moldea el arquetipo en dos roles interactuantes, obligando a que la solución sea multiplataforma (móvil para campo, web para oficina). |
+| **Dependencia de dispositivos móviles con conectividad limitada** | 60% (3/5) | **Entrevistas 1, 2 y 5:** Abdón, Carlos y Sebastián priorizan el celular. Sebastián indica que la señal en obras de infraestructura es baja. | Dictamina que el arquetipo valora la inmediatez y requiere que la aplicación sea extremadamente ligera (Low-Data) para funcionar en campo. |
 
 #### 3. Características subjetivas del segmento
 | Característica               | Sustento estadístico | Evidencia en entrevistas | Relación con el arquetipo |
 |:-----------------------------| :-- | :-- | :-- |
-| [Característica subjetiva 1] | [xx%] | [Entrevista N.° __ / resumen o respuesta] | [Cómo aporta al arquetipo] |
-| [Característica subjetiva 2] | [xx%] | [Entrevista N.° __ / resumen o respuesta] | [Cómo aporta al arquetipo] |
-| [Característica subjetiva 3] | [xx%] | [Entrevista N.° __ / resumen o respuesta] | [Cómo aporta al arquetipo] |
-| [Característica subjetiva 4] | [xx%] | [Entrevista N.° __ / resumen o respuesta] | [Cómo aporta al arquetipo] |
+| **Frustración por pérdida de trazabilidad** | 100% (5/5) | **Entrevistas 3, 4 y 5:** Leonardo, Lisset y Sebastián sufren por cotizaciones perdidas, PDFs sueltos y requerimientos incompletos enviados por WhatsApp. | Define el principal dolor (*pain point*) del arquetipo: la ansiedad administrativa y la carga cognitiva de buscar información dispersa. |
+| **Percepción de riesgo ante procesos manuales** | 60% (3/5) | **Entrevistas 1, 2 y 3:** Carlos califica a Excel como "peligroso" a nivel profesional. Abdón y Leonardo señalan el alto riesgo de errores humanos. | Aporta a los objetivos del usuario: busca seguridad, formalidad y automatización para proteger su prestigio y el presupuesto de la obra. |
+| **Preocupación por sobrecostos logísticos** | 80% (4/5) | **Entrevistas 2, 3, 4 y 5:** Carlos y Leonardo afirman que los retrasos paralizan cuadrillas. Sebastián cuantifica que las compras de emergencia elevan costos hasta un 18%. | Establece la motivación de compra (*driver*) del usuario: adoptarán el sistema si este demuestra prevenir paralizaciones y reducir urgencias. |
+| **Condicionamiento de adopción tecnológica** | 40% (2/5) | **Entrevistas 1 y 5:** Sebastián condiciona el pago del SaaS a que el operario de campo realmente lo use y deje de llamar. Abdón exige poder gestionar desde campo. | Define las frustraciones potenciales frente a nuevas soluciones: el usuario teme pagar por un software que su equipo operativo se resista a utilizar. |
 
 #### 4. Hallazgos principales
-- [Hallazgo 1 sustentado en entrevistas y porcentajes].
-- [Hallazgo 2 sustentado en entrevistas y porcentajes].
-- [Hallazgo 3 sustentado en entrevistas y porcentajes].
+- **La informalidad como cuello de botella (100% de coincidencia):** El uso generalizado de WhatsApp para emitir "Órdenes de Compra" informales es la principal causa de pérdida de información, errores en especificaciones técnicas y estrés administrativo.
+- **El costo del retraso manual (80% de coincidencia):** La dependencia de Excel y aprobaciones lentas (hasta 2 días) genera compras de emergencia que elevan los costos operativos de los proyectos de construcción hasta en un 18%.
+- **Necesidad de adopción "Bottom-Up" (40% de coincidencia clave):** La decisión de adquirir y mantener una plataforma de gestión no solo depende de la directiva, sino de que la interfaz móvil sea lo suficientemente amigable y ligera para que el "Residente de Obra" la prefiera por encima de una llamada telefónica convencional.
 
 #### 5. Conclusión del segmento
-Con base en las entrevistas registradas, este segmento se caracteriza por [síntesis final]. Las evidencias obtenidas permiten establecer que [interpretación final], lo cual resulta necesario para la construcción del arquetipo de usuario.
+Con base en las entrevistas registradas, este segmento se caracteriza por sufrir un alto nivel de estrés operativo debido a la brecha entre la urgencia del trabajo en campo y la lentitud de los procesos administrativos manuales en gabinete. Las evidencias obtenidas permiten establecer que el éxito de una solución digital no radica en ofrecer funciones complejas, sino en reemplazar a WhatsApp con un flujo de aprobaciones inmediato, estructurado y de alta trazabilidad, lo cual resulta necesario para la construcción del arquetipo de usuario: un profesional enfocado en la rentabilidad, urgido por la velocidad logística y altamente dependiente de su teléfono móvil.
 
 ## 2.3. Needfinding
 A partir del análisis de las entrevistas y la recolección de información sobre las dinámicas en la gestión de proyectos de construcción, se identificaron dos perfiles principales dentro de nuestro segmento objetivo que interactuarán con la solución RQLS. Aunque ambos pertenecen a la gestión de la obra, representan dos polos operativos: la urgencia de la ejecución en campo y la necesidad de control financiero en oficina. La construcción de estos *User Persona* permite al equipo comprender sus motivaciones, frustraciones y el contraste en sus herramientas tecnológicas, lo cual es vital para diseñar un flujo que conecte la obra con la gerencia de manera efectiva.
