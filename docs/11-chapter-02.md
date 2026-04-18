@@ -292,7 +292,7 @@ Para el desarrollo de las entrevistas del segmento objetivo, se redactaron las s
     </tr>
     <tr>
       <td colspan="4" align="center">
-        <img src="./assets/chapter-02/Jefes de Proyectos y Gerentes Generales-Segmento1.png" alt="Buildline" height="350"></td>
+        <img src="./assets/chapter-02/entrevista-01.png" alt="Buildline" height="350"></td>
       </td>
     </tr>
     <tr>
@@ -325,7 +325,8 @@ Para el desarrollo de las entrevistas del segmento objetivo, se redactaron las s
     </tr>
     <tr>
       <td colspan="2"><strong>Duración</strong>: 8:46</td>
-      <td colspan="2"><strong>URL de grabación</strong>: https://surl.lu/iyovok</td>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="https://upcedupe-my.sharepoint.com/personal/u202322849_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202322849%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideos%2FSegmento%2D1%2DJefes%20de%20Proyectos%20y%20Gerentes%20Generales%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E593e8b93%2Dc4f0%2D4a57%2D9f1e%2De92dc81c64bd" target="_blank">Ver video</a>
+  </td>
     </tr>
     <tr>
       <td colspan="4">
@@ -345,7 +346,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="4" align="center">
-        <img src="../docs/assets/chapter-02/entrevista2.png" alt="Entrevista 2" height="350">
+        <img src="../docs/assets/chapter-02/entrevista-02.png" alt="Entrevista 2" height="350">
       </td>
     </tr>
     <tr>
@@ -378,7 +379,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="2"><strong>Duración</strong>: 12:14</td>
-      <td colspan="2"><strong>URL de grabación</strong>: https://acortar.link/i4lNGo</td>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="https://drive.google.com/file/d/14m4jJwM0lSUNWYnrakp4qyTpgDP1KKJ8/view" target="_blank">Ver video</a>
     </tr>
     <tr>
       <td colspan="4">
@@ -396,7 +397,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="4" align="center">
-        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+        <img src="../docs/assets/chapter-02/entrevista-03.png" alt="Entrevista 3 - Leonardo" height="350">
       </td>
     </tr>
     <tr>
@@ -405,36 +406,37 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td><strong>Nombre completo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Leonardo Anhuaman </td>
       <td><strong>Dispositivo de mayor frecuencia</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Celular (coordinación) y Laptop (reportes) </td>
     </tr>
     <tr>
       <td><strong>Edad</strong></td>
-      <td>[pendiente de completar] años</td>
+      <td> 24 años </td>
       <td><strong>Sistema operativo/browser</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Android / Windows / Google Chrome </td>
     </tr>
     <tr>
       <td><strong>Definición profesional / cargo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Jefe de Proyecto Junior </td>
       <td><strong>Canales digitales de comunicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> WhatsApp (predominante) y Correo </td>
     </tr>
     <tr>
       <td><strong>Residencia / ubicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> Chorrillos, Lima </td>
       <td><strong>Software especializado utilizado</strong></td>
-      <td>[pendiente de completar]</td>
+      <td> S10 y Excel </td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
-      <td colspan="2"><strong>URL de grabación</strong>: [pendiente de completar]</td>
+      <td colspan="2"><strong>Duración</strong>: 05:58</td>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316687_upc_edu_pe/IQBWOpfi_6v_T7DTHOz0tzKIAbYe-kP_QcbvspNKOG6LOLQ?e=dSPEWH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Ver video</a>
     </tr>
     <tr>
       <td colspan="4">
         <strong>Resumen de la entrevista</strong><br><br>
-        [pendiente de completar]
+        El entrevistado es un Jefe de Proyecto Junior con 2 años de experiencia en una constructora familiar, operando principalmente en el distrito de Chorrillos. Su perfil representa la nueva generación de profesionales en el sector que, a pesar de tener un dominio fluido de herramientas digitales (celular, laptops y apps de mensajería), se ven limitados por la informalidad de los procesos tradicionales de la empresa. <br><br>
+        Leonardo describe un flujo logístico crítico basado casi exclusivamente en WhatsApp y llamadas telefónicas, lo que genera una pérdida constante de trazabilidad en las cotizaciones y errores en las especificaciones técnicas de los materiales. Identifica que la falta de un sistema de "Órdenes de Compra" formales causa retrasos operativos y paralizaciones de cuadrillas, impactando directamente en la rentabilidad. El entrevistado valida la necesidad de transicionar de un control basado en Excel manual hacia una plataforma integrada que permita la aprobación inmediata por parte de gerencia y centralice el historial de costos para una mejor toma de decisiones.
       </td>
     </tr>
   </tbody>
@@ -447,7 +449,7 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td colspan="4" align="center">
-        [imagen de la entrevista/ captura de pantalla de la reunión virtual]
+        <img src="../docs/assets/chapter-02/entrevista-04.png" alt="Entrevista 3 - Leonardo" height="350">
       </td>
     </tr>
     <tr>
@@ -456,36 +458,92 @@ El proceso de aprobación de compras involucra al residente y al contratista gen
     </tr>
     <tr>
       <td><strong>Nombre completo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Lisset Paredes</td>
       <td><strong>Dispositivo de mayor frecuencia</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>aptop y celular (uso intensivo del celular para coordinación en campo)</td>
     </tr>
     <tr>
       <td><strong>Edad</strong></td>
-      <td>[pendiente de completar] años</td>
+      <td>32 años</td>
       <td><strong>Sistema operativo/browser</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Windows (laptop), Android (celular), navegador Google Chrome</td>
     </tr>
     <tr>
       <td><strong>Definición profesional / cargo</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Jefa de logística, profesional organizada, analítica y orientada a resultados</td>
       <td><strong>Canales digitales de comunicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>WhatsApp (principal), correo electrónico (uso formal y registro)</td>
     </tr>
     <tr>
       <td><strong>Residencia / ubicación</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Jesús María, Lima – Proyectos en San Miguel, Surco y Ate</td>
       <td><strong>Software especializado utilizado</strong></td>
-      <td>[pendiente de completar]</td>
+      <td>Uso parcial de Indusoft (consulta de stock y requerimientos), complementado con Excel, correo electrónico y WhatsApp</td>
     </tr>
     <tr>
       <td colspan="2"><strong>Duración</strong>: [pendiente de completar]</td>
-      <td colspan="2"><strong>URL de grabación</strong>: [pendiente de completar]</td>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923820_upc_edu_pe/IQBlkNjTWHvGRrHWcVowxzt6Adx8YM62dFlnE9heBecX338?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mTp6gw" target="_blank">Ver video</a>
     </tr>
     <tr>
       <td colspan="4">
         <strong>Resumen de la entrevista</strong><br><br>
-        [pendiente de completar]
+        La entrevistada, Lisset Paredes, jefa de logística con aproximadamente 10 años de experiencia, gestiona entre 2 y 3 proyectos de manera simultánea. Su trabajo se apoya principalmente en herramientas como WhatsApp para la comunicación diaria, el correo electrónico para formalizar información y Microsoft Excel para el control de costos. Además, utiliza parcialmente Indusoft para consultas de stock, aunque este presenta limitaciones como lentitud en su funcionamiento.
+El proceso de abastecimiento inicia con requerimientos enviados desde obra, generalmente a través de WhatsApp y muchas veces con información incompleta, lo que genera retrabajo y retrasos. Posteriormente, la búsqueda y comparación de cotizaciones se realiza de forma manual, almacenando la información en distintos medios sin un sistema centralizado.
+
+El control presupuestal también se gestiona en Excel, sin actualización en tiempo real, lo que ocasiona desfases entre los registros y la ejecución real de gastos. Esta falta de integración y trazabilidad contribuye a errores logísticos, pérdida de información y retrasos en obra.
+En general, la entrevistada considera que las herramientas actuales no son suficientes para gestionar eficientemente múltiples proyectos, evidenciando la necesidad de una solución digital más integrada y especializada.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="width:100%; border-collapse:collapse;">
+  <tbody>
+    <tr>
+      <td colspan="4" align="center"><strong>Entrevista N.° 5</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+        <img src="../docs/assets/chapter-02/entrevista-05.png" alt="Entrevista 5 - Sebastián" height="350">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Información del entrevistado</strong></td>
+      <td colspan="2" align="center"><strong>Contexto tecnológico</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Nombre completo</strong></td>
+      <td>Sebastián Vásquez</td>
+      <td><strong>Dispositivo de mayor frecuencia</strong></td>
+      <td>Laptop y Smartphone (Android)</td>
+    </tr>
+    <tr>
+      <td><strong>Edad</strong></td>
+      <td>27 años</td>
+      <td><strong>Sistema operativo/browser</strong></td>
+      <td>Windows 11 / Google Chrome</td>
+    </tr>
+    <tr>
+      <td><strong>Definición profesional / cargo</strong></td>
+      <td>Ingeniero Civil</td>
+      <td><strong>Canales digitales de comunicación</strong></td>
+      <td>WhatsApp Business y Microsoft Outlook</td>
+    </tr>
+    <tr>
+      <td><strong>Residencia / ubicación</strong></td>
+      <td>San Borja, Lima</td>
+      <td><strong>Software especializado utilizado</strong></td>
+      <td>S10 (Presupuestos), MS Project y MS Excel</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Duración</strong>: 14:54</td>
+      <td colspan="2"><strong>URL de grabación: </strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b504_upc_edu_pe/IQDfPqhAH-25T7AE0HENbnpTAZ2WTtY2YOFNkrarA_D8QgM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XxxnPg" target="_blank">Ver video</a>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Resumen de la entrevista</strong><br><br>
+        Sebastián destaca que el mayor dolor administrativo es la pérdida de trazabilidad en las compras. Actualmente, recibe requerimientos por WhatsApp que se mezclan con fotos de obra y mensajes personales, lo que causa olvidos y compras de emergencia que elevan los costos hasta en un 18%.
+        Valida positivamente la solución, ya que actualmente debe revisar PDF's sueltos en el correo para decidir a qué proveedor comprar. Indica que su disposición a pagar por el SaaS depende de que el operario en campo (Residente) realmente use el sistema en lugar de llamar por teléfono. Sugiere que la interfaz sea extremadamente ligera debido a la baja señal en algunas obras de infraestructura.
       </td>
     </tr>
   </tbody>
@@ -531,7 +589,7 @@ A partir del análisis de las entrevistas y la recolección de información sobr
 
 Para el área operativa se elaboró el User Persona **Donnie Ruiz**. Se consideraron factores como su rol en la supervisión física de las obras, su necesidad de cumplir cronogramas estrictos y su ritmo de trabajo altamente móvil. Sus principales frustraciones giran en torno a la burocracia logística que retrasa la llegada de materiales y la dependencia de canales informales como WhatsApp para presionar por urgencias. Su perfil refleja una necesidad crítica de contar con una plataforma móvil, rápida y responsiva, que le permita solicitar insumos y rastrear su estado de entrega en tiempo real sin abandonar el campo.
 
-<img src="../docs/assets/chapter-02/UserPersona1.png" alt="User Persona 1 - Martín" width="auto" height="1900"/>
+<img src="../docs/assets/chapter-02/user-persona01.png" alt="User Persona 1 - Martín" width="auto" height="1900"/>
 
 <br>
 
@@ -539,7 +597,7 @@ Para el área operativa se elaboró el User Persona **Donnie Ruiz**. Se consider
 
 Para el área de control y gerencia se elaboró el User Persona **Roberto Alcántara**. Se consideraron aspectos como su enfoque en la rentabilidad, la aprobación de presupuestos y la auditoría corporativa. Sus principales frustraciones están asociadas a la pérdida de dinero por "compras de emergencia" no planificadas, el desorden documentario y la inseguridad de usar hojas de Excel compartidas para llevar las finanzas. Su perfil requiere un entorno de escritorio (Dashboard) que centralice las cotizaciones, garantice la inmutabilidad de los datos y le permita aprobar órdenes de compra formales con un solo clic.
 
-<img src="../docs/assets/chapter-02/UserPersona2.png" alt="User Persona 2 - Roberto" width="auto" height="1900"/>
+<img src="../docs/assets/chapter-02/user-persona02.png" alt="User Persona 2 - Roberto" width="auto" height="1900"/>
 
 ### 2.3.2. User Task Matrix
 
@@ -597,11 +655,70 @@ El User Task Matrix presenta las tareas clave que realizan los User Persona para
 Se observa una clara complementariedad entre ambos perfiles. La tarea de **"Generar requerimientos de materiales"** es de altísima frecuencia e importancia para Martín (Campo), mientras que **"Revisar cotizaciones y Aprobar"** es el "Core" de Roberto (Oficina). Esto confirma que RQLS debe priorizar un flujo bidireccional: una interfaz de creación de pedidos ultra rápida (Mobile) para el ejecutor, conectada automáticamente a un Dashboard de aprobación seguro y comparativo (Desktop) para el gerente. Adicionalmente, la tarea de rastrear despachos (**High** para Martín) valida la necesidad de un sistema de notificaciones de estados.
 
 <div style="page-break-after: always;"></div>
+
 ### 2.3.3. User Journey Mapping
-[pending content]
+
+El User Journey Mapping es una herramienta de diseño centrado en el usuario que nos permite **"caminar en las zapatos de otro"** del personal de construcción. En este análisis, mapeamos el viaje emocional y operativo que recorren tanto el Jefe de Campo (urgencia técnica) como el Gerente de Oficina (control financiero) durante el ciclo de abastecimiento.
+
+**1) Perfil 1: Área operativa de campo**
+
+<img src="../docs/assets/chapter-02/user-journey-mapping2.png" alt="User Journey Mapping 1 - Martin" width="auto" height="1900"/>
+
+**2) Perfil 2: Área de control y gerencia**
+
+<img src="../docs/assets/chapter-02/user-journey-mapping1.png" alt="User Journey Mapping 2 - Roberto" width="auto" height="1900"/>
+
 ### 2.3.4. Empathy Mapping
-[pending content]
+
+Para crear una solución que realmente se vincule con las personas, no es suficiente con saber qué hacen; tenemos que comprender lo que sienten. El Empathy Mapping es una herramienta de diseño centrado en el usuario que nos posibilita trascender los datos demográficos y explorar más a fondo el mundo interno de nuestros perfiles.
+
+**1) Perfil 1: Área operativa de campo**
+
+<img src="../docs/assets/chapter-02/empathy-mapping1.png" alt="Empathy Mapping 1 - Martin" width="auto" height="1900"/>
+
+**2) Perfil 2: Área de control y gerencia**
+
+<img src="../docs/assets/chapter-02/empathy-mapping2.png" alt="Empathy Mapping 2 - Roberto" width="auto" height="1900"/>
+
 ## 2.4. Big Picture EventStorming
-[pending content]
+
+Para diseñar un sistema robusto, primero debemos entender el negocio como un todo, dejando de lado los tecnicismos para enfocarnos en la lógica pura del dominio. El Big Picture EventStorming es una técnica colaborativa que nos ayuda a visualizar todos los eventos significativos que ocurren en la cadena de abastecimiento de una constructora. Al organizar estos eventos de manera cronológica, logramos identificar los flujos críticos del negocio y los puntos exactos donde la información suele perderse o demorarse en la transición entre la obra y la oficina central.
+
+**Step 1 – Free Exploration**
+
+En esta primera etapa, el equipo realizó una sesión de lluvia de ideas para capturar todos los eventos de dominio relevantes, sin preocuparse inicialmente por el orden o la jerarquía. El objetivo principal fue representar los acontecimientos reales del negocio —como la detección de una falta de material o la negociación de un precio— de manera independiente a cualquier función técnica o arquitectura del sistema.
+
+<img src="../docs/assets/chapter-02/big-picture-event-storming1.png" alt="Big Picture EventStorming 1" width="auto" height="1900"/>
+
+**Step 2 – Structured Organization** 
+
+Después de listar los eventos en esta estructura nos permitió aislar los procesos clave, desde el requerimiento inicial en el frente de obra hasta la conciliación financiera final, resaltando las áreas de mejora que serán abordadas mediante nuestra solución digital.
+
+<img src="../docs/assets/chapter-02/big-picture-event-storming2.png" alt="Big Picture EventStorming 2" width="auto" height="1900"/>
+
 ## 2.5. Ubiquitous Language
-[pending content]
+
+| Term                   | Definition                                                                                                                         |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Field Supervisor     |Project manager or engineer located at the construction site responsible for identifying needs, creating requisitions, and confirming material receipt.|
+| Project Manager      | Strategic user who manages budgets, reviews cost comparisons, and authorizes purchase orders from the central office.      |
+| Supplier             | External entity registered in the platform that receives quote requests, submits proposals, and dispatches materials to project sites. |
+| Material Requisition | Formal internal request created by the field supervisor when a material shortage or minimum stock level is detected.                 |
+| Purchase Order (PO)  | Formal and immutable document approved by management that authorizes the legal and financial acquisition of materials from a supplier.  |
+| Comparison Sheet     | Document automatically generated by the system that allows for side-by-side analysis of prices, delivery times, and supplier reliability.|
+| Waybill              | Document delivered by the supplier upon arrival; in Buildline, it is digitalized via OCR to certify the physical receipt of goods.    |
+| Way Match            | Automated validation process where the system verifies that the Purchase Order, Waybill, and Invoice all match in quantity and price.  |
+| Safety Stock         | Minimum inventory level defined for critical materials (like cement or rebar) that triggers an automatic alert to prevent project downtime.              |
+| Waste                | Recorded loss or non-productive consumption of material during execution, used to adjust the project's actual cost vs. planned budget. |
+| APU                  | Technical budget baseline used to validate if a requisition’s cost is aligned with the project's financial planning.                   |
+| Logistics Overcost   | The 21.1% average extra expense incurred by MYPES due to inefficient manual processes and emergency purchases that Buildline aims to reduce.|
+| Project Dashboard    | Centralized interface for management showing real-time metrics, requisition statuses, and overall project profitability.        |
+| Field App            | Mobile-first interface designed for high-speed use in construction environments, allowing for "3-click" requisitions and OCR scanning. |
+| Audit Log            | Immutable record of every action taken in the system (approvals, edits, deletions) to ensure total transparency and accountability. |
+
+**Expected benefits of the ubiquitous language:**
+
+- Facilitates communication: Bridges the gap between developers, field engineers, and financial administrators.
+- Improves technical alignment: Ensures that database tables and UI labels match the business reality.
+- Avoids ambiguities: Clearly distinguishes between an internal "Requisition" and an external "Purchase Order," preventing procurement errors.
+- Ensures consistency: Guarantees that documentation, mobile interfaces, and project reports use the same professional terminology.
