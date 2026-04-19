@@ -140,8 +140,6 @@ La arquitectura de la información de **Buildline** está diseñada para una nav
 * **Navegación Global:** Barra de navegación superior fija en la Landing Page (`Home`, `Soluciones`, `Beneficios`, `Planes`).
 * **Navegación Contextual:** Botones de llamado a la acción (CTAs naranjas) que guían al usuario fluidamente desde la lectura de un beneficio hasta la solicitud de una cuenta.
 
-### 4.2.5. Navigation Systems
-[pending content]
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 [pending content]
