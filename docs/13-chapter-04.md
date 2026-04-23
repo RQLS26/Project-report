@@ -209,7 +209,7 @@ El desarrollo del proceso del Domain-Driven Design se realizó en la aplicación
 
    El bounded context Suppliers gestiona el directorio, historial de confiabilidad y evaluación de los proveedores de la constructora. Permite registrar nuevos ofertantes, calificar sus tiempos de entrega y documentar incidencias operativas. Su propósito es construir una base de datos confiable que agilice las cotizaciones en Procurement y evite la contratación de empresas con antecedentes deficientes.
    
-   <img src="./assets/chapter-04/boundedsuppliers.png" alt="Bounded Context Suppliers" style="width:auto; height:auto; border:2px solid;">
+   <img src="./assets/chapter-04/boundedsupplier.png" alt="Bounded Context Suppliers" style="width:auto; height:auto; border:2px solid;">
 
 
 7. Bounded Context **Analytics & Budgeting**
