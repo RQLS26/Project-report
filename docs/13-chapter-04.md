@@ -174,63 +174,63 @@ El desarrollo del proceso del Domain-Driven Design se realizó en la aplicación
 
    El bounded context IAM (Identity and Access Management) se encarga de la autenticación, autorización y seguridad dentro de Buildline. Administra el acceso de los diferentes perfiles (Residente de Obra, Analista de Logística y Jefe de Proyecto) garantizando que cada actor solo interactúe con los módulos que le corresponden. Su propósito es asegurar la integridad del acceso al sistema SaaS y gestionar los permisos jerárquicos de aprobación.
    
-   <img src="./assets/chapter-04/bounded_IAM.png" alt="Bounded Context IAM" style="width:auto; height:auto; border:2px solid;">
+   <img src="./assets/chapter-04/boundedIAM.png" alt="Bounded Context IAM" style="width:auto; height:auto; border:2px solid;">
 
 
 2. Bounded Context **Profiles**
 
    El bounded context Profiles gestiona la información estática y de configuración de la empresa constructora (MYPE) y los perfiles laborales de su equipo. Administra la creación y actualización de datos de contacto y la estructura organizacional. Su propósito es centralizar la ficha de contacto operativa para que contextos como IAM, Requisition y Procurement sepan exactamente quién está solicitando o aprobando los recursos.
    
-   <img src="./assets/chapter-04/bounded_profile.png" alt="Bounded Context Profiles" style="width:auto; height:auto; border:2px solid;">
+   <img src="./assets/chapter-04/boundedprofile.png" alt="Bounded Context Profiles" style="width:auto; height:auto; border:2px solid;">
 
 
 3. Bounded Context **Requisition**
 
    El bounded context Requisition representa el punto de inicio operativo en el frente de obra. Administra la creación, priorización y seguimiento de los requerimientos de materiales que realizan los Ingenieros Residentes, incluyendo la adjunción de evidencia técnica. Su propósito es digitalizar la necesidad de la obra, eliminando la informalidad de canales como WhatsApp y centralizando las solicitudes técnicas.
    
-   <img src="./assets/chapter-04/bounded_requisition.png" alt="Bounded Context Requisition" style="width:auto; height:auto; border:2px solid;">
+   <img src="./assets/chapter-04/boundedrequisition.png" alt="Bounded Context Requisition" style="width:auto; height:auto; border:2px solid;">
 
 
 4. Bounded Context **Procurement**
 
    El bounded context Procurement es el núcleo transaccional en gabinete. Gestiona el ciclo de compras completo: generación de solicitudes de cotización, comparación de ofertas de proveedores y la aprobación jerárquica de la Orden de Compra (PO) por parte de la gerencia. Su propósito es eliminar las compras de emergencia informales y asegurar que todo gasto esté debidamente sustentado y aprobado antes de su ejecución.
    
-   <img src="./assets/chapter-04/bounded_procurement.png" alt="Bounded Context Procurement" style="width:auto; height:auto; border:2px solid;">
+   <img src="./assets/chapter-04/boundedprocurement.png" alt="Bounded Context Procurement" style="width:auto; height:auto; border:2px solid;">
 
 
 5. Bounded Context **Inventory**
 
    El bounded context Inventory administra la recepción física de los materiales en la obra y el control de los saldos. Permite al personal en campo confirmar la llegada de insumos y registrar mermas o desperdicios. Se integra estrechamente con Procurement para realizar el cruce de información entre la Orden de Compra y la Guía de Remisión (Way Match), previniendo pérdidas por descontrol de almacén.
    
-   <img src="./assets/chapter-04/bounded_inventory.png" alt="Bounded Context Inventory" style="width:auto; height:auto; border:2px solid;">
+   <img src="./assets/chapter-04/boundedinventory.png" alt="Bounded Context Inventory" style="width:auto; height:auto; border:2px solid;">
 
 
 6. Bounded Context **Suppliers**
 
    El bounded context Suppliers gestiona el directorio, historial de confiabilidad y evaluación de los proveedores de la constructora. Permite registrar nuevos ofertantes, calificar sus tiempos de entrega y documentar incidencias operativas. Su propósito es construir una base de datos confiable que agilice las cotizaciones en Procurement y evite la contratación de empresas con antecedentes deficientes.
    
-   <img src="./assets/chapter-04/bounded_suppliers.png" alt="Bounded Context Suppliers" style="width:auto; height:auto; border:2px solid;">
+   <img src="./assets/chapter-04/boundedsuppliers.png" alt="Bounded Context Suppliers" style="width:auto; height:auto; border:2px solid;">
 
 
 7. Bounded Context **Analytics & Budgeting**
 
    El bounded context Analytics & Budgeting procesa la información financiera cruzando el presupuesto planificado (APU) con los gastos reales derivados de las órdenes de compra. Permite la visualización de métricas y la detección de desviaciones presupuestales. Su propósito es brindar visibilidad gerencial en tiempo real mediante Dashboards, previniendo el impacto de los sobrecostos logísticos estructurales del sector.
    
-   <img src="./assets/chapter-04/bounded_A&B.png" alt="Bounded Context Analytics" style="width:auto; height:auto; border:2px solid;">
+   <img src="./assets/chapter-04/boundedA&B.png" alt="Bounded Context Analytics" style="width:auto; height:auto; border:2px solid;">
 
 
 8. Bounded Context **Communication**
 
    El bounded context Communication gestiona el envío automatizado de notificaciones internas (alertas de requerimientos críticos, avisos de bajo stock) y correos electrónicos externos (envío formal de Órdenes de Compra a proveedores). Su propósito es asegurar una comunicación oportuna, trazable y estructurada que reduzca los cuellos de botella informativos entre la obra y la oficina central.
    
-   <img src="./assets/chapter-04/bounded_communication.png" alt="Bounded Context Communication" style="width:auto; height:auto; border:2px solid;">
+   <img src="./assets/chapter-04/boundedcommunication.png" alt="Bounded Context Communication" style="width:auto; height:auto; border:2px solid;">
 
 
 9. Bounded Context **Shared**
 
    El bounded context Shared contiene elementos transversales, utilidades, el catálogo maestro de materiales y registros de auditoría inmutables utilizados por todos los demás contextos. Su propósito es evitar la duplicidad de lógica de negocio, garantizar la trazabilidad total de las acciones de los usuarios en el sistema y mantener la coherencia semántica en toda la plataforma.
    
-   <img src="./assets/chapter-04/bounded_shared.png" alt="Bounded Context Shared" style="width:auto; height:auto; border:2px solid;">
+   <img src="./assets/chapter-04/boundedshared.png" alt="Bounded Context Shared" style="width:auto; height:auto; border:2px solid;">
 
 <div style="page-break-after: always;"></div>
 
