@@ -282,7 +282,11 @@ Interfaz de formulario modal (New Material Request) diseñada para que el Ingeni
 <img src="./assets/chapter-04/Registro de Nuevo Requerimiento - Buildline -Web Wireframes.jpeg" alt="Registro de Nuevo Requerimiento - Buildline -Web Wireframes" style="width:auto; height:auto; border:2px solid;">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-[pending content]
+
+Los Wireflows se utilizan, sobre todo, en el diseño de la experiencia del usuario (UX) y son particularmente beneficiosos para aplicaciones que contienen interacciones complejas y flujos de trabajo.
+
+<img src="./assets/chapter-04/Web applications wireflow diagrams.jpeg" alt="Web applications wireflow diagrams" style="width:auto; height:auto; border:2px solid;">
+
 ### 4.4.3. Web Applications Mock-ups
 [pending content]
 ### 4.4.4. Web Applications User Flow Diagrams
