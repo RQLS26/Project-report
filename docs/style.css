@@ -48,6 +48,8 @@ img {
     display: block;
     margin: 20px auto;
     max-width: 100%;
+    height: auto !important;
+    object-fit: contain;
 }
 
 .page-break {
