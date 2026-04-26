@@ -3,7 +3,7 @@
 <img src="../assets/common/logo-upc.png" width="180" alt="Logo UPC">
 <br><br>
 
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS {-}
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-# Informe de Trabajo Final
+# Informe de Trabajo Final - AV1 {-}
 
 <br>
 
@@ -63,6 +63,10 @@
     <tr>
       <td align="center">U202322849</td>
       <td align="left">Viza Quispe, Marlon Packard</td>
+    </tr>
+    <tr>
+      <td align="center">U201923820</td>
+      <td align="left">Cáceres Pizarro, Albino Florencio</td>
     </tr>
   </tbody>
 </table>
