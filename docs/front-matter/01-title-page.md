@@ -3,10 +3,12 @@
 <img src="../assets/common/logo-upc.png" width="180" alt="Logo UPC">
 <br><br>
 
-**UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS {-}
 
-**Facultad de Ingeniería**
-**Carrera de Ingeniería de Software**
+<br>
+
+### Facultad de Ingeniería
+### Carrera de Ingeniería de Software
 
 <br>
 
@@ -22,21 +24,21 @@
 
 <br>
 
-**Informe de Trabajo Final**
+# Informe de Trabajo Final - AV1 {-}
 
 <br>
 
-**Nombre de la Startup:**
+### **Nombre de la Startup:**
 **RQLS (Requisitions, Quotes, Logistics System)**
 
 <br>
 
-**Nombre del Producto:**
+### **Nombre del Producto:**
 **Buildline**
 
 <br>
 
-**Relación de integrantes**
+### Relación de integrantes
 
 <table align="center" style="margin: 0 auto; font-size: 15px;">
 <thead>
@@ -61,6 +63,10 @@
     <tr>
       <td align="center">U202322849</td>
       <td align="left">Viza Quispe, Marlon Packard</td>
+    </tr>
+    <tr>
+      <td align="center">U201923820</td>
+      <td align="left">Cáceres Pizarro, Albino Florencio</td>
     </tr>
   </tbody>
 </table>
