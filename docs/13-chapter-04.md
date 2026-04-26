@@ -328,41 +328,73 @@ A nivel de backend, los diagramas de clases reflejan la implementación de la **
 
 Ilustra la estructura general del sistema organizada por *bounded contexts*, mostrando cómo cada módulo (**IAM, Profiles, Requisition, Procurement, Inventory, Suppliers, Analytics & Budgeting y Communication**) define sus propias entidades, servicios y repositorios, alineados al dominio de la gestión de abastecimiento en constructoras.
 
-- **Shared Backend**
+- **Shared**
 
 Concentra componentes transversales como **MaterialCatalog**, **AuditLog** y el objeto de valor **Money**, los cuales son reutilizados por múltiples contextos para garantizar consistencia en la representación de datos, trazabilidad de operaciones y manejo de valores monetarios.
 
-- **IAM Backend**
+- **IAM**
 
 Incluye clases como **UserAccount**, **SessionToken** y **AuthService**, responsables de la autenticación, gestión de sesiones y control de acceso basado en roles dentro del sistema.
 
-- **Profiles Backend**
+- **Profiles**
 
 Modela las entidades **EmployeeProfile** y **CompanyProfile**, junto con los servicios encargados de gestionar la información organizacional de la empresa constructora y sus usuarios.
 
-- **Requisition Backend**
+- **Requisition**
 
 Contiene las clases **Requisition** y **RequisitionItem**, que representan las solicitudes de materiales generadas desde obra, junto con los servicios que gestionan su creación, priorización y seguimiento.
 
-- **Procurement Backend**
+- **Procurement**
 
 Agrupa las entidades **PurchaseOrder** y **Quote**, junto con los servicios que implementan el flujo de compras, incluyendo la comparación de cotizaciones y la generación de órdenes de compra.
 
-- **Inventory Backend**
+- **Inventory**
 
 Incluye clases como **InventoryItem** y **GoodsReceipt**, encargadas de registrar la recepción de materiales en obra, actualizar el stock y validar la correspondencia con las órdenes de compra.
 
-- **Suppliers Backend**
+- **Suppliers**
 
 Modela la entidad **Supplier** y los servicios asociados a su gestión, permitiendo mantener un registro estructurado y evaluable de proveedores.
 
-- **Analytics & Budgeting Backend**
+- **Analytics & Budgeting**
 
 Contiene clases como **Budget**, **CostRecord** y **DeviationReport**, responsables de procesar la información financiera, calcular desviaciones presupuestarias y generar métricas para la toma de decisiones.
 
-- **Communication Backend**
+- **Communication**
 
 Incluye entidades como **Notification** y **Recipient**, junto con servicios que gestionan el envío de notificaciones internas y comunicaciones relevantes dentro del flujo operativo.
+
+### Diagrama de Clases Backend ###
+
+#### Diagrama Completo ####
+### Diagrama dividido por contextos ###
+
+#### Shared ####
+imagen
+
+#### IAM ####
+imagen
+
+#### Profiles ####
+imagen
+
+#### Requisition ####
+imagen
+
+#### Communication ####
+imagen
+
+#### Inventory ####
+imagen
+
+#### Analytics & Budgeting ####
+imagen
+
+#### Procurement ####
+imagen
+
+#### Suppliers ####
+imagen
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
