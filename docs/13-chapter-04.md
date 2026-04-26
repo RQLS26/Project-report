@@ -353,11 +353,36 @@ La sección de Web Applications UX/UI Design presenta la propuesta visual, estru
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+Para asegurar una navegación intuitiva y una curva de aprendizaje mínima para nuestros usuarios, se ha definido una simbología estándar basada en colores y formas geométricas. Esta coherencia visual se mantiene en todos los diagramas del sistema.
 
+**Leyenda Visual de Simbología**
 
+<img src="./assets/chapter-04/diagramaUF_leyenda" alt="diagramaUF_leyenda" style="width:auto; height:auto; border:2px solid;">
+
+**Diagrama 1: Flujo de Autenticación**
+
+Este flujo garantiza que solo personal autorizado (Jefes de Proyecto y Gerentes) acceda a los datos financieros de las obras.
+
+<img src="./assets/chapter-04/diagramaUF_1" alt="diagramaUF_1" style="width:auto; height:auto; border:2px solid;">
+
+**Diagrama 2: Flujo de Requisición de Materiales**
+
+Representa la interacción del Jefe de Proyecto en el frente de obra al detectar una necesidad de insumos, asegurando que la información llegue formalmente a la oficina.
+
+<img src="./assets/chapter-04/diagramaUF_2" alt="diagramaUF_2" style="width:auto; height:auto; border:2px solid;">
+
+**Diagrama 3: Flujo Global de Abastecimiento**
+
+Representa el ciclo completo de negocio (Happy Path) que conecta la solicitud en campo con la aprobación gerencial y la emisión del documento de compra.
+
+<img src="./assets/chapter-04/diagramaUF_3" alt="diagramaUF_3" style="width:auto; height:auto; border:2px solid;">
 
 ## 4.5. Web Applications Prototyping
-[pending content]
+
+Para validar la arquitectura de información y la eficiencia del flujo de negocio de **Buildline**, se ha desarrollado un prototipo interactivo de alta fidelidad basado en los diagramas de interacción detallados en la sección anterior. Este artefacto permite verificar la fluidez de la interfaz y la respuesta del sistema ante las necesidades críticas del sector construcción.
+
+> [**🔗 Ver Prototipo Interactivo en Figma - Buildline**](https://www.figma.com/proto/Pz7PdgjCpqyWgg54A73rLU/Proyesto-web-aplicacion?node-id=27-4250&t=diBEB0rwqtQW2AzS-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+
 ## 4.6. Domain-Driven Software Architecture
 
 La arquitectura de software de Buildline se construye a partir de los resultados obtenidos en el Big Picture Event Storming, que permitió comprender en profundidad los flujos clave del dominio de abastecimiento logístico en el sector construcción y las interacciones entre los ingenieros residentes, el área de logística y la gerencia general. A partir de este análisis inicial, se desarrolló una visión más estructurada del dominio utilizando los principios de Domain-Driven Design (DDD).
