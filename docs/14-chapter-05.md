@@ -119,7 +119,7 @@ Se especifica la configuración de despliegue para los entornos de Buildline, ga
 
 #### Landing Page - GitHub Pages
 Despliegue automático del contenido estático mediante GitHub Actions tras cada merge a la rama `main`.
-* **URL:** [XXXXXXXXXXXXXXXX](XXXXXXXXXXXXXX)
+* **URL:** [https://github.com/RQLS26-LandingPage](https://github.com/RQLS26-LandingPage)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -178,7 +178,7 @@ Despliegue automático del contenido estático mediante GitHub Actions tras cada
   </tbody>
 </table>
 <p>
-  <strong>Repositorio:</strong> <a href="XXXXXXXXXXXXXXXXXXX">XXXXXXXXXXXXXXXXXX</a>
+  <strong>Repositorio:</strong> <a href="https://github.com/RQLS26-LandingPage">https://github.com/RQLS26-LandingPage</a>
 </p>
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -214,11 +214,11 @@ El Sprint Backlog agrupa las tareas iniciales correspondientes a la presencia di
 
 | User Story Id | Title | Task Id | Title | Description | Estimation (Hours) | Assigned To | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **US00** | Landing Page Base | T001 | Implementación de Hero y Features | Desarrollo de la sección principal y propuesta de valor en HTML/CSS/Vue.js. | 4h | [Nombre] | Done |
-| **US00** | Landing Page Info | T002 | Maquetación de Beneficios | Implementación de la sección informativa detallando el control de APU y la trazabilidad logística. | 3h | [Nombre] | Done |
-| **Cap I - II** | Discovery & Discovery | T003 | Needfinding y Strategic Domain | Análisis de entrevistas con gerentes de obra, Lean UX Canvas y definición del Ubiquitous Language. | 6h | [Nombre] | Done |
-| **Cap II - III** | Requirements Eng. | T004 | Context Mapping y Product Backlog | Definición del Mapa de Contexto (DDD), Impact Mapping y redacción de User Stories (Gherkin). | 5h | [Nombre] | Done |
-| **Cap IV** | Software Design | T005 | Event Storming y C4 Model | Sesión de Design-Level Event Storming y elaboración de diagramas de Contexto y Contenedores en Structurizr. | 7h | [Nombre] | Done |
+| **US00** | Landing Page Base | T001 | Implementación de Hero y Features | Desarrollo de la sección principal y propuesta de valor en HTML/CSS/Vue.js. | 4h | Morales Venegas, David Joel | Done |
+| **US00** | Landing Page Info | T002 | Maquetación de Beneficios | Implementación de la sección informativa detallando el control de APU y la trazabilidad logística. | 3h | Castillo Yataco, Mauricio Sebastian | Done |
+| **Cap I - II** | Discovery & Discovery | T003 | Needfinding y Strategic Domain | Análisis de entrevistas con gerentes de obra, Lean UX Canvas y definición del Ubiquitous Language. | 6h | Viza Quispe, Marlon | Done |
+| **Cap II - III** | Requirements Eng. | T004 | Context Mapping y Product Backlog | Definición del Mapa de Contexto (DDD), Impact Mapping y redacción de User Stories (Gherkin). | 5h | Paucar Zenteno, Jesus Fernando | Done |
+| **Cap IV** | Software Design | T005 | Event Storming y C4 Model | Sesión de Design-Level Event Storming y elaboración de diagramas de Contexto y Contenedores en Structurizr. | 7h | Cáceres Pizarro, Albino Florencio | Done |
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -282,7 +282,7 @@ El Sprint Backlog agrupa las tareas iniciales correspondientes a la presencia di
 
 #### 5.2.1.7. Software Deployment Evidence
 <p>
-  <strong>URL de Producción:</strong> <a href="XXXXXXXXXXXXXXXxXXXXXXX">XXXXXXXXXXXXXXXXXXXX/</a>
+  <strong>URL de Producción:</strong> <a href="https://github.com/RQLS26-LandingPage">https://github.com/RQLS26-LandingPage/</a>
 </p>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
