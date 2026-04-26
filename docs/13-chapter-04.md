@@ -367,35 +367,36 @@ Incluye entidades como **Notification** y **Recipient**, junto con servicios que
 ### Diagrama de Clases Backend ###
 
 - **Diagrama Completo**
+<img src="./assets/chapter-04/diagramaBackend.svg" alt="Diagrama de Clases Backend" style="width:auto; height:auto; border:2px solid;">
 
 ### Diagrama dividido por contextos ###
 
 - **Shared**  
-  imagen  
+  <img src="./assets/chapter-04/diagramaShared.png" alt="Diagrama BC Shared" style="width:auto; height:auto; border:2px solid;">
 
 - **IAM**  
-  imagen  
+  <img src="./assets/chapter-04/diagramaIAM.png" alt="Diagrama BC IAM" style="width:auto; height:auto; border:2px solid;">
 
 - **Profiles**  
-  imagen  
+  <img src="./assets/chapter-04/diagramaProfiles.png" alt="Diagrama BC Profiles" style="width:auto; height:auto; border:2px solid;">
 
 - **Requisition**  
-  imagen  
+  <img src="./assets/chapter-04/diagramaRequisition.png" alt="Diagrama BC Requisition" style="width:auto; height:auto; border:2px solid;">
 
 - **Communication**  
-  imagen  
+  <img src="./assets/chapter-04/diagramaCommunication.png" alt="Diagrama BC Communication" style="width:auto; height:auto; border:2px solid;">
 
 - **Inventory**  
-  imagen  
+  <img src="./assets/chapter-04/diagramaInventory.png" alt="Diagrama BC Inventory" style="width:auto; height:auto; border:2px solid;">
 
 - **Analytics & Budgeting**  
-  imagen  
+  <img src="./assets/chapter-04/diagramaAnalyticsBudgeting.png" alt="Diagrama BC Analytics & Budgeting" style="width:auto; height:auto; border:2px solid;">
 
 - **Procurement**  
-  imagen  
+  <img src="./assets/chapter-04/diagramaProcurement.png" alt="Diagrama BC Procurement" style="width:auto; height:auto; border:2px solid;">
 
 - **Suppliers**  
-  imagen  
+  <img src="./assets/chapter-04/diagramaSuppliers.png" alt="Diagrama BC Suppliers" style="width:auto; height:auto; border:2px solid;">
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
