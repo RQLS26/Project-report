@@ -288,7 +288,51 @@ Los Wireflows se utilizan, sobre todo, en el diseño de la experiencia del usuar
 <img src="./assets/chapter-04/Web applications wireflow diagrams.jpeg" alt="Web applications wireflow diagrams" style="width:auto; height:auto; border:2px solid;">
 
 ### 4.4.3. Web Applications Mock-ups
-[pending content]
+
+En esta sección se presentan los mock-ups de alta fidelidad para la aplicación web de Buildline. Estos diseños finales integran la identidad visual de la marca, tipografías legibles y una arquitectura de información optimizada para la gestión logística en tiempo real.
+
+**Portal de Inicio - Buildline**
+
+Esta interfaz representa el punto de acceso principal al ecosistema de Buildline. Utiliza una composición limpia y moderna que resalta el formulario de autenticación, permitiendo a los usuarios de la constructora ingresar de forma segura o iniciar el proceso de creación de cuenta nueva.
+
+<img src="./assets/chapter-04/Ingreso al Sistema - Buildline - Applications Mock-ups.jpeg" alt="Ingreso al Sistema - Buildline - Web Wireframes" style="width:auto; height:auto; border:2px solid;">
+
+**Crear Cuenta - Buildline**
+
+Diseño final del formulario de registro organizacional. Esta pantalla permite recolectar los datos fundamentales de la constructora y el administrador principal, utilizando una jerarquía visual clara para asegurar la integridad de la información de seguridad.
+
+<img src="./assets/chapter-04/Crear Cuenta - Buildline -Applications Mock-ups.jpeg" alt="Crear Cuenta - Buildline -Web Wireframes" style="width:auto; height:auto; border:2px solid;">
+
+**Recuperación de Credenciales - Buildline**
+
+Mock-up del flujo de soporte para el restablecimiento de credenciales. La interfaz ha sido diseñada para minimizar la fricción operativa, permitiendo al usuario solicitar un enlace de restauración mediante su correo institucional en pocos pasos.
+
+<img src="./assets/chapter-04/Recuperación de Credenciales - Buildline -Applications Mock-ups.jpeg" alt="Recuperación de Credenciales - Buildline -Web Wireframes" style="width:auto; height:auto; border:2px solid;">
+
+**Gestión de Requerimientos de Materiales - Buildline**
+
+Mock-up del módulo operativo principal. Presenta una tabla de datos avanzada con estados de validación por colores (Pending, Approved, In Transit), permitiendo al Jefe de Logística supervisar la trazabilidad completa de los materiales desde la obra.
+
+<img src="./assets/chapter-04/Gestión de Inventario y Requerimientos - Buildline - Applications Mock-ups.jpeg" alt="Gestión de Inventario y Requerimientos - Buildline - Wireframes" style="width:auto; height:auto; border:2px solid;">
+
+**Panel de Control de Requisiciones - Buildline**
+
+Vista alternativa del módulo de inventario con un enfoque en el seguimiento de estados (Pending Auth, In Transit, Processing, Delivered). Permite al Jefe de Logística tener una visión panorámica del flujo de suministros hacia las distintas obras.
+
+<img src="./assets/chapter-04/Panel de Control de Requisiciones - Buildline -Applications Mock-ups.jpeg" alt="Panel de Control de Requisiciones - Buildline -Web Wireframes" style="width:auto; height:auto; border:2px solid;">
+
+**Dashboard Overview - Buildline**
+
+El dashboard centralizado de Buildline en alta fidelidad. Consolida indicadores críticos como Total Deliveries y Alertas de Inventario mediante tarjetas visuales y gráficos interactivos, facilitando la toma de decisiones estratégicas para la gerencia.
+
+<img src="./assets/chapter-04/Dashboard Overview - Buildline -Applications Mock-ups.jpeg" alt="Dashboard Overview - Buildline -Web Wireframes" style="width:auto; height:auto; border:2px solid;">
+
+**Registro de Nuevo Requerimiento - Buildline**
+
+Interfaz de formulario modal (New Material Request) diseñada para que el Ingeniero Residente registre pedidos de insumos de forma ágil. Contiene campos para seleccionar el proyecto, tipo de material, cantidad, unidad de medida y fecha requerida, además de un área de especificaciones técnicas.
+
+<img src="./assets/chapter-04/Registro de Nuevo Requerimiento - Buildline -Applications Mock-ups.jpeg" alt="Registro de Nuevo Requerimiento - Buildline -Web Wireframes" style="width:auto; height:auto; border:2px solid;">
+
 ### 4.4.4. Web Applications User Flow Diagrams
 [pending content]
 ## 4.5. Web Applications Prototyping
