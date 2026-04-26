@@ -21,11 +21,11 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones d
       Trabaja en equipo para proporcionar liderazgo en forma conjunta
     </td>
     <td>
-      <strong>Morales Venegas, David Joel</strong> — Creación del repositorio, Diseño de Landing Page, Lideró diseño/análisis de entrevistas, Colaboró en Wireframes/Flows.<br>
-      <strong>Viza Quispe, Marlon Packard</strong> — Event Storming, Ubiquitous Language, Journey/Empathy Mapping, Revisión integradora AV1.<br>
-      <strong>Paucar Zenteno, Jesús Fernando</strong> — User Flow Diagrams, Web applications prototype, Revisión integradora AV1.<br>
-      <strong>Castillo Yataco, Mauricio Sebastián</strong> — Lean UX Process, Needfinding, Arquitectura, Documentación Capítulo V.<br>
-      <strong>Cáceres Pizarro, Albino Florencio</strong> — Lideró Arquitectura (C4/Class Diagrams), Análisis de competidores, DB Design, Needfinding.<br>
+      <strong>Morales Venegas, David Joel</strong> — Creación del repositorio, Diseño de Landing Page, Lideró diseño/análisis de entrevistas.<br>
+      <strong>Viza Quispe, Marlon Packard</strong> — Event Storming, Ubiquitous Language, Journey/Empathy Mapping.<br>
+      <strong>Paucar Zenteno, Jesús Fernando</strong> — User Flow Diagrams, Web applications prototype.<br>
+      <strong>Castillo Yataco, Mauricio Sebastián</strong> — Lean UX Process, Segmentos Objetivo, Lean UX Canvas, Needfinding.<br>
+      <strong>Cáceres Pizarro, Albino Florencio</strong> — Arquitectura de software (C4 Context Diagrams y Class Diagrams).<br>
     </td>
     <td>
       <strong>AV1:</strong> El equipo demostró liderazgo compartido al asignar responsables específicos basándose en las fortalezas técnicas de cada integrante.<br>
@@ -37,11 +37,11 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones d
       Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos
     </td>
     <td>
-      <strong>Morales Venegas, David Joel</strong> — AV1 / TB1<br>
-      <strong>Viza Quispe, Marlon Packard</strong> — AV1 / TB1<br>
-      <strong>Paucar Zenteno, Jesús Fernando</strong> — AV1 / TB1<br>
-      <strong>Castillo Yataco, Mauricio Sebastián</strong> — AV1 / TB1<br>
-      <strong>Cáceres Pizarro, Albino Florencio</strong> — AV1 / TB1<br>
+      <strong>Morales Venegas, David Joel</strong> — Colaboró en Wireframes, Wireflow y User Flow Diagrams.<br>
+      <strong>Viza Quispe, Marlon Packard</strong> — Diseño de Landing Page, revisión integradora y correcciones finales AV1.<br>
+      <strong>Paucar Zenteno, Jesús Fernando</strong> — Diseño de Web Applications, revisión integradora y correcciones finales AV1.<br>
+      <strong>Castillo Yataco, Mauricio Sebastián</strong> — Diseño de arquitectura, Redacción y documentación del Capítulo V (SCM, Sprint 1).<br>
+      <strong>Cáceres Pizarro, Albino Florencio</strong> — Análisis de competidores, diagrama de base de datos y artefactos de Needfinding.<br>
     </td>
     <td>
       <strong>AV1:</strong> La planificación de tareas mediante un backlog inicial permitió cumplir con todos los artefactos de Needfinding y Lean UX.<br>
