@@ -409,5 +409,40 @@ Incluye entidades como **Notification** y **Recipient**, junto con servicios que
   <img src="./assets/chapter-04/diagramaSuppliers.png" alt="Diagrama BC Suppliers" style="width:auto; height:auto; border:2px solid;">
 
 ## 4.8. Database Design
+
+Ilustra la estructura general del sistema a nivel relacional, organizada por *bounded contexts*, mostrando cómo cada módulo (**IAM, Profiles, Requisition, Procurement, Inventory, Suppliers, Analytics & Budgeting y Communication**) define sus propias tablas, relaciones y restricciones, manteniendo coherencia con el dominio de la gestión de abastecimiento en constructoras.
+
 ### 4.8.1. Database Diagrams
-[pending content]
+
+- **Diagrama Completo**
+
+<img src="./assets/chapter-04/diagramaBD.svg" alt="Diagrama de Base de Datos Completo" style="width:auto; height:auto; border:2px solid;">
+
+### Diagrama dividido por contextos
+
+- **Shared**  
+  <img src="./assets/chapter-04/diagramaBD_shared.png" alt="Diagrama BD Shared" style="width:auto; height:auto; border:2px solid;">
+
+- **IAM**  
+  <img src="./assets/chapter-04/diagramaBD_iam.png" alt="Diagrama BD IAM" style="width:auto; height:auto; border:2px solid;">
+
+- **Profiles**  
+  <img src="./assets/chapter-04/diagramaBD_profiles.png" alt="Diagrama BD Profiles" style="width:auto; height:auto; border:2px solid;">
+
+- **Requisition**  
+  <img src="./assets/chapter-04/diagramaBD_requisition.png" alt="Diagrama BD Requisition" style="width:auto; height:auto; border:2px solid;">
+
+- **Procurement**  
+  <img src="./assets/chapter-04/diagramaBD_procurement.png" alt="Diagrama BD Procurement" style="width:auto; height:auto; border:2px solid;">
+
+- **Inventory**  
+  <img src="./assets/chapter-04/diagramaBD_inventory.png" alt="Diagrama BD Inventory" style="width:auto; height:auto; border:2px solid;">
+
+- **Suppliers**  
+  <img src="./assets/chapter-04/diagramaBD_suppliers.png" alt="Diagrama BD Suppliers" style="width:auto; height:auto; border:2px solid;">
+
+- **Analytics & Budgeting**  
+  <img src="./assets/chapter-04/diagramaBD_analytics.png" alt="Diagrama BD Analytics & Budgeting" style="width:auto; height:auto; border:2px solid;">
+
+- **Communication**  
+  <img src="./assets/chapter-04/diagramaBD_communication.png" alt="Diagrama BD Communication" style="width:auto; height:auto; border:2px solid;">
