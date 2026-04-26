@@ -357,25 +357,25 @@ Para asegurar una navegación intuitiva y una curva de aprendizaje mínima para 
 
 **Leyenda Visual de Simbología**
 
-<img src="./assets/chapter-04/diagramaUF_leyenda" alt="diagramaUF_leyenda" style="width:auto; height:auto; border:2px solid;">
+<img src="./assets/chapter-04/diagramaUF_leyenda.png" alt="diagramaUF_leyenda" style="width:auto; height:auto; border:2px solid;">
 
 **Diagrama 1: Flujo de Autenticación**
 
 Este flujo garantiza que solo personal autorizado (Jefes de Proyecto y Gerentes) acceda a los datos financieros de las obras.
 
-<img src="./assets/chapter-04/diagramaUF_1" alt="diagramaUF_1" style="width:auto; height:auto; border:2px solid;">
+<img src="./assets/chapter-04/diagramaUF_1.png" alt="diagramaUF_1" style="width:auto; height:auto; border:2px solid;">
 
 **Diagrama 2: Flujo de Requisición de Materiales**
 
 Representa la interacción del Jefe de Proyecto en el frente de obra al detectar una necesidad de insumos, asegurando que la información llegue formalmente a la oficina.
 
-<img src="./assets/chapter-04/diagramaUF_2" alt="diagramaUF_2" style="width:auto; height:auto; border:2px solid;">
+<img src="./assets/chapter-04/diagramaUF_2.png" alt="diagramaUF_2" style="width:auto; height:auto; border:2px solid;">
 
 **Diagrama 3: Flujo Global de Abastecimiento**
 
 Representa el ciclo completo de negocio (Happy Path) que conecta la solicitud en campo con la aprobación gerencial y la emisión del documento de compra.
 
-<img src="./assets/chapter-04/diagramaUF_3" alt="diagramaUF_3" style="width:auto; height:auto; border:2px solid;">
+<img src="./assets/chapter-04/diagramaUF_3.png" alt="diagramaUF_3" style="width:auto; height:auto; border:2px solid;">
 
 ## 4.5. Web Applications Prototyping
 
