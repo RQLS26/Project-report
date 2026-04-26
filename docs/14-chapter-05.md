@@ -207,6 +207,11 @@ Esta matriz <strong>LACX</strong> identifica los aspectos principales del sprint
 
 El Sprint Backlog agrupa las tareas iniciales correspondientes a la presencia digital del proyecto Buildline.
 
+<div align="center">
+  <img src="./assets/chapter-05/jira1.png" alt="Sprint 1 Board Screenshot" width="100%">
+  <p><em>Figura: Tablero del Sprint 1 en Jira Software (Proyecto Buildline)</em></p>
+</div>
+
 | User Story Id | Title | Task Id | Title | Description | Estimation (Hours) | Assigned To | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **US00** | Landing Page Base | T001 | Implementación de Hero y Features | Desarrollo de la sección principal y propuesta de valor en HTML/CSS/Vue.js. | 4h | [Nombre] | Done |
