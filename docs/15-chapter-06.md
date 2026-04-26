@@ -48,5 +48,6 @@
     <strong>Integración de Entornos Locales:</strong> Establecer una comunicación fluida entre el frontend en Vue.js y el backend en .NET en los entornos de desarrollo locales del equipo, realizando pruebas de integración (API Testing) antes de evaluar cualquier futuro despliegue en servidores.
   </li> 
 </ul>
+
 ## 6.2. Video About-the-Team
 [pending content]
