@@ -141,8 +141,53 @@ La arquitectura de la información de **Buildline** está diseñada para una nav
 * **Navegación Contextual:** Botones de llamado a la acción (CTAs naranjas) que guían al usuario fluidamente desde la lectura de un beneficio hasta la solicitud de una cuenta.
 
 ## 4.3. Landing Page UI Design
+
 ### 4.3.1. Landing Page Wireframe
-[pending content]
+
+El wireframe de la landing page de Buildline ha sido diseñado para reflejar una solución robusta, transparente y eficiente, atacando directamente la informalidad logística del sector construcción. La disposición de las secciones es la siguiente:
+
+**Nav y Hero**
+
+Esta sección presenta el logotipo de Buildline y el menú de navegación. El titular principal comunica la misión de la startup: "El fin del caos logístico en la construcción". El diseño visual integra widgets de control en tiempo real que muestran el Presupuesto de Materiales, indicadores de Eficiencia de Suministro y estados de almacenamiento (Cemento, Acero). Incluye un campo de registro rápido para que los gerentes de MYPES soliciten un demo de inmediato.
+
+<img src="./assets/chapter-04/Nav-Hero-Wireframe.jpeg" alt="Nav-Hero-Wireframe" style="width:auto; height:auto; border:2px solid;">
+
+**Workflow**
+
+Bajo el título "Todo lo que necesitas para gestionar y controlar tus proyectos", se detalla el flujo digital que reemplaza al WhatsApp/Excel en cuatro pasos:
+
+<img src="./assets/chapter-04/Workflow-Wireframe.jpeg" alt="Workflow-Wireframe" style="width:auto; height:auto; border:2px solid;">
+
+Dashboard y Control Operativo 
+
+Esta sección unifica las capacidades críticas de análisis de la plataforma. Permite visualizar las desviaciones presupuestales antes de que se conviertan en pérdidas, gestionar el centro de alertas para aprobaciones jerárquicas en tiempo real y mantener una trazabilidad de compras total. El diseño está optimizado para que el Jefe de Logística priorice compras críticas, reduciendo el 12% de sobrecostos por compras de emergencia y garantizando que el insumo en obra coincida con la especificación técnica.
+
+<img src="./assets/chapter-04/Dashboard-Control-Wireframe.jpeg" alt="Dashboard-Control-Operativo-Wireframe" style="width:auto; height:auto; border:2px solid;">
+
+Testimonials 
+
+Bajo la sección "¿Por qué Buildline?", se presentan testimonios de roles clave (Dueños de obra, Supervisores de mercado y Gerentes de operaciones). Los mensajes validan la solución enfocándose en la eliminación de hojas de cálculo manuales, la reducción del estrés operativo y la capacidad de validar pedidos desde el campo sin necesidad de retornar a la oficina.
+
+<img src="./assets/chapter-04/Testimonials-Wireframe.jpeg" alt="Testimonials-Wireframe" style="width:auto; height:auto; border:2px solid;">
+
+Register 
+
+Define los tres pilares de la experiencia Buildline: Setup (creación estructurada de pedidos), Monitor (seguimiento de cotizaciones) y Control (detección temprana de quiebres de stock). Finaliza con un formulario de registro limpio que permite el acceso mediante credenciales institucionales o redes sociales (Google/Apple), reduciendo la fricción de entrada para el personal operativo.
+
+<img src="./assets/chapter-04/Register-Wireframe.jpeg" alt="Register-Wireframe" style="width:auto; height:auto; border:2px solid;">
+
+Pricing 
+
+Presenta la escalabilidad del modelo SaaS mediante dos planes: el Project Base Plan, ideal para MYPES con hasta 3 proyectos que buscan eliminar el desorden de WhatsApp, y el Multi-Project Enterprise, que ofrece escala ilimitada, reportes de rentabilidad avanzada e integración con sistemas contables locales para constructoras de mayor volumen.
+
+<img src="./assets/chapter-04/Princig-Wireframe.jpeg" alt="Princig-Wireframe" style="width:auto; height:auto; border:2px solid;">
+
+Footer 
+
+Cierra la interfaz con una organización clara de recursos dividida en Producto, Soporte y Recursos. Incluye accesos a plantillas, guías de usuario, políticas de privacidad y canales de contacto directo, reforzando la seriedad y el soporte técnico que RQLS ofrece a sus clientes.
+
+<img src="./assets/chapter-04/Footer-Wireframe.jpeg" alt="Footer-Wireframe" style="width:auto; height:auto; border:2px solid;">
+
 ### 4.3.2. Landing Page Mock-up
 [pending content]
 ## 4.4. Web Applications UX/UI Design
