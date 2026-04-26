@@ -3,12 +3,10 @@
 <img src="../assets/common/logo-upc.png" width="180" alt="Logo UPC">
 <br><br>
 
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+**UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
-<br>
-
-### Facultad de Ingeniería
-### Carrera de Ingeniería de Software
+**Facultad de Ingeniería**
+**Carrera de Ingeniería de Software**
 
 <br>
 
@@ -24,21 +22,21 @@
 
 <br>
 
-# Informe de Trabajo Final
+**Informe de Trabajo Final**
 
 <br>
 
-### **Nombre de la Startup:**
+**Nombre de la Startup:**
 **RQLS (Requisitions, Quotes, Logistics System)**
 
 <br>
 
-### **Nombre del Producto:**
+**Nombre del Producto:**
 **Buildline**
 
 <br>
 
-### Relación de integrantes
+**Relación de integrantes**
 
 <table align="center" style="margin: 0 auto; font-size: 15px;">
 <thead>

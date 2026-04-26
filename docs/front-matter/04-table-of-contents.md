@@ -1,4 +1,4 @@
-# Contenido
+# Contenido {-}
 ## Tabla de contenidos
 - [Carátula](#carátula)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
