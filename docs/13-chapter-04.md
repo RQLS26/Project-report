@@ -424,10 +424,10 @@ Ilustra la estructura general del sistema a nivel relacional, organizada por *bo
   <img src="./assets/chapter-04/diagramaBD_shared.png" alt="Diagrama BD Shared" style="width:auto; height:auto; border:2px solid;">
 
 - **IAM**  
-  <img src="./assets/chapter-04/diagramaBD_iam.png" alt="Diagrama BD IAM" style="width:auto; height:auto; border:2px solid;">
+  <img src="./assets/chapter-04/diagramaDB_iam.png" alt="Diagrama BD IAM" style="width:auto; height:auto; border:2px solid;">
 
 - **Profiles**  
-  <img src="./assets/chapter-04/diagramaBD_profiles.png" alt="Diagrama BD Profiles" style="width:auto; height:auto; border:2px solid;">
+  <img src="./assets/chapter-04/diagramaBD_profile.png" alt="Diagrama BD Profiles" style="width:auto; height:auto; border:2px solid;">
 
 - **Requisition**  
   <img src="./assets/chapter-04/diagramaBD_requisition.png" alt="Diagrama BD Requisition" style="width:auto; height:auto; border:2px solid;">
