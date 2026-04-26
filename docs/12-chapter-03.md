@@ -77,7 +77,7 @@ Jefes de Proyecto / Gerentes Generales
 | TS-12 | Registro de usuario | **Como** desarrollador,<br>**Quiero** registrar nuevos usuarios,<br>**Para** permitir acceso controlado. | **Escenario 1: Registro exitoso**<br>**Dado** que el request POST a `/api/v1/auth/sign-up` contiene datos válidos,<br>**Cuando** se envía la solicitud,<br>**Entonces** el sistema retorna status 201 y crea el usuario.<br><br>**Escenario 2: Email duplicado**<br>**Dado** que el correo ya existe en el sistema,<br>**Cuando** se intenta registrar el usuario,<br>**Entonces** el sistema retorna status 400 indicando conflicto de registro. | EP-04 |
      
 ## 3.2. Impact Mapping
-<img src="../docs/assets/chapter-03/impact_map.png" alt="Impact Mapping" width="auto" height="1900"/>
+<img src="../docs/assets/chapter-03/Impact_map.png" alt="Impact Mapping" width="auto" height="1900"/>
 ## 3.3. Product Backlog
 
 | Orden | User Story ID | Título | Descripción | Story Points |
