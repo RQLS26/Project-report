@@ -333,8 +333,29 @@ Interfaz de formulario modal (New Material Request) diseñada para que el Ingeni
 
 <img src="./assets/chapter-04/Registro de Nuevo Requerimiento - Buildline -Applications Mock-ups.jpeg" alt="Registro de Nuevo Requerimiento - Buildline -Web Wireframes" style="width:auto; height:auto; border:2px solid;">
 
+**Mock-ups Version Mobile**
+
+La sección de Web Applications UX/UI Design presenta la propuesta visual, estructural y de interacción desarrollada para la experiencia móvil de Buildline, el ecosistema SaaS orientado a la gestión integral de adquisiciones, el control de suministros en tiempo real y la trazabilidad de materiales en el sector construcción.
+
+<img src="./assets/chapter-04/mobile1.jpeg" alt="mobile" style="width:auto; height:auto; border:2px solid;">
+
+<img src="./assets/chapter-04/mobile2.jpeg" alt="mobile" style="width:auto; height:auto; border:2px solid;">
+
+<img src="./assets/chapter-04/mobile3.jpeg" alt="mobile" style="width:auto; height:auto; border:2px solid;">
+
+<img src="./assets/chapter-04/mobile4.jpeg" alt="mobile" style="width:auto; height:auto; border:2px solid;">
+
+<img src="./assets/chapter-04/mobile5.jpeg" alt="mobile" style="width:auto; height:auto; border:2px solid;">
+
+<img src="./assets/chapter-04/mobile6.jpeg" alt="mobile" style="width:auto; height:auto; border:2px solid;">
+
+<img src="./assets/chapter-04/mobile7.jpeg" alt="mobile" style="width:auto; height:auto; border:2px solid;">
+
 ### 4.4.4. Web Applications User Flow Diagrams
-[pending content]
+
+
+
+
 ## 4.5. Web Applications Prototyping
 [pending content]
 ## 4.6. Domain-Driven Software Architecture
