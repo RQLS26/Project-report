@@ -366,35 +366,36 @@ Incluye entidades como **Notification** y **Recipient**, junto con servicios que
 
 ### Diagrama de Clases Backend ###
 
-#### Diagrama Completo ####
+- **Diagrama Completo**
+
 ### Diagrama dividido por contextos ###
 
-#### Shared ####
-imagen
+- **Shared**  
+  imagen  
 
-#### IAM ####
-imagen
+- **IAM**  
+  imagen  
 
-#### Profiles ####
-imagen
+- **Profiles**  
+  imagen  
 
-#### Requisition ####
-imagen
+- **Requisition**  
+  imagen  
 
-#### Communication ####
-imagen
+- **Communication**  
+  imagen  
 
-#### Inventory ####
-imagen
+- **Inventory**  
+  imagen  
 
-#### Analytics & Budgeting ####
-imagen
+- **Analytics & Budgeting**  
+  imagen  
 
-#### Procurement ####
-imagen
+- **Procurement**  
+  imagen  
 
-#### Suppliers ####
-imagen
+- **Suppliers**  
+  imagen  
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
