@@ -17,11 +17,6 @@ Este repositorio contiene la documentación técnica y el informe detallado del 
 *   `/docs/front-matter`: Carátula, registro de versiones, TOC y resúmenes.
 *   `/docs/assets`: Recursos visuales, diagramas de arquitectura y evidencias de Sprint.
 
-## 📄 Generación del Informe (AV1 / TB1)
-El informe se consolida a partir de los archivos Markdown mediante un script de generación local.
-1.  **Formato**: HTML / PDF (vía Pandoc).
-2.  **Estilo**: Se utiliza `style.css` para aplicar el formato académico premium.
-
 ## 🔗 Enlaces de Interés
 *   **Organización GitHub**: [https://github.com/RQLS26](https://github.com/RQLS26)
 *   **Repositorio Landing Page**: [https://github.com/RQLS26/Landing-Page](https://github.com/RQLS26/Landing-Page)
