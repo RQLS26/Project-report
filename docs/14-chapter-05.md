@@ -63,7 +63,7 @@ Se establecen los repositorios oficiales de la solución Buildline para garantiz
     </tr>
     <tr>
       <td>Backend Web Services</td>
-      <td><a href="https://github.com/RQLS26--Backend">https://github.com/RQLS26-Backend</a></td>
+      <td><a href="https://github.com/RQLS26-Backend">https://github.com/RQLS26-Backend</a></td>
     </tr>
   </tbody>
 </table>
