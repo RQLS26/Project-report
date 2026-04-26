@@ -18,8 +18,8 @@ Este análisis permite identificar cómo se posiciona Buildline frente a ERPs co
       <td colspan="2"><strong>Logotipos</strong></td>
       <td><img src="./assets/chapter-02/buildline-logo.png" alt="Buildline" height="50"></td>
       <td><img src="./assets/chapter-02/s10-logo.png" alt="S10 ERP" height="50"></td>
-      <td><img src="./assets/chapter-02/iconstruye-logo.svg" alt="ICONSTRUYE" height="50"></td>
-      <td><img src="./assets/chapter-02/mawi-logo.svg" alt="Mawi" height="50"></td>
+      <td><img src="./assets/chapter-02/iconstruye-logo.png" alt="ICONSTRUYE" height="50"></td>
+      <td><img src="./assets/chapter-02/mawi-logo.png" alt="Mawi" height="50"></td>
     </tr>
     <tr>
       <td colspan="2"><strong>Software</strong></td>
