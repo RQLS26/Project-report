@@ -2063,20 +2063,20 @@ Se establecen los repositorios oficiales de la solución Buildline para garantiz
   </thead>
   <tbody>
     <tr>
-      <td>Organización ClosedSource-11848</td>
+      <td>Organización RQLS26</td>
       <td><a href="https://github.com/RQLS26">https://github.com/RQLS26</a></td>
     </tr>
     <tr>
       <td>Landing Page</td>
-      <td><a href="https://github.com/RQLS26-LandingPage">https://github.com/RQLS26-LandingPage</a></td>
+      <td><a href="https://github.com/RQLS26/Landing-Page">https://github.com/RQLS26/Landing-Page</a></td>
     </tr>
     <tr>
       <td>Frontend Web Application</td>
-      <td><a href="https://github.com/RQLS26-Frontend">https://github.com/RQLS26--Frontend</a></td>
+      <td><a href="https://github.com/RQLS26/Buildline-Frontend">https://github.com/RQLS26/Buildline-Frontend</a></td>
     </tr>
     <tr>
       <td>Backend Web Services</td>
-      <td><a href="https://github.com/RQLS26-Backend">https://github.com/RQLS26-Backend</a></td>
+      <td><a href="https://github.com/RQLS26/Buildline-Backend">https://github.com/RQLS26/Buildline-Backend</a></td>
     </tr>
   </tbody>
 </table>
@@ -2132,7 +2132,7 @@ Se especifica la configuración de despliegue para los entornos de Buildline, ga
 
 #### Landing Page - GitHub Pages
 Despliegue automático del contenido estático mediante GitHub Actions tras cada merge a la rama `main`.
-* **URL:** [https://github.com/RQLS26-LandingPage](https://github.com/RQLS26-LandingPage)
+* **URL:** [https://github.com/RQLS26/Landing-Page](https://github.com/RQLS26/Landing-Page)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -2191,7 +2191,7 @@ Despliegue automático del contenido estático mediante GitHub Actions tras cada
   </tbody>
 </table>
 <p>
-  <strong>Repositorio:</strong> <a href="https://github.com/RQLS26-LandingPage">https://github.com/RQLS26-LandingPage</a>
+  <strong>Repositorio:</strong> <a href="https://github.com/RQLS26/Landing-Page">https://github.com/RQLS26/Landing-Page</a>
 </p>
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -2295,7 +2295,7 @@ El Sprint Backlog agrupa las tareas iniciales correspondientes a la presencia di
 
 #### 5.2.1.7. Software Deployment Evidence
 <p>
-  <strong>URL de Producción:</strong> <a href="https://github.com/RQLS26-LandingPage">https://github.com/RQLS26-LandingPage/</a>
+  <strong>URL de Producción:</strong> <a href="https://github.com/RQLS26/Landing-Page">https://github.com/RQLS26/Landing-Page/</a>
 </p>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
