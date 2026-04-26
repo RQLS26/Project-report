@@ -390,7 +390,7 @@ Incluye entidades como **Notification** y **Recipient**, junto con servicios que
   <img src="./assets/chapter-04/diagramaInventory.png" alt="Diagrama BC Inventory" style="width:auto; height:auto; border:2px solid;">
 
 - **Analytics & Budgeting**  
-  <img src="./assets/chapter-04/diagramaAnalyticsBudgeting.png" alt="Diagrama BC Analytics & Budgeting" style="width:auto; height:auto; border:2px solid;">
+  <img src="./assets/chapter-04/diagramaAnalytics.png" alt="Diagrama BC Analytics & Budgeting" style="width:auto; height:auto; border:2px solid;">
 
 - **Procurement**  
   <img src="./assets/chapter-04/diagramaProcurement.png" alt="Diagrama BC Procurement" style="width:auto; height:auto; border:2px solid;">
