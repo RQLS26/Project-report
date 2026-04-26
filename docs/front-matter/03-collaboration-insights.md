@@ -1,7 +1,7 @@
 # Project Report Collaboration Insights
 El presente apartado tiene como finalidad evidenciar el trabajo colaborativo realizado durante el desarrollo del informe. Para ello, se pone a disposición el repositorio oficial del proyecto, alojado en una organización pública de GitHub:
 
-🔗 https://github.com/RQLS26
+Link: https://github.com/RQLS26
 
 A partir de este repositorio, se analiza la participación de los integrantes del equipo mediante indicadores como número de commits, frecuencia de contribuciones y actividad general registrada en la plataforma.
 

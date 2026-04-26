@@ -383,7 +383,7 @@ Para validar la arquitectura de información y la eficiencia del flujo de negoci
 
 <img src="./assets/chapter-04/prototyping_captura.png" alt="prototyping_captura" style="width:auto; height:auto; border:2px solid;">
 
-> [**🔗 Ver Video Prototipo Interactivo - Buildline**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316687_upc_edu_pe/IQDfG_KwrXxqSrKx5D7At2JHAb3kkmot9LW_fXuBca38Z_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aRAlkn)
+> [**Link Ver Video Prototipo Interactivo - Buildline**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316687_upc_edu_pe/IQDfG_KwrXxqSrKx5D7At2JHAb3kkmot9LW_fXuBca38Z_g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aRAlkn)
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -478,7 +478,7 @@ El context diagram muestra al **Buildline Software System** como un recuadro en 
 
 En el diagrama se representan las relaciones entre estos elementos, destacando que los actores humanos interactúan únicamente con Buildline, mientras que el sistema se encarga de orquestar las integraciones con los servicios externos (validación tributaria, correos y pagos). Esta vista permite entender el alcance del sistema, los límites de responsabilidad y el ecosistema logístico en el que se inserta Buildline antes de entrar a detalles de implementación.
 
-![ContextDiagram Diagram](../docs/assets/chapter-04/ContextDiagram.svg)
+![ContextDiagram Diagram](../docs/assets/chapter-04/ContextDiagram.png)
 
 ---
 
@@ -502,7 +502,7 @@ En el diagrama se observa que:
 
 Esta vista permite apreciar cómo se distribuyen las responsabilidades entre la capa de presentación (Landing y SPA), la capa de lógica de negocio (API Application) y la capa de persistencia (Database), así como las principales decisiones tecnológicas que se han tomado para cada contenedor.
 
-![ContainerDiagram Diagram](../docs/assets/chapter-04/ContainerDiagram.svg)
+![ContainerDiagram Diagram](../docs/assets/chapter-04/ContainerDiagram.png)
 
 ---
 
@@ -531,7 +531,7 @@ En el diagrama se refleja cómo:
 
 De esta forma, los component diagrams complementan los diagramas de clases del frontend, backend y base de datos, mostrando cómo los contenedores se descomponen en componentes coherentes con los bounded contexts del dominio y cómo estos colaboran entre sí para implementar la funcionalidad completa de Buildline.
 
-![ComponentsDiagram Diagram](../docs/assets/chapter-04/ComponentDiagram.svg)
+![ComponentsDiagram Diagram](../docs/assets/chapter-04/ComponentDiagram.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -597,7 +597,7 @@ Incluye entidades como **Notification** y **Recipient**, junto con servicios que
 
 - **Diagrama Completo**
   
-<img src="./assets/chapter-04/diagramaBackend.svg" alt="Diagrama de Clases Backend" style="width:auto; height:auto; border:2px solid;">
+<img src="./assets/chapter-04/diagramaBackend.png" alt="Diagrama de Clases Backend" style="width:auto; height:auto; border:2px solid;">
 
 ### Diagrama dividido por contextos ###
 
@@ -645,7 +645,7 @@ Ilustra la estructura general del sistema a nivel relacional, organizada por *bo
 
 - **Diagrama Completo**
 
-<img src="./assets/chapter-04/diagramaBD.svg" alt="Diagrama de Base de Datos Completo" style="width:auto; height:auto; border:2px solid;">
+<img src="./assets/chapter-04/diagramaBD.png" alt="Diagrama de Base de Datos Completo" style="width:auto; height:auto; border:2px solid;">
 
 ### Diagrama dividido por contextos
 
