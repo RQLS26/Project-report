@@ -124,3 +124,8 @@ Jefes de Proyecto / Gerentes Generales
 | 40 | TS-10 | Obtener categoría por ID | Como desarrollador, quiero obtener una categoría específica para ver su detalle. | 5 |
 | 41 | TS-11 | Autenticación de usuario | Como desarrollador, quiero autenticar usuarios para garantizar acceso seguro al sistema. | 3 |
 | 42 | TS-12 | Registro de usuario | Como desarrollador, quiero registrar nuevos usuarios para permitir acceso controlado. | 3 |
+
+<div align="center">
+  <img src="./assets/chapter-03/jira1.png" alt="Evidence Product Backlog" width="90%">
+  <p><em>Figura: Captura del Product Backlog en la herramienta de gestión del proyecto.</em></p>
+</div>
