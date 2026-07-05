@@ -3275,15 +3275,15 @@ El Sprint 4 corresponde al release final de Buildline. El equipo RQLS consolidó
 | Frontend Web Application | `release/v1.2.0` | `a82c331` | Standardized JavaScript project configuration for the final frontend release. |
 | Frontend Web Application | `release/v1.2.0` | `d55eaed` | Aligned purchase orders route used by the deployed frontend navigation. |
 
-[pending content]
+<img src="docs/assets/chapter-05/sprint4-report-commits.png" alt="Sprint 4 Project Report commits evidence" width="90%">
 
 <p><strong>Figura 5.2.4.4.1.</strong> Evidencia de commits del Project Report para el cierre del Sprint 4.</p>
 
-[pending content]
+<img src="docs/assets/chapter-05/sprint4-landing-commits.png" alt="Sprint 4 Landing Page commits evidence" width="90%">
 
 <p><strong>Figura 5.2.4.4.2.</strong> Evidencia de commits del Landing Page para navegación, enlaces y sección de videos finales.</p>
 
-[pending content]
+<img src="docs/assets/chapter-05/sprint4-frontend-commits.png" alt="Sprint 4 Frontend Web Application commits evidence" width="90%">
 
 <p><strong>Figura 5.2.4.4.3.</strong> Evidencia de commits del Frontend Web Application para mejoras visuales, API y rutas finales.</p>
 
@@ -3291,14 +3291,14 @@ El Sprint 4 corresponde al release final de Buildline. El equipo RQLS consolidó
 
 | Evidence # | Artifact | Route / URL | Description | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 5.2.4.5.1 | Landing Page execution | `docs/assets/chapter-05/sprint4-landing-video-section.png` | Landing Page mostrando la navegación final, la sección de producto y el acceso al video About-the-Product. | [pending content] |
-| 5.2.4.5.2 | Frontend Web Application execution | `docs/assets/chapter-05/sprint4-frontend-release-review.png` | Web Application desplegada para revisión final de los flujos principales. | [pending content] |
+| 5.2.4.5.1 | Landing Page execution | `docs/assets/chapter-05/sprint4-landing-video-section.png` | Landing Page mostrando la navegación final, la sección de producto y el acceso al video About-the-Product. | Done |
+| 5.2.4.5.2 | Frontend Web Application execution | `docs/assets/chapter-05/sprint4-frontend-release-review.png` | Web Application desplegada para revisión final de los flujos principales. | Done |
 
-[pending content]
+<img src="docs/assets/chapter-05/sprint4-landing-video-section.png" alt="Sprint 4 Landing Page execution evidence" width="90%">
 
 <p><strong>Figura 5.2.4.5.1.</strong> Ejecución del Landing Page final con sección de producto y acceso al video About-the-Product.</p>
 
-[pending content]
+<img src="docs/assets/chapter-05/sprint4-frontend-release-review.png" alt="Sprint 4 Frontend Web Application execution evidence" width="90%">
 
 <p><strong>Figura 5.2.4.5.2.</strong> Ejecución del Frontend Web Application final.</p>
 
@@ -3318,7 +3318,7 @@ Durante el Sprint 4 no se incorporaron nuevos Web Services ni cambios de contrat
 | Frontend Web Application | Vercel | [https://buildline-delta.vercel.app/](https://buildline-delta.vercel.app/) | Deployed |
 | Backend Web Services | Railway | [https://buildline-platform.up.railway.app/swagger/index.html](https://buildline-platform.up.railway.app/swagger/index.html) | Deployed |
 
-[pending content]
+<img src="docs/assets/chapter-05/sprint4-final-deployments.png" alt="Sprint 4 final deployments evidence" width="90%">
 
 <p><strong>Figura 5.2.4.7.1.</strong> Evidencia general de productos digitales desplegados para el release final.</p>
 
@@ -3333,7 +3333,7 @@ Durante el Sprint 4, el equipo trabajó en el cierre final del release. La coord
 | Release validation | URLs finales de Landing Page, Frontend Web Application y Backend Web Services organizadas como evidencia de productos digitales desplegados. |
 | Evidence management | Evidencias AV2 preservadas como parte del proceso y espacios finales añadidos después para el cierre del release. |
 
-[pending content]
+<img src="docs/assets/chapter-05/sprint4-collaboration-insights.png" alt="Sprint 4 team collaboration insights evidence" width="90%">
 
 <p><strong>Figura 5.2.4.8.1.</strong> Evidencia de colaboración del equipo durante Sprint 4 mediante actividad en GitHub.</p>
 
@@ -3672,7 +3672,7 @@ La sección Video About-the-Product registra la versión final preparada para el
 
 <p>El material incluye escenas de interacción con el producto y opiniones positivas vinculadas a los segmentos objetivo validados. Para el segmento de jefes de proyecto / gerentes, se enfatiza la utilidad de centralizar compras, presupuesto y proveedores. Para el segmento operativo/residente, se destaca la rapidez para registrar requisiciones, consultar estados y reducir errores de comunicación desde obra.</p>
 
-[pending content]
+<img src="docs/assets/chapter-05/about-the-product-sprint-4-screenshot.png" alt="About-the-Product Sprint 4 video screenshot" width="90%">
 
 <p><strong>Figura 5.4.1.</strong> Captura del video About-the-Product final.</p>
 
@@ -3747,7 +3747,7 @@ La sección Video About-the-Product registra la versión final preparada para el
 | URL YouTube | [pending content] |
 | Contenido | Retrospectiva del proceso de trabajo, escenas de colaboración real y testimonio ante cámara de cada integrante sobre actividades realizadas, logro de Student Outcome y competencias alcanzadas. |
 
-[pending content]
+<img src="docs/assets/chapter-06/about-the-team-sprint-4-screenshot.png" alt="About-the-Team Sprint 4 video screenshot" width="90%">
 
 <p><strong>Figura 6.2.2.1.</strong> Captura del video About-the-Team Sprint 4.</p>
 
