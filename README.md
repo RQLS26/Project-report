@@ -165,8 +165,32 @@ La coordinación se realizó sobre los repositorios de Project Report, Landing P
         - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
     - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
         - [5.2.1. Sprint 1](#521-sprint-1)
+            - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+            - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+            - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+            - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+            - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+            - [5.2.1.6. Services Documentation Evidence](#5216-services-documentation-evidence)
+            - [5.2.1.7. Software Deployment Evidence](#5217-software-deployment-evidence)
+            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
         - [5.2.2. Sprint 2](#522-sprint-2)
+            - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+            - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+            - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+            - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+            - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
         - [5.2.3. Sprint 3](#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+            - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+            - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
         - [5.2.4. Sprint 4](#524-sprint-4)
             - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
             - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
@@ -186,7 +210,7 @@ La coordinación se realizó sobre los repositorios de Project Report, Landing P
     - [6.1. Conclusiones y recomendaciones](#61-conclusiones-y-recomendaciones)
     - [6.2. Video About-the-Team](#62-video-about-the-team)
         - [6.2.1. About-the-Team Sprint 3 - Evidencia AV2](#621-about-the-team-sprint-3---evidencia-av2)
-        - [6.2.2. About-the-Team Sprint 4 - Versión final TB2](#622-about-the-team-sprint-4---versión-final-tb2)
+        - [6.2.2. About-the-Team Sprint 4 - Versión final](#622-about-the-team-sprint-4---versión-final)
 
 - [Bibliografía](#bibliografía)
 
@@ -3180,7 +3204,7 @@ El Sprint Backlog 3 agrupa las tareas necesarias para construir y desplegar la p
 
 ### 5.2.4. Sprint 4
 
-El Sprint 4 corresponde al release final de Buildline para la entrega TB2. El equipo RQLS consolidó los productos digitales desplegados, actualizó el informe final, alineó el Landing Page con la comunicación comercial de la startup y organizó las evidencias de cierre del ciclo de vida del proyecto.
+El Sprint 4 corresponde al release final de Buildline. El equipo RQLS consolidó los productos digitales desplegados, actualizó el informe final, alineó el Landing Page con la comunicación comercial de la startup y organizó las evidencias de cierre del ciclo de vida del proyecto.
 
 #### 5.2.4.1. Sprint Planning 4.
 
@@ -3198,9 +3222,9 @@ El Sprint 4 corresponde al release final de Buildline para la entrega TB2. El eq
     <tr><td colspan="2" style="text-align: center;"><strong>Sprint 3 Review Summary</strong></td></tr>
     <tr><td colspan="2">Se presentó una versión integrada de Buildline con Backend Web Services desplegado en Railway, Frontend Web Application desplegado en Vercel, documentación Swagger y evidencias AV2 del proceso de validación. La revisión posterior permitió identificar ajustes de estructura documental, actualización de enlaces audiovisuales y cierre de artefactos finales.</td></tr>
     <tr><td colspan="2" style="text-align: center;"><strong>Sprint 3 Retrospective Summary</strong></td></tr>
-    <tr><td colspan="2">El equipo acordó mantener la evidencia AV2 como parte del proceso y preparar una capa final TB2 orientada a release: informe completo, productos desplegados, video About-the-Product promocional, actualización de Landing Page y espacios para las evidencias finales restantes.</td></tr>
+    <tr><td colspan="2">El equipo acordó mantener la evidencia AV2 como parte del proceso y preparar una capa final orientada a release: informe completo, productos desplegados, video About-the-Product promocional, actualización de Landing Page y espacios para las evidencias finales restantes.</td></tr>
     <tr><td colspan="2" style="text-align: center;"><strong>Sprint Goal & User Stories</strong></td></tr>
-    <tr><td colspan="2"><strong>Sprint 4 Goal (Outcome-Impact-Customer-Confirmation):</strong><br><br><em>Our focus is on delivering the final Buildline release experience by consolidating the report, updating the Landing Page communication, validating deployed products and preparing final audiovisual evidence for TB2.</em><br><br><em>We believe it will communicate Buildline as a complete SaaS startup product, connecting the business model, validated user needs, working software and final deployment evidence.</em><br><br><em>This will be confirmed when the Final Documentation Report includes Sprint 4, updated version registry, Student Outcome, final video links, product URLs and evidence spaces aligned with the assignment statement.</em></td></tr>
+    <tr><td colspan="2"><strong>Sprint 4 Goal (Outcome-Impact-Customer-Confirmation):</strong><br><br><em>Our focus is on delivering the final Buildline release experience by consolidating the report, updating the Landing Page communication, validating deployed products and preparing final audiovisual evidence.</em><br><br><em>We believe it will communicate Buildline as a complete SaaS startup product, connecting the business model, validated user needs, working software and final deployment evidence.</em><br><br><em>This will be confirmed when the Final Documentation Report includes Sprint 4, updated version registry, Student Outcome, final video links, product URLs and evidence spaces aligned with the assignment statement.</em></td></tr>
     <tr><td>Sprint 4 Velocity</td><td>13 Story Points</td></tr>
     <tr><td>Sum of Story Points</td><td>13 Story Points</td></tr>
   </tbody>
@@ -3236,19 +3260,32 @@ El Sprint 4 corresponde al release final de Buildline para la entrega TB2. El eq
 | 4 | **US-LP-005** | **T-S4-002** | Add release video area | Add About-the-Product Sprint 4 links and prepare the About-the-Team area in the Landing Page. | 3h | Morales Venegas, David Joel | Done |
 | 4 | **US-FE-009** | **T-S4-003** | Final product review | Review final Frontend Web Application flows, deployment URL and release-facing screens. | 3h | Paucar Zenteno, Jesús Fernando | To Review |
 | 4 | **US-DOC-010** | **T-S4-004** | Update final report | Update version registry, collaboration insights, Student Outcome, Sprint 4, About-the-Product and annex spaces. | 3h | Morales Venegas, David Joel | Done |
-| 4 | **US-REL-004** | **T-S4-005** | Release evidence QA | Review final deployment links, video URLs and evidence routes for the TB2 package. | 2h | Viza Quispe, Marlon Packard | To Review |
+| 4 | **US-REL-004** | **T-S4-005** | Release evidence QA | Review final deployment links, video URLs and evidence routes for the final package. | 2h | Viza Quispe, Marlon Packard | To Review |
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
 | Repository | Branch | Commit | Description |
 | :--- | :--- | :--- | :--- |
-| Project Report | `develop` | `a17e411` | Prepared TB2 Sprint 4 evidence, final report structure and video references. |
+| Project Report | `develop` | `a17e411` | Prepared Sprint 4 evidence, final report structure and video references. |
 | Project Report | `develop` | `0e62dfe` | Refined Sprint 4 release scope, preserved AV2 evidence and adjusted final evidence spaces. |
 | Project Report | `develop` | `4c71fc5` | Aligned Sprint 4 with the Sprint Review structure required by the assignment statement. |
 | Landing Page | `main` | `c9f2b94` | Aligned final release navigation and video sections with the deployed Buildline products. |
+| Landing Page | `main` | `374cac2` | Refined platform navigation, final video/contact sections and real product showcase images. |
 | Frontend Web Application | `release/v1.2.0` | `63e42df` | Normalized API adapters and dashboard height for release-facing frontend consistency. |
 | Frontend Web Application | `release/v1.2.0` | `a82c331` | Standardized JavaScript project configuration for the final frontend release. |
 | Frontend Web Application | `release/v1.2.0` | `d55eaed` | Aligned purchase orders route used by the deployed frontend navigation. |
+
+[pending content]
+
+<p><strong>Figura 5.2.4.4.1.</strong> Evidencia de commits del Project Report para el cierre del Sprint 4.</p>
+
+[pending content]
+
+<p><strong>Figura 5.2.4.4.2.</strong> Evidencia de commits del Landing Page para navegación, enlaces y sección de videos finales.</p>
+
+[pending content]
+
+<p><strong>Figura 5.2.4.4.3.</strong> Evidencia de commits del Frontend Web Application para mejoras visuales, API y rutas finales.</p>
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
@@ -3267,7 +3304,7 @@ El Sprint 4 corresponde al release final de Buildline para la entrega TB2. El eq
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-Durante el Sprint 4 no se incorporaron nuevos Web Services ni cambios de contrato en la API. La documentación de servicios corresponde a la evidencia consolidada en Sprint 3; para TB2 se mantiene como referencia de producto desplegado y se prioriza la evidencia final de Landing Page, Frontend Web Application e informe.
+Durante el Sprint 4 no se incorporaron nuevos Web Services ni cambios de contrato en la API. El equipo mantuvo vigente la documentación de servicios consolidada en Sprint 3 y concentró el cierre en validar que el Backend desplegado siga disponible para la experiencia final del producto.
 
 | Evidence # | Artifact | Route / URL | Description | Status |
 | :--- | :--- | :--- | :--- | :--- |
@@ -3283,7 +3320,7 @@ Durante el Sprint 4 no se incorporaron nuevos Web Services ni cambios de contrat
 
 [pending content]
 
-<p><strong>Figura 5.2.4.7.1.</strong> Evidencia general de productos digitales desplegados para TB2.</p>
+<p><strong>Figura 5.2.4.7.1.</strong> Evidencia general de productos digitales desplegados para el release final.</p>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
@@ -3291,10 +3328,14 @@ Durante el Sprint 4, el equipo trabajó en el cierre final del release. La coord
 
 | Collaboration Focus | Result |
 | :--- | :--- |
-| Final documentation | Registro de versiones, Collaboration Insights, Student Outcome, Sprint 4, conclusiones, bibliografía y anexos actualizados para TB2. |
+| Final documentation | Registro de versiones, Collaboration Insights, Student Outcome, Sprint 4, conclusiones, bibliografía y anexos actualizados para el cierre del proyecto. |
 | Product communication | Landing Page alineada con secciones reales y video About-the-Product Sprint 4 incorporado como material promocional. |
 | Release validation | URLs finales de Landing Page, Frontend Web Application y Backend Web Services organizadas como evidencia de productos digitales desplegados. |
-| Evidence management | Evidencias AV2 preservadas como parte del proceso y espacios TB2 añadidos después para el cierre final. |
+| Evidence management | Evidencias AV2 preservadas como parte del proceso y espacios finales añadidos después para el cierre del release. |
+
+[pending content]
+
+<p><strong>Figura 5.2.4.8.1.</strong> Evidencia de colaboración del equipo durante Sprint 4 mediante actividad en GitHub.</p>
 
 ## 5.3. Validation Interviews
 
@@ -3615,7 +3656,7 @@ El hallazgo fue incorporado como ajuste de backlog. La versión revisada documen
 
 ## 5.4. Video About-the-Product
 
-La sección Video About-the-Product registra la versión final preparada para TB2. Este material tiene orientación promocional y resume el modelo de negocio, las características y los beneficios de Buildline para visitantes del Landing Page.
+La sección Video About-the-Product registra la versión final preparada para el cierre del proyecto. Este material tiene orientación promocional y resume el modelo de negocio, las características y los beneficios de Buildline para visitantes del Landing Page.
 
 | Elemento | Contenido del entregable |
 | :--- | :--- |
@@ -3697,7 +3738,7 @@ La sección Video About-the-Product registra la versión final preparada para TB
 | URL YouTube | [upc-pre-202610-1asi0730-12158-rqls-about-the-team-sprint-3.mp4](https://youtu.be/sqylf0zKJzg) |
 | Contenido | Primera versión del video de equipo presentada en AV2, con testimonios de integrantes sobre actividades realizadas y colaboración durante el ciclo de implementación. |
 
-### 6.2.2. About-the-Team Sprint 4 - Versión final TB2
+### 6.2.2. About-the-Team Sprint 4 - Versión final
 
 | Elemento | Contenido del entregable |
 | :--- | :--- |
