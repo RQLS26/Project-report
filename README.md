@@ -3242,34 +3242,26 @@ El Sprint 4 corresponde al release final de Buildline para la entrega TB2. El eq
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
-| Evidence # | Artifact | Route / URL | Description | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| 5.2.4.4.1 | Project Report TB2 update | `docs/assets/chapter-05/sprint4-report-development.png` | Actualización del informe final con Registro de Versiones, Collaboration Insights, Student Outcome, Sprint 4, Video About-the-Product y Anexos. | [pending content] |
-| 5.2.4.4.2 | Landing Page final update | `docs/assets/chapter-05/sprint4-landing-development.png` | Actualización del Landing Page con navegación alineada a secciones reales y espacio de videos finales. | [pending content] |
-| 5.2.4.4.3 | Final Frontend review | `docs/assets/chapter-05/sprint4-frontend-development.png` | Revisión de la Web Application desplegada y de los flujos principales presentados para el release final. | [pending content] |
-
-[pending content]
-
-<p><strong>Figura 5.2.4.4.1.</strong> Evidencia de desarrollo del informe final TB2.</p>
-
-[pending content]
-
-<p><strong>Figura 5.2.4.4.2.</strong> Evidencia de actualización del Landing Page final.</p>
-
-[pending content]
-
-<p><strong>Figura 5.2.4.4.3.</strong> Evidencia de revisión del Frontend Web Application final.</p>
+| Repository | Branch | Commit | Description |
+| :--- | :--- | :--- | :--- |
+| Project Report | `develop` | `a17e411` | Prepared TB2 Sprint 4 evidence, final report structure and video references. |
+| Project Report | `develop` | `0e62dfe` | Refined Sprint 4 release scope, preserved AV2 evidence and adjusted final evidence spaces. |
+| Project Report | `develop` | `4c71fc5` | Aligned Sprint 4 with the Sprint Review structure required by the assignment statement. |
+| Landing Page | `main` | `c9f2b94` | Aligned final release navigation and video sections with the deployed Buildline products. |
+| Frontend Web Application | `release/v1.2.0` | `63e42df` | Normalized API adapters and dashboard height for release-facing frontend consistency. |
+| Frontend Web Application | `release/v1.2.0` | `a82c331` | Standardized JavaScript project configuration for the final frontend release. |
+| Frontend Web Application | `release/v1.2.0` | `d55eaed` | Aligned purchase orders route used by the deployed frontend navigation. |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 | Evidence # | Artifact | Route / URL | Description | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 5.2.4.5.1 | Landing Page execution | `docs/assets/chapter-05/sprint4-landing-video-section.png` | Landing Page mostrando la navegación final y el acceso al video About-the-Product. | [pending content] |
-| 5.2.4.5.2 | Frontend Web Application execution | `docs/assets/chapter-05/sprint4-frontend-release-review.png` | Web Application desplegada para revisión final de flujos principales. | [pending content] |
+| 5.2.4.5.1 | Landing Page execution | `docs/assets/chapter-05/sprint4-landing-video-section.png` | Landing Page mostrando la navegación final, la sección de producto y el acceso al video About-the-Product. | [pending content] |
+| 5.2.4.5.2 | Frontend Web Application execution | `docs/assets/chapter-05/sprint4-frontend-release-review.png` | Web Application desplegada para revisión final de los flujos principales. | [pending content] |
 
 [pending content]
 
-<p><strong>Figura 5.2.4.5.1.</strong> Ejecución del Landing Page final con video de producto.</p>
+<p><strong>Figura 5.2.4.5.1.</strong> Ejecución del Landing Page final con sección de producto y acceso al video About-the-Product.</p>
 
 [pending content]
 
@@ -3290,8 +3282,6 @@ Durante el Sprint 4 no se incorporaron nuevos Web Services ni cambios de contrat
 | Landing Page | Vercel | [https://landing-page-bay-iota.vercel.app/](https://landing-page-bay-iota.vercel.app/) | Deployed |
 | Frontend Web Application | Vercel | [https://buildline-delta.vercel.app/](https://buildline-delta.vercel.app/) | Deployed |
 | Backend Web Services | Railway | [https://buildline-platform.up.railway.app/swagger/index.html](https://buildline-platform.up.railway.app/swagger/index.html) | Deployed |
-
-**Ruta de evidencia:** `docs/assets/chapter-05/sprint4-final-deployments.png`
 
 [pending content]
 
@@ -3508,50 +3498,6 @@ La validación del producto se orienta a comprobar que la primera versión integ
   </tbody>
 </table>
 
-<table style="width:100%; border-collapse:collapse;">
-  <tbody>
-    <tr>
-      <td colspan="4" align="center"><strong>Entrevista N.° 4</strong></td>
-    </tr>
-    <tr>
-      <td colspan="4" align="center">
-        <img src="docs/assets/chapter-05/validation-interview-04-screenshot.png" alt="Screenshot de entrevista de validación 4" height="350">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><strong>Información del entrevistado</strong></td>
-      <td colspan="2" align="center"><strong>Contexto de validación</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Nombre completo</strong></td>
-      <td>Ana Reyes</td>
-      <td><strong>Segmento objetivo</strong></td>
-      <td>Residente de obra / Personal de obra</td>
-    </tr>
-    <tr>
-      <td><strong>Edad</strong></td>
-      <td>25 años</td>
-      <td><strong>Producto validado</strong></td>
-      <td>Frontend Web Application integrado con Backend Web Services</td>
-    </tr>
-    <tr>
-      <td><strong>Ubicación</strong></td>
-      <td>Lima Metropolitana</td>
-      <td><strong>Duración</strong></td>
-      <td>4 minutos</td>
-    </tr>
-    <tr>
-      <td colspan="4"><strong>URL de grabación: </strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322849_upc_edu_pe/IQCMnpYspCE0QqDrnzTy-aiJAaYFYe1RFf-w4mtejPoi3Js?e=h1W7SD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Ver video</a></td>
-    </tr>
-    <tr>
-      <td colspan="4">
-        <strong>Resumen de la entrevista</strong><br><br>
-        La entrevistada indicó que Buildline permite registrar requisiciones de manera rápida y sencilla, mejorando el orden frente a herramientas como WhatsApp. Destacó que el formulario es claro y ayuda a reducir errores en la solicitud de materiales. También valoró positivamente la facilidad para visualizar el estado de las requisiciones y el seguimiento en tiempo real. Considera que la plataforma puede ayudar a reducir retrasos en obra al mejorar el control del abastecimiento. Como mejora, sugirió añadir notificaciones más visibles y la opción de adjuntar fotos o documentos en las solicitudes.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ### 5.3.3. Evaluaciones según heurísticas.
 
 <div align="center">
@@ -3682,15 +3628,14 @@ La sección Video About-the-Product registra la versión final preparada para TB
 | URL YouTube | [upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-4.mp4](https://youtu.be/R-ERj2On3jM) |
 | Producto mostrado | Landing Page final, Frontend Web Application desplegado y principales pantallas del flujo logístico. |
 | Segmentos objetivo representados | Jefes de proyecto / gerentes y residentes de obra / personal operativo, mediante opiniones positivas derivadas de las entrevistas de validación. |
-| Evidencia visual | `docs/assets/chapter-05/about-the-product-sprint-4-screenshot.png` |
 
 <p>La versión Sprint 4 del video About-the-Product resume el modelo de negocio de Buildline como una solución SaaS para MYPES constructoras que requieren trazabilidad logística, control presupuestal, seguimiento de compras y coordinación entre obra y oficina. El video tiene orientación promocional y conecta el dolor identificado en la investigación con beneficios concretos: reducción de información dispersa, visibilidad de requisiciones, comparación de cotizaciones, tracking de entregas, control de proveedores y alertas presupuestales.</p>
 
 <p>El material incluye escenas de interacción con el producto y opiniones positivas vinculadas a los segmentos objetivo validados. Para el segmento de jefes de proyecto / gerentes, se enfatiza la utilidad de centralizar compras, presupuesto y proveedores. Para el segmento operativo/residente, se destaca la rapidez para registrar requisiciones, consultar estados y reducir errores de comunicación desde obra.</p>
 
-<p><strong>Figura 5.4.1.</strong> Captura del video About-the-Product final.</p>
-
 [pending content]
+
+<p><strong>Figura 5.4.1.</strong> Captura del video About-the-Product final.</p>
 
 # Capítulo VI: Conclusions
 ## 6.1. Conclusiones y recomendaciones
@@ -3762,11 +3707,10 @@ La sección Video About-the-Product registra la versión final preparada para TB
 | URL Microsoft Stream | [pending content] |
 | URL YouTube | [pending content] |
 | Contenido | Retrospectiva del proceso de trabajo, escenas de colaboración real y testimonio ante cámara de cada integrante sobre actividades realizadas, logro de Student Outcome y competencias alcanzadas. |
-| Evidencia visual | `docs/assets/chapter-06/about-the-team-sprint-4-screenshot.png` |
-
-<p><strong>Figura 6.2.2.1.</strong> Captura del video About-the-Team Sprint 4.</p>
 
 [pending content]
+
+<p><strong>Figura 6.2.2.1.</strong> Captura del video About-the-Team Sprint 4.</p>
 
 # Bibliografía
 <ul>
