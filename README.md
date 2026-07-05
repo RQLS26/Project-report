@@ -24,7 +24,7 @@
 
 <br>
 
-# Informe de Trabajo Final - AV2
+# Informe de Trabajo Final - TB2
 
 <br>
 
@@ -73,7 +73,7 @@
 
 <br><br>
 
-**Lima, abril de 2026**
+**Lima, julio de 2026**
 </div>
 
 # Registro de versiones del informe
@@ -82,6 +82,9 @@
 | 1.0.0 | 26/04/2026 | Mauricio Sebastián Castillo Yataco, David Joel Morales Venegas, Jesús Fernando Paucar Zenteno, Marlon Packard Viza Quispe, Albino Florencio Cáceres Pizarro | Versión inicial del avance AV1 (TB1) |
 | 2.0.0 | 16/05/2026 | Mauricio Sebastián Castillo Yataco, David Joel Morales Venegas, Jesús Fernando Paucar Zenteno, Marlon Packard Viza Quispe, Albino Florencio Cáceres Pizarro | Entrega de Trabajo Parcial (TB1) con despliegue de Frontend y Landing Page |
 | 3.0.0 | 20/06/2026 | Mauricio Sebastián Castillo Yataco, David Joel Morales Venegas, Jesús Fernando Paucar Zenteno, Marlon Packard Viza Quispe, Albino Florencio Cáceres Pizarro | Entrega AV2 - Sprint Review Semana 12 con Landing Page actualizada, Frontend desplegado, primera versión de Backend Web Services en Railway, Swagger, Sprint 3, Validation Interviews, Video About-the-Product y Video About-the-Team |
+| 4.0.0 | 04/07/2026 | Mauricio Sebastián Castillo Yataco, David Joel Morales Venegas, Jesús Fernando Paucar Zenteno, Marlon Packard Viza Quispe, Albino Florencio Cáceres Pizarro | Entrega final con versión actualizada del informe, Sprint 4, productos digitales desplegados, video About-the-Product promocional, conclusiones, bibliografía y anexos |
+
+<div style="page-break-after: always;"></div>
 
 # Project Report Collaboration Insights
 El presente apartado tiene como finalidad evidenciar el trabajo colaborativo realizado durante el desarrollo del informe. Para ello, se pone a disposición el repositorio oficial del proyecto, alojado en una organización pública de GitHub:
@@ -110,13 +113,19 @@ Durante AV2, la colaboración se orientó a cerrar la brecha entre el frontend d
 La coordinación se realizó mediante ramas de trabajo, commits por repositorio, revisión cruzada de avances y validación funcional de los flujos principales. A diferencia de TB1, esta entrega incorporó Web Services desplegados, documentación Swagger y evidencias de integración con datos persistidos.
 
 ## TB2
-[pending content]
+Durante TB2, la colaboración se orientó a cerrar el ciclo de vida del proyecto con una versión final integrada de Buildline. El equipo concentró el trabajo en corregir observaciones recibidas en AV2, actualizar el informe final, preparar la sección Sprint 4, revisar los enlaces de evidencias, incorporar el video About-the-Product con orientación promocional y alinear el Landing Page con los productos digitales finales.
+
+La coordinación se realizó sobre los repositorios de Project Report, Landing Page, Frontend Web Application y Backend Web Services. Las actividades se distribuyeron entre revisión documental, mejoras visuales, validación de rutas, integración de videos en el Landing Page y preparación de espacios para evidencias finales de despliegue, screenshots y exposición.
+
+<div style="page-break-after: always;"></div>
 
 # Contenido
 ## Tabla de contenidos
 
-- [Carátula](#informe-de-trabajo-final---av2)
+- [Carátula](#informe-de-trabajo-final---tb2)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Abstract](#abstract)
 - [Resumen](#resumen)
@@ -156,8 +165,41 @@ La coordinación se realizó mediante ramas de trabajo, commits por repositorio,
         - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
     - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
         - [5.2.1. Sprint 1](#521-sprint-1)
+            - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+            - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+            - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+            - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+            - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+            - [5.2.1.6. Services Documentation Evidence](#5216-services-documentation-evidence)
+            - [5.2.1.7. Software Deployment Evidence](#5217-software-deployment-evidence)
+            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
         - [5.2.2. Sprint 2](#522-sprint-2)
+            - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+            - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+            - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+            - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+            - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
         - [5.2.3. Sprint 3](#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+            - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+            - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+        - [5.2.4. Sprint 4](#524-sprint-4)
+            - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+            - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+            - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+            - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+            - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+            - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+            - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+            - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
     - [5.3. Validation Interviews](#53-validation-interviews)
         - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
         - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -167,6 +209,8 @@ La coordinación se realizó mediante ramas de trabajo, commits por repositorio,
 - [Capítulo VI: Conclusions](#capítulo-vi-conclusions)
     - [6.1. Conclusiones y recomendaciones](#61-conclusiones-y-recomendaciones)
     - [6.2. Video About-the-Team](#62-video-about-the-team)
+        - [6.2.1. About-the-Team Sprint 3 - Evidencia AV2](#621-about-the-team-sprint-3---evidencia-av2)
+        - [6.2.2. About-the-Team Sprint 4 - Versión final](#622-about-the-team-sprint-4---versión-final)
 
 - [Bibliografía](#bibliografía)
 
@@ -199,28 +243,34 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones d
       <strong>Morales Venegas, David Joel</strong><br>
       <strong>AV1:</strong> Creación del repositorio, Diseño de Landing Page, Lideró diseño/análisis de entrevistas.<br>
       <strong>TB1:</strong> Lideró la implementación de la mensajería interna, perfil de empresa y rediseño del Landing Page v2 (Vercel).<br>
-      <strong>AV2:</strong> Lideró el despliegue de Web Services en Railway, la documentación de Sprint 3, la matriz de endpoints company-scoped y la sincronización del informe con backend/frontend.<br><br>
+      <strong>AV2:</strong> Lideró el despliegue de Web Services en Railway, la documentación de Sprint 3, la matriz de endpoints company-scoped y la sincronización del informe con backend/frontend.<br>
+      <strong>TB2:</strong> Coordinó la actualización del Final Documentation Report, la incorporación del Sprint 4, la revisión de enlaces de evidencias y la alineación del Landing Page con los videos finales.<br><br>
       <strong>Viza Quispe, Marlon Packard</strong><br>
       <strong>AV1:</strong> Event Storming, Ubiquitous Language, Journey/Empathy Mapping.<br>
       <strong>TB1:</strong> Implementó el directorio de proveedores y el módulo de incidencias en el Frontend.<br>
-      <strong>AV2:</strong> Colaboró en la validación de proveedores, incidencias, mensajes internos, notificaciones y criterios de QA funcional para la integración con backend.<br><br>
+      <strong>AV2:</strong> Colaboró en la validación de proveedores, incidencias, mensajes internos, notificaciones y criterios de QA funcional para la integración con backend.<br>
+      <strong>TB2:</strong> Apoyó la revisión final de consistencia entre hallazgos de validación, mejoras registradas y evidencias requeridas para el release final.<br><br>
       <strong>Paucar Zenteno, Jesús Fernando</strong><br>
       <strong>AV1:</strong> User Flow Diagrams, Web applications prototype.<br>
       <strong>TB1:</strong> Lideró la gestión de requisiciones y órdenes de compra (Approval Inbox, Quotations Management).<br>
-      <strong>AV2:</strong> Lideró la revisión de contratos de requisiciones, cotizaciones y órdenes de compra para asegurar coherencia entre Product Backlog, Technical Stories y endpoints reales.<br><br>
+      <strong>AV2:</strong> Lideró la revisión de contratos de requisiciones, cotizaciones y órdenes de compra para asegurar coherencia entre Product Backlog, Technical Stories y endpoints reales.<br>
+      <strong>TB2:</strong> Validó la coherencia final de flujos de requisiciones, compras y mensajes promocionales usados en la Landing Page y en el material de presentación final.<br><br>
       <strong>Castillo Yataco, Mauricio Sebastián</strong><br>
       <strong>AV1:</strong> Lean UX Process, Segmentos Objetivo, Lean UX Canvas, Needfinding.<br>
       <strong>TB1:</strong> Configuró el proyecto base (Vue 3 + Vite), implementó IAM (Auth), mock API en Render y despliegue.<br>
-      <strong>AV2:</strong> Apoyó la revisión de IAM, roles owner/admin/viewer, último inicio de sesión real, recuperación de errores y validaciones de autenticación.<br><br>
+      <strong>AV2:</strong> Apoyó la revisión de IAM, roles owner/admin/viewer, último inicio de sesión real, recuperación de errores y validaciones de autenticación.<br>
+      <strong>TB2:</strong> Revisó que los cambios finales mantengan compatibilidad con el despliegue, la navegación hacia Sign In / Sign Up y la versión final de productos digitales.<br><br>
       <strong>Cáceres Pizarro, Albino Florencio</strong><br>
       <strong>AV1:</strong> Arquitectura de software (C4 Context Diagrams y Class Diagrams).<br>
       <strong>TB1:</strong> Desarrolló el control de inventarios, dashboard financiero y generación de reportes PDF.<br>
       <strong>AV2:</strong> Colaboró en la revisión de inventario, delivery tracking, analytics-budgeting, dashboards, reportes y fuentes de arquitectura del backend.<br>
+      <strong>TB2:</strong> Apoyó la revisión de evidencias finales de producto, mejoras visuales y consistencia del material para la exposición y keynote final.<br>
     </td>
     <td>
       <strong>AV1:</strong> El equipo demostró liderazgo compartido al asignar responsables específicos basándose en las fortalezas técnicas de cada integrante.<br>
       <strong>TB1:</strong> Se lideraron diferentes *bounded contexts* técnicos del Frontend, logrando una entrega funcional de software desplegado en la nube de forma paralela.<br>
       <strong>AV2:</strong> El liderazgo se redistribuyó entre backend, frontend integration, QA y documentación, permitiendo entregar servicios desplegados y un informe alineado con la arquitectura real.<br>
+      <strong>TB2:</strong> El equipo consolidó la versión final del release, priorizando corrección de observaciones, comunicación promocional del producto, evidencias de despliegue y preparación de entregables finales.<br>
     </td>
   </tr>
   <tr>
@@ -231,28 +281,34 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones d
       <strong>Morales Venegas, David Joel</strong><br>
       <strong>AV1:</strong> Colaboró en Wireframes, Wireflow y User Flow Diagrams.<br>
       <strong>TB1:</strong> Colaboró en la integración del Frontend con el mock server y validación de componentes PrimeVue.<br>
-      <strong>AV2:</strong> Coordinó la actualización local del informe, la revisión de rutas por compañía y la preparación de evidencias de despliegue Railway/Vercel.<br><br>
+      <strong>AV2:</strong> Coordinó la actualización local del informe, la revisión de rutas por compañía y la preparación de evidencias de despliegue Railway/Vercel.<br>
+      <strong>TB2:</strong> Organizó la actualización de secciones finales, versión del informe, contenidos de Sprint 4 y relación entre videos, anexos, Landing Page y Final Documentation Report.<br><br>
       <strong>Viza Quispe, Marlon Packard</strong><br>
       <strong>AV1:</strong> Diseño de Landing Page, revisión integradora y correcciones finales AV1.<br>
       <strong>TB1:</strong> Revisión integradora de código y pruebas de QA sobre los módulos de proveedores y requisiciones.<br>
-      <strong>AV2:</strong> Revisó consistencia de módulos de proveedores, incidencias y comunicación con criterios de validación de usuario final.<br><br>
+      <strong>AV2:</strong> Revisó consistencia de módulos de proveedores, incidencias y comunicación con criterios de validación de usuario final.<br>
+      <strong>TB2:</strong> Apoyó la revisión cruzada de evidencias visuales, enlaces de videos y hallazgos de validación para evitar omisiones en el PDF final.<br><br>
       <strong>Paucar Zenteno, Jesús Fernando</strong><br>
       <strong>AV1:</strong> Diseño de Web Applications, revisión integradora y correcciones finales AV1.<br>
       <strong>TB1:</strong> Validó los flujos lógicos de las órdenes de compra (approval flows) contra los requisitos de dominio (DDD).<br>
-      <strong>AV2:</strong> Contrastó User Stories, Technical Stories y endpoints para evitar que Sprint 3 agregue historias paralelas no alineadas al capítulo III.<br><br>
+      <strong>AV2:</strong> Contrastó User Stories, Technical Stories y endpoints para evitar que Sprint 3 agregue historias paralelas no alineadas al capítulo III.<br>
+      <strong>TB2:</strong> Revisó la trazabilidad de mejoras del Sprint 4 con los flujos centrales de compras, requisiciones, control logístico y demostración final del producto.<br><br>
       <strong>Castillo Yataco, Mauricio Sebastián</strong><br>
       <strong>AV1:</strong> Diseño de arquitectura, Redacción y documentación del Capítulo V (SCM, Sprint 1).<br>
       <strong>TB1:</strong> Redactó la documentación del Sprint 2 y organizó la planificación de tareas en Jira.<br>
-      <strong>AV2:</strong> Participó en la validación de IAM, Settings, Users & Roles y criterios de permisos por rol para el backend.<br><br>
+      <strong>AV2:</strong> Participó en la validación de IAM, Settings, Users & Roles y criterios de permisos por rol para el backend.<br>
+      <strong>TB2:</strong> Apoyó la revisión de despliegues finales, navegación entre Landing Page y Web Application, y consistencia de nombres de archivos solicitados para TB2.<br><br>
       <strong>Cáceres Pizarro, Albino Florencio</strong><br>
       <strong>AV1:</strong> Análisis de competidores, diagrama de base de datos y artefactos de Needfinding.<br>
       <strong>TB1:</strong> Participó en la resolución de conflictos de ramas (merges) y diseño de filtros del dashboard.<br>
       <strong>AV2:</strong> Apoyó la revisión de evidencias de dashboard, delivery, inventory y reportes para la evaluación heurística AV2.<br>
+      <strong>TB2:</strong> Colaboró en la revisión de artefactos finales, conclusiones, anexos y preparación de contenidos para el video About-the-Team.<br>
     </td>
     <td>
       <strong>AV1:</strong> La planificación de tareas mediante un backlog inicial permitió cumplir con todos los artefactos de Needfinding y Lean UX.<br>
       <strong>TB1:</strong> La migración de tareas hacia Jira y el uso de un framework SPA permitió cumplir con éxito el primer despliegue funcional en Vercel.<br>
       <strong>AV2:</strong> La coordinación por repositorios, ramas feature/release y revisión de endpoints permitió entregar una primera integración real entre frontend, backend, base de datos y despliegue cloud.<br>
+      <strong>TB2:</strong> La revisión final permitió cerrar observaciones previas, ordenar evidencias audiovisuales, preparar el release final, consolidar anexos y reforzar la colaboración documentada en GitHub.<br>
     </td>
   </tr>
 </table>
@@ -3146,6 +3202,141 @@ El Sprint Backlog 3 agrupa las tareas necesarias para construir y desplegar la p
   <p><em>Figura: Network Graph del repositorio evidenciando ramas feature/release y merges hacia main/develop para Sprint 3.</em></p>
 </div>
 
+### 5.2.4. Sprint 4
+
+El Sprint 4 corresponde al release final de Buildline. El equipo RQLS consolidó los productos digitales desplegados, actualizó el informe final, alineó el Landing Page con la comunicación comercial de la startup y organizó las evidencias de cierre del ciclo de vida del proyecto.
+
+#### 5.2.4.1. Sprint Planning 4.
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <thead>
+    <tr><th colspan="2" style="text-align: center;">Sprint Planning Sprint 4</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="2" style="text-align: center;"><strong>Sprint Planning Background</strong></td></tr>
+    <tr><td>Date</td><td>28/06/2026</td></tr>
+    <tr><td>Time</td><td>08:30 p.m.</td></tr>
+    <tr><td>Location</td><td>Discord / WhatsApp</td></tr>
+    <tr><td>Prepared By</td><td>Morales Venegas, David Joel</td></tr>
+    <tr><td>Attendees</td><td>Castillo Yataco, Mauricio Sebastián<br>Morales Venegas, David Joel<br>Paucar Zenteno, Jesús Fernando<br>Viza Quispe, Marlon Packard<br>Cáceres Pizarro, Albino Florencio</td></tr>
+    <tr><td colspan="2" style="text-align: center;"><strong>Sprint 3 Review Summary</strong></td></tr>
+    <tr><td colspan="2">Se presentó una versión integrada de Buildline con Backend Web Services desplegado en Railway, Frontend Web Application desplegado en Vercel, documentación Swagger y evidencias AV2 del proceso de validación. La revisión posterior permitió identificar ajustes de estructura documental, actualización de enlaces audiovisuales y cierre de artefactos finales.</td></tr>
+    <tr><td colspan="2" style="text-align: center;"><strong>Sprint 3 Retrospective Summary</strong></td></tr>
+    <tr><td colspan="2">El equipo acordó mantener la evidencia AV2 como parte del proceso y preparar una capa final orientada a release: informe completo, productos desplegados, video About-the-Product promocional, actualización de Landing Page y espacios para las evidencias finales restantes.</td></tr>
+    <tr><td colspan="2" style="text-align: center;"><strong>Sprint Goal & User Stories</strong></td></tr>
+    <tr><td colspan="2"><strong>Sprint 4 Goal (Outcome-Impact-Customer-Confirmation):</strong><br><br><em>Our focus is on delivering the final Buildline release experience by consolidating the report, updating the Landing Page communication, validating deployed products and preparing final audiovisual evidence.</em><br><br><em>We believe it will communicate Buildline as a complete SaaS startup product, connecting the business model, validated user needs, working software and final deployment evidence.</em><br><br><em>This will be confirmed when the Final Documentation Report includes Sprint 4, updated version registry, Student Outcome, final video links, product URLs and evidence spaces aligned with the assignment statement.</em></td></tr>
+    <tr><td>Sprint 4 Velocity</td><td>13 Story Points</td></tr>
+    <tr><td>Sum of Story Points</td><td>13 Story Points</td></tr>
+  </tbody>
+</table>
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+<table border="1" cellpadding="4" cellspacing="0" align="center">
+  <thead>
+    <tr>
+      <th>Team Member</th>
+      <th>Report Finalization</th>
+      <th>Landing Page Update</th>
+      <th>Frontend Improvements</th>
+      <th>Video Evidence</th>
+      <th>Release QA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Morales Venegas, David Joel</td><td>L</td><td>C</td><td>C</td><td>L</td><td>L</td></tr>
+    <tr><td>Castillo Yataco, Mauricio Sebastián</td><td>C</td><td>L</td><td>C</td><td>C</td><td>C</td></tr>
+    <tr><td>Paucar Zenteno, Jesús Fernando</td><td>C</td><td>C</td><td>L</td><td>C</td><td>C</td></tr>
+    <tr><td>Viza Quispe, Marlon Packard</td><td>C</td><td>C</td><td>C</td><td>C</td><td>L</td></tr>
+    <tr><td>Cáceres Pizarro, Albino Florencio</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
+  </tbody>
+</table>
+
+#### 5.2.4.3. Sprint Backlog 4.
+
+| Sprint # | User Story | Work-Item / Task |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 4 | **US-LP-004** | **T-S4-001** | Update landing navigation | Align top navigation tabs with actual Landing Page sections and product CTAs. | 2h | Castillo Yataco, Mauricio Sebastián | Done |
+| 4 | **US-LP-005** | **T-S4-002** | Add release video area | Add About-the-Product Sprint 4 links and prepare the About-the-Team area in the Landing Page. | 3h | Morales Venegas, David Joel | Done |
+| 4 | **US-FE-009** | **T-S4-003** | Final product review | Review final Frontend Web Application flows, deployment URL and release-facing screens. | 3h | Paucar Zenteno, Jesús Fernando | To Review |
+| 4 | **US-DOC-010** | **T-S4-004** | Update final report | Update version registry, collaboration insights, Student Outcome, Sprint 4, About-the-Product and annex spaces. | 3h | Morales Venegas, David Joel | Done |
+| 4 | **US-REL-004** | **T-S4-005** | Release evidence QA | Review final deployment links, video URLs and evidence routes for the final package. | 2h | Viza Quispe, Marlon Packard | To Review |
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit | Description |
+| :--- | :--- | :--- | :--- |
+| Project Report | `develop` | `a17e411` | Prepared Sprint 4 evidence, final report structure and video references. |
+| Project Report | `develop` | `0e62dfe` | Refined Sprint 4 release scope, preserved AV2 evidence and adjusted final evidence spaces. |
+| Project Report | `develop` | `4c71fc5` | Aligned Sprint 4 with the Sprint Review structure required by the assignment statement. |
+| Landing Page | `main` | `c9f2b94` | Aligned final release navigation and video sections with the deployed Buildline products. |
+| Landing Page | `main` | `374cac2` | Refined platform navigation, final video/contact sections and real product showcase images. |
+| Frontend Web Application | `release/v1.2.0` | `63e42df` | Normalized API adapters and dashboard height for release-facing frontend consistency. |
+| Frontend Web Application | `release/v1.2.0` | `a82c331` | Standardized JavaScript project configuration for the final frontend release. |
+| Frontend Web Application | `release/v1.2.0` | `d55eaed` | Aligned purchase orders route used by the deployed frontend navigation. |
+
+<img src="docs/assets/chapter-05/sprint4-report-commits.png" alt="Sprint 4 Project Report commits evidence" width="90%">
+
+<p><strong>Figura 5.2.4.4.1.</strong> Evidencia de commits del Project Report para el cierre del Sprint 4.</p>
+
+<img src="docs/assets/chapter-05/sprint4-landing-commits.png" alt="Sprint 4 Landing Page commits evidence" width="90%">
+
+<p><strong>Figura 5.2.4.4.2.</strong> Evidencia de commits del Landing Page para navegación, enlaces y sección de videos finales.</p>
+
+<img src="docs/assets/chapter-05/sprint4-frontend-commits.png" alt="Sprint 4 Frontend Web Application commits evidence" width="90%">
+
+<p><strong>Figura 5.2.4.4.3.</strong> Evidencia de commits del Frontend Web Application para mejoras visuales, API y rutas finales.</p>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+| Evidence # | Artifact | Route / URL | Description | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 5.2.4.5.1 | Landing Page execution | `docs/assets/chapter-05/sprint4-landing-video-section.png` | Landing Page mostrando la navegación final, la sección de producto y el acceso al video About-the-Product. | Done |
+| 5.2.4.5.2 | Frontend Web Application execution | `docs/assets/chapter-05/sprint4-frontend-release-review.png` | Web Application desplegada para revisión final de los flujos principales. | Done |
+
+<img src="docs/assets/chapter-05/sprint4-landing-video-section.png" alt="Sprint 4 Landing Page execution evidence" width="90%">
+
+<p><strong>Figura 5.2.4.5.1.</strong> Ejecución del Landing Page final con sección de producto y acceso al video About-the-Product.</p>
+
+<img src="docs/assets/chapter-05/sprint4-frontend-release-review.png" alt="Sprint 4 Frontend Web Application execution evidence" width="90%">
+
+<p><strong>Figura 5.2.4.5.2.</strong> Ejecución del Frontend Web Application final.</p>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4 no se incorporaron nuevos Web Services ni cambios de contrato en la API. El equipo mantuvo vigente la documentación de servicios consolidada en Sprint 3 y concentró el cierre en validar que el Backend desplegado siga disponible para la experiencia final del producto.
+
+| Evidence # | Artifact | Route / URL | Description | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 5.2.4.6.1 | Services documentation continuity | [https://buildline-platform.up.railway.app/swagger/index.html](https://buildline-platform.up.railway.app/swagger/index.html) | Contrato OpenAPI vigente del backend desplegado, sin cambios funcionales nuevos en Sprint 4. | No new changes |
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+| Digital Product | Platform | URL | Status |
+| :--- | :--- | :--- | :--- |
+| Landing Page | Vercel | [https://landing-page-bay-iota.vercel.app/](https://landing-page-bay-iota.vercel.app/) | Deployed |
+| Frontend Web Application | Vercel | [https://buildline-delta.vercel.app/](https://buildline-delta.vercel.app/) | Deployed |
+| Backend Web Services | Railway | [https://buildline-platform.up.railway.app/swagger/index.html](https://buildline-platform.up.railway.app/swagger/index.html) | Deployed |
+
+<img src="docs/assets/chapter-05/sprint4-final-deployments.png" alt="Sprint 4 final deployments evidence" width="90%">
+
+<p><strong>Figura 5.2.4.7.1.</strong> Evidencia general de productos digitales desplegados para el release final.</p>
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, el equipo trabajó en el cierre final del release. La coordinación se concentró en mantener consistencia entre el informe, los productos desplegados, los videos de presentación, los anexos y la narrativa de Buildline como startup SaaS para gestión logística en construcción.
+
+| Collaboration Focus | Result |
+| :--- | :--- |
+| Final documentation | Registro de versiones, Collaboration Insights, Student Outcome, Sprint 4, conclusiones, bibliografía y anexos actualizados para el cierre del proyecto. |
+| Product communication | Landing Page alineada con secciones reales y video About-the-Product Sprint 4 incorporado como material promocional. |
+| Release validation | URLs finales de Landing Page, Frontend Web Application y Backend Web Services organizadas como evidencia de productos digitales desplegados. |
+| Evidence management | Evidencias AV2 preservadas como parte del proceso y espacios finales añadidos después para el cierre del release. |
+
+<img src="docs/assets/chapter-05/sprint4-collaboration-insights.png" alt="Sprint 4 team collaboration insights evidence" width="90%">
+
+<p><strong>Figura 5.2.4.8.1.</strong> Evidencia de colaboración del equipo durante Sprint 4 mediante actividad en GitHub.</p>
+
 ## 5.3. Validation Interviews
 
 La validación del producto se orienta a comprobar que la primera versión integrada de Buildline mantiene coherencia entre la propuesta de valor, la navegación del frontend y los Web Services desplegados. Las entrevistas se ejecutan con usuarios cercanos a los segmentos definidos en capítulos anteriores: jefes de proyecto, residentes de obra, responsables logísticos y administradores de MYPE constructora.
@@ -3465,19 +3656,25 @@ El hallazgo fue incorporado como ajuste de backlog. La versión revisada documen
 
 ## 5.4. Video About-the-Product
 
-La primera versión del Video About-the-Product debe presentar el problema logístico de las MYPES constructoras, la propuesta de valor de Buildline, la navegación por el frontend desplegado, el consumo del backend real y los flujos críticos del Sprint 3.
+La sección Video About-the-Product registra la versión final preparada para el cierre del proyecto. Este material tiene orientación promocional y resume el modelo de negocio, las características y los beneficios de Buildline para visitantes del Landing Page.
 
 | Elemento | Contenido del entregable |
 | :--- | :--- |
 | Título | Buildline - Digital Construction Logistics |
-| Duración | 4 minutos |
-| Nombre del archivo | `upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-3.mp4` |
-| URL Microsoft Stream | [upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b504_upc_edu_pe/IQA8qIsT7zqFSbgzB5JiRyPyAVb93hMYJuWgVr-72S3tRpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MMcSdc) |
-| URL YouTube | [upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-3.mp4](https://youtu.be/6BcWWI_7CdY) |
-| Producto mostrado | Landing Page, Frontend Web Application y Backend Swagger desplegado |
-| Flujo mínimo | Sign-in, dashboard, requisición, orden de compra, entrega, proveedor, presupuesto, users & roles |
+| Orientación | Promocional, enfocada en modelo de negocio SaaS, beneficios, características principales y percepción de usuarios validados. |
+| Nombre del archivo | `upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-4.mp4` |
+| URL Microsoft Stream | [upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-4.mp4](https://1drv.ms/v/c/bb1bb7d896cb1613/IQB0-K_st5KkTIcS3J7TRoJ0AQgHG5WJFIZH-J3wsbwuAus?e=dr7d0R) |
+| URL YouTube | [upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-4.mp4](https://youtu.be/R-ERj2On3jM) |
+| Producto mostrado | Landing Page final, Frontend Web Application desplegado y principales pantallas del flujo logístico. |
+| Segmentos objetivo representados | Jefes de proyecto / gerentes y residentes de obra / personal operativo, mediante opiniones positivas derivadas de las entrevistas de validación. |
 
-<p>El video presenta el problema de sobrecostos y falta de trazabilidad en MYPES constructoras, explica la propuesta de valor de Buildline y muestra la navegación por los flujos principales del producto desplegado. La demostración incluye autenticación, dashboard, requisiciones, órdenes de compra, tracking de entregas, proveedores, presupuesto y evidencia de servicios documentados en Swagger.</p>
+<p>La versión Sprint 4 del video About-the-Product resume el modelo de negocio de Buildline como una solución SaaS para MYPES constructoras que requieren trazabilidad logística, control presupuestal, seguimiento de compras y coordinación entre obra y oficina. El video tiene orientación promocional y conecta el dolor identificado en la investigación con beneficios concretos: reducción de información dispersa, visibilidad de requisiciones, comparación de cotizaciones, tracking de entregas, control de proveedores y alertas presupuestales.</p>
+
+<p>El material incluye escenas de interacción con el producto y opiniones positivas vinculadas a los segmentos objetivo validados. Para el segmento de jefes de proyecto / gerentes, se enfatiza la utilidad de centralizar compras, presupuesto y proveedores. Para el segmento operativo/residente, se destaca la rapidez para registrar requisiciones, consultar estados y reducir errores de comunicación desde obra.</p>
+
+<img src="docs/assets/chapter-05/about-the-product-sprint-4-screenshot.png" alt="About-the-Product Sprint 4 video screenshot" width="90%">
+
+<p><strong>Figura 5.4.1.</strong> Captura del video About-the-Product final.</p>
 
 # Capítulo VI: Conclusions
 ## 6.1. Conclusiones y recomendaciones
@@ -3532,11 +3729,27 @@ La primera versión del Video About-the-Product debe presentar el problema logí
 
 ## 6.2. Video About-the-Team
 
+### 6.2.1. About-the-Team Sprint 3 - Evidencia AV2
+
 | Elemento | Contenido del entregable |
 | :--- | :--- |
 | Nombre del archivo | `upc-pre-202610-1asi0730-12158-rqls-about-the-team-sprint-3.mp4` |
 | URL Microsoft Stream | [upc-pre-202610-1asi0730-12158-rqls-about-the-team-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322849_upc_edu_pe/IQDF7K3vlirDQ646tUd9EOfEAfiul9zMXnKiQsSu7htxW2k?e=jakAph&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | URL YouTube | [upc-pre-202610-1asi0730-12158-rqls-about-the-team-sprint-3.mp4](https://youtu.be/sqylf0zKJzg) |
+| Contenido | Primera versión del video de equipo presentada en AV2, con testimonios de integrantes sobre actividades realizadas y colaboración durante el ciclo de implementación. |
+
+### 6.2.2. About-the-Team Sprint 4 - Versión final
+
+| Elemento | Contenido del entregable |
+| :--- | :--- |
+| Nombre del archivo | `upc-pre-202610-1asi0730-12158-rqls-about-the-team-sprint-4.mp4` |
+| URL Microsoft Stream | [pending content] |
+| URL YouTube | [pending content] |
+| Contenido | Retrospectiva del proceso de trabajo, escenas de colaboración real y testimonio ante cámara de cada integrante sobre actividades realizadas, logro de Student Outcome y competencias alcanzadas. |
+
+<img src="docs/assets/chapter-06/about-the-team-sprint-4-screenshot.png" alt="About-the-Team Sprint 4 video screenshot" width="90%">
+
+<p><strong>Figura 6.2.2.1.</strong> Captura del video About-the-Team Sprint 4.</p>
 
 # Bibliografía
 <ul>
@@ -3719,3 +3932,4 @@ La primera versión del Video About-the-Product debe presentar el problema logí
 | AV1 | `upc-pre-202610-1asi0730-12158-rqls-expo-av1.mp4` | [Ver exposición AV1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113229_upc_edu_pe/IQB1dGiVxpVzQpCrk-JNZCiwAXMUMt9tIxG2-cljg-YwNTk?e=CcziaK) |
 | TB1 | `upc-pre-202610-1asi0730-12158-rqls-expo-tb1.mp4` | [Ver exposición TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b504_upc_edu_pe/IQBLUu9vWVt9S6xhFOjp0huLAdf4LFv2ZhcqrG-Vp0_onUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oLRasR) |
 | AV2 | `upc-pre-202610-1asi0730-12158-rqls-expo-av2.mp4` | [Ver exposición AV2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b504_upc_edu_pe/IQBIjy7RPb3JSoedUsEyYEUoAf_VNPF6-wIk9pxxikg5ktE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=A8PdMo) |
+| TB2 | `upc-pre-202610-1asi0730-12158-rqls-expo-tb2.mp4` | [pending content] |
