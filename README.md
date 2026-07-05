@@ -84,6 +84,7 @@
 | 3.0.0 | 20/06/2026 | Mauricio Sebastián Castillo Yataco, David Joel Morales Venegas, Jesús Fernando Paucar Zenteno, Marlon Packard Viza Quispe, Albino Florencio Cáceres Pizarro | Entrega AV2 - Sprint Review Semana 12 con Landing Page actualizada, Frontend desplegado, primera versión de Backend Web Services en Railway, Swagger, Sprint 3, Validation Interviews, Video About-the-Product y Video About-the-Team |
 | 4.0.0 | 04/07/2026 | Mauricio Sebastián Castillo Yataco, David Joel Morales Venegas, Jesús Fernando Paucar Zenteno, Marlon Packard Viza Quispe, Albino Florencio Cáceres Pizarro | Entrega TB2 - Release Review Semana 15 con versión final del informe, Sprint 4, mejoras del Frontend Web Application, actualización de Landing Page, video About-the-Product promocional y preparación de evidencias finales |
 | 4.0.1 | 04/07/2026 | Mauricio Sebastián Castillo Yataco, David Joel Morales Venegas, Jesús Fernando Paucar Zenteno, Marlon Packard Viza Quispe, Albino Florencio Cáceres Pizarro | Ajuste de estructura final TB2, refinamiento de Sprint 4, preservación de evidencias AV2 y actualización de espacios para evidencias finales del release |
+| 4.0.2 | 04/07/2026 | Mauricio Sebastián Castillo Yataco, David Joel Morales Venegas, Jesús Fernando Paucar Zenteno, Marlon Packard Viza Quispe, Albino Florencio Cáceres Pizarro | Corrección de estructura Sprint 4 según formato de Sprint Review, simplificación del Video About-the-Product final y ajuste de evidencias no repetidas |
 
 <div style="page-break-after: always;"></div>
 
@@ -172,15 +173,16 @@ La coordinación se realizó sobre los repositorios de Project Report, Landing P
             - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
             - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
             - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
-            - [5.2.4.4. Final Release Evidence](#5244-final-release-evidence)
-            - [5.2.4.5. Team Collaboration Insights during Sprint](#5245-team-collaboration-insights-during-sprint)
+            - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+            - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+            - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+            - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+            - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
     - [5.3. Validation Interviews](#53-validation-interviews)
         - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
         - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
         - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
     - [5.4. Video About-the-Product](#54-video-about-the-product)
-        - [5.4.1. About-the-Product Sprint 3 - Evidencia AV2](#541-about-the-product-sprint-3---evidencia-av2)
-        - [5.4.2. About-the-Product Sprint 4 - Versión promocional TB2](#542-about-the-product-sprint-4---versión-promocional-tb2)
 
 - [Capítulo VI: Conclusions](#capítulo-vi-conclusions)
     - [6.1. Conclusiones y recomendaciones](#61-conclusiones-y-recomendaciones)
@@ -3238,46 +3240,64 @@ El Sprint 4 corresponde al release final de Buildline para la entrega TB2. El eq
 | 4 | **US-DOC-010** | **T-S4-004** | Update final report | Update version registry, collaboration insights, Student Outcome, Sprint 4, About-the-Product and annex spaces. | 3h | Morales Venegas, David Joel | Done |
 | 4 | **US-REL-004** | **T-S4-005** | Release evidence QA | Review final deployment links, video URLs and evidence routes for the TB2 package. | 2h | Viza Quispe, Marlon Packard | To Review |
 
-#### 5.2.4.4. Final Release Evidence
+#### 5.2.4.4. Development Evidence for Sprint Review
 
 | Evidence # | Artifact | Route / URL | Description | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| 5.2.4.4.1 | Landing Page final navigation and videos | `docs/assets/chapter-05/sprint4-landing-video-section.png` | Landing Page with real navigation sections and Sprint 4 About-the-Product video area. | [pending content] |
-| 5.2.4.4.2 | Frontend Web Application final release | `docs/assets/chapter-05/sprint4-frontend-release-review.png` | Final deployed Web Application showing release-facing screens and corrected navigation to production flows. | [pending content] |
-| 5.2.4.4.3 | Backend Web Services final availability | `docs/assets/chapter-05/sprint4-backend-swagger-release.png` | Swagger/OpenAPI final availability for the backend service deployed in Railway. | [pending content] |
-| 5.2.4.4.4 | Final deployment overview | `docs/assets/chapter-05/sprint4-final-deployments.png` | Final deployed digital products: Landing Page, Frontend Web Application and Backend Web Services. | [pending content] |
-
-| Digital Product | Platform | URL |
-| :--- | :--- | :--- |
-| Landing Page | Vercel | [https://landing-page-bay-iota.vercel.app/](https://landing-page-bay-iota.vercel.app/) |
-| Frontend Web Application | Vercel | [https://buildline-delta.vercel.app/](https://buildline-delta.vercel.app/) |
-| Backend Web Services | Railway | [https://buildline-platform.up.railway.app/swagger/index.html](https://buildline-platform.up.railway.app/swagger/index.html) |
-
-**Ruta de evidencia:** `docs/assets/chapter-05/sprint4-landing-video-section.png`
+| 5.2.4.4.1 | Project Report TB2 update | `docs/assets/chapter-05/sprint4-report-development.png` | Actualización del informe final con Registro de Versiones, Collaboration Insights, Student Outcome, Sprint 4, Video About-the-Product y Anexos. | [pending content] |
+| 5.2.4.4.2 | Landing Page final update | `docs/assets/chapter-05/sprint4-landing-development.png` | Actualización del Landing Page con navegación alineada a secciones reales y espacio de videos finales. | [pending content] |
+| 5.2.4.4.3 | Final Frontend review | `docs/assets/chapter-05/sprint4-frontend-development.png` | Revisión de la Web Application desplegada y de los flujos principales presentados para el release final. | [pending content] |
 
 [pending content]
 
-<p><strong>Figura 5.2.4.4.1.</strong> Landing Page final con navegación alineada a secciones reales y área de video Sprint 4.</p>
-
-**Ruta de evidencia:** `docs/assets/chapter-05/sprint4-frontend-release-review.png`
+<p><strong>Figura 5.2.4.4.1.</strong> Evidencia de desarrollo del informe final TB2.</p>
 
 [pending content]
 
-<p><strong>Figura 5.2.4.4.2.</strong> Frontend Web Application final desplegado para revisión release.</p>
-
-**Ruta de evidencia:** `docs/assets/chapter-05/sprint4-backend-swagger-release.png`
+<p><strong>Figura 5.2.4.4.2.</strong> Evidencia de actualización del Landing Page final.</p>
 
 [pending content]
 
-<p><strong>Figura 5.2.4.4.3.</strong> Backend Web Services final disponible mediante Swagger/OpenAPI.</p>
+<p><strong>Figura 5.2.4.4.3.</strong> Evidencia de revisión del Frontend Web Application final.</p>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+| Evidence # | Artifact | Route / URL | Description | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 5.2.4.5.1 | Landing Page execution | `docs/assets/chapter-05/sprint4-landing-video-section.png` | Landing Page mostrando la navegación final y el acceso al video About-the-Product. | [pending content] |
+| 5.2.4.5.2 | Frontend Web Application execution | `docs/assets/chapter-05/sprint4-frontend-release-review.png` | Web Application desplegada para revisión final de flujos principales. | [pending content] |
+
+[pending content]
+
+<p><strong>Figura 5.2.4.5.1.</strong> Ejecución del Landing Page final con video de producto.</p>
+
+[pending content]
+
+<p><strong>Figura 5.2.4.5.2.</strong> Ejecución del Frontend Web Application final.</p>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4 no se incorporaron nuevos Web Services ni cambios de contrato en la API. La documentación de servicios corresponde a la evidencia consolidada en Sprint 3; para TB2 se mantiene como referencia de producto desplegado y se prioriza la evidencia final de Landing Page, Frontend Web Application e informe.
+
+| Evidence # | Artifact | Route / URL | Description | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 5.2.4.6.1 | Services documentation continuity | [https://buildline-platform.up.railway.app/swagger/index.html](https://buildline-platform.up.railway.app/swagger/index.html) | Contrato OpenAPI vigente del backend desplegado, sin cambios funcionales nuevos en Sprint 4. | No new changes |
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+| Digital Product | Platform | URL | Status |
+| :--- | :--- | :--- | :--- |
+| Landing Page | Vercel | [https://landing-page-bay-iota.vercel.app/](https://landing-page-bay-iota.vercel.app/) | Deployed |
+| Frontend Web Application | Vercel | [https://buildline-delta.vercel.app/](https://buildline-delta.vercel.app/) | Deployed |
+| Backend Web Services | Railway | [https://buildline-platform.up.railway.app/swagger/index.html](https://buildline-platform.up.railway.app/swagger/index.html) | Deployed |
 
 **Ruta de evidencia:** `docs/assets/chapter-05/sprint4-final-deployments.png`
 
 [pending content]
 
-<p><strong>Figura 5.2.4.4.4.</strong> Evidencia general de productos digitales desplegados para TB2.</p>
+<p><strong>Figura 5.2.4.7.1.</strong> Evidencia general de productos digitales desplegados para TB2.</p>
 
-#### 5.2.4.5. Team Collaboration Insights during Sprint
+#### 5.2.4.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 4, el equipo trabajó en el cierre final del release. La coordinación se concentró en mantener consistencia entre el informe, los productos desplegados, los videos de presentación, los anexos y la narrativa de Buildline como startup SaaS para gestión logística en construcción.
 
@@ -3651,28 +3671,7 @@ El hallazgo fue incorporado como ajuste de backlog. La versión revisada documen
 
 ## 5.4. Video About-the-Product
 
-La sección Video About-the-Product conserva la evidencia audiovisual presentada en AV2 y registra la versión final preparada para TB2. La evidencia Sprint 3 muestra la integración técnica del producto, mientras que la versión Sprint 4 presenta Buildline con orientación promocional para visitantes del Landing Page.
-
-### 5.4.1. About-the-Product Sprint 3 - Evidencia AV2
-
-| Elemento | Contenido del entregable |
-| :--- | :--- |
-| Título | Buildline - Digital Construction Logistics |
-| Duración | 4 minutos |
-| Nombre del archivo | `upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-3.mp4` |
-| URL Microsoft Stream | [upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b504_upc_edu_pe/IQA8qIsT7zqFSbgzB5JiRyPyAVb93hMYJuWgVr-72S3tRpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MMcSdc) |
-| URL YouTube | [upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-3.mp4](https://youtu.be/6BcWWI_7CdY) |
-| Producto mostrado | Landing Page, Frontend Web Application y Backend Swagger desplegado |
-| Flujo mínimo | Sign-in, dashboard, requisición, orden de compra, entrega, proveedor, presupuesto, users & roles |
-
-<p>El video Sprint 3 presenta el problema de sobrecostos y falta de trazabilidad en MYPES constructoras, explica la propuesta de valor de Buildline y muestra la navegación por los flujos principales del producto desplegado. La demostración incluye autenticación, dashboard, requisiciones, órdenes de compra, tracking de entregas, proveedores, presupuesto y evidencia de servicios documentados en Swagger.</p>
-
-<div align="center">
-  <img src="docs/assets/chapter-05/video-screenshot.png" alt="Screenshot del video About-the-Product Sprint 3" width="80%">
-  <p><em>Figura: Evidencia visual del video About-the-Product Sprint 3 usado como demostración técnica de producto integrado.</em></p>
-</div>
-
-### 5.4.2. About-the-Product Sprint 4 - Versión promocional TB2
+La sección Video About-the-Product registra la versión final preparada para TB2. Este material tiene orientación promocional y resume el modelo de negocio, las características y los beneficios de Buildline para visitantes del Landing Page.
 
 | Elemento | Contenido del entregable |
 | :--- | :--- |
@@ -3689,7 +3688,7 @@ La sección Video About-the-Product conserva la evidencia audiovisual presentada
 
 <p>El material incluye escenas de interacción con el producto y opiniones positivas vinculadas a los segmentos objetivo validados. Para el segmento de jefes de proyecto / gerentes, se enfatiza la utilidad de centralizar compras, presupuesto y proveedores. Para el segmento operativo/residente, se destaca la rapidez para registrar requisiciones, consultar estados y reducir errores de comunicación desde obra.</p>
 
-<p><strong>Figura 5.4.2.1.</strong> Captura del video About-the-Product Sprint 4.</p>
+<p><strong>Figura 5.4.1.</strong> Captura del video About-the-Product final.</p>
 
 [pending content]
 
