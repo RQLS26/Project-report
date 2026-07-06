@@ -3746,8 +3746,8 @@ La sección Video About-the-Product registra la versión final preparada para el
 | Elemento | Contenido del entregable |
 | :--- | :--- |
 | Nombre del archivo | `upc-pre-202610-1asi0730-12158-rqls-about-the-team.mp4` |
-| URL Microsoft Stream | [pending content] |
-| URL YouTube | [pending content] |
+| URL Microsoft Stream | [upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-4.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322849_upc_edu_pe/IQBzNM8FSFOyRZSlCoVkFZZoAb0oY1uXifPPJcMjMc1KVpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UPxMw8) |
+| URL YouTube | [upc-pre-202610-1asi0730-12158-rqls-about-the-product-sprint-4.mp4](https://youtu.be/vKJUMuKx2R0) |
 | Contenido | Retrospectiva del proceso de trabajo, escenas de colaboración real y testimonio ante cámara de cada integrante sobre actividades realizadas, logro de Student Outcome y competencias alcanzadas. |
 
 <p align="center">
@@ -3937,4 +3937,4 @@ La sección Video About-the-Product registra la versión final preparada para el
 | AV1 | `upc-pre-202610-1asi0730-12158-rqls-expo-av1.mp4` | [Ver exposición AV1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113229_upc_edu_pe/IQB1dGiVxpVzQpCrk-JNZCiwAXMUMt9tIxG2-cljg-YwNTk?e=CcziaK) |
 | TB1 | `upc-pre-202610-1asi0730-12158-rqls-expo-tb1.mp4` | [Ver exposición TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b504_upc_edu_pe/IQBLUu9vWVt9S6xhFOjp0huLAdf4LFv2ZhcqrG-Vp0_onUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oLRasR) |
 | AV2 | `upc-pre-202610-1asi0730-12158-rqls-expo-av2.mp4` | [Ver exposición AV2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b504_upc_edu_pe/IQBIjy7RPb3JSoedUsEyYEUoAf_VNPF6-wIk9pxxikg5ktE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=A8PdMo) |
-| TB2 | `upc-pre-202610-1asi0730-12158-rqls-expo-tb2.mp4` | [pending content] |
+| TB2 | `upc-pre-202610-1asi0730-12158-rqls-expo-tb2.mp4` |  [Ver exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202322849_upc_edu_pe/IQCw51Imvq2MTI0dzxAY0soYATSuTP1gS5zYvwtKf_fdAHU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Jf4o04) |
